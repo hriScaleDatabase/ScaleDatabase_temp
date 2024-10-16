@@ -1,0 +1,23 @@
+---
+---
+/* https://tomkadwill.com/2017/12/16/how-to-override-css-styles-in-jekyll.html */
+/* the triple lines at the top override the default css file (in our case main.css) */
+@import "minima"; /* importing minima results in the same theme, since that's what we were using by default */
+
+/* however, now what we can do is put our own css in here and modify what the minima theme was doing */
+
+
+.wrapper {
+	/* the max-width variable is creating the huge swath of space to either side */
+	max-width: 100%;
+	margin-left: 15%; /* eyeballing these */
+	margin-right: 15%;
+}
+
+.site-header {
+	position: sticky;
+	top: 0; /* Stick to the top of the viewport */
+	z-index: 100; /* Ensure it stays on top of other content */
+	background-color: white;
+    opacity: 1; 
+}

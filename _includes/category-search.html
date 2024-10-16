@@ -1,0 +1,40 @@
+<!-- _includes/category-search.html -->
+<form id="category-search-form">
+    <select id="category-select">
+      <option value="">Select a category</option>
+      <option value="trust">trust</option>
+      <!-- Add more options as needed -->
+    </select>
+    <input type="submit" value="Search">
+  </form>
+  
+  <div id="search-results"></div>
+  
+  <script>
+    document.getElementById('category-search-form').addEventListener('submit', function(e) {
+      e.preventDefault();
+      const selectedCategory = document.getElementById('category-select').value;
+      const posts = { site.posts | jsonify };
+      const resultsContainer = document.getElementById('search-results');
+      resultsContainer.innerHTML = '';
+  
+      if (selectedCategory) {
+        const filteredPosts = posts.filter(post => post.categories.includes(selectedCategory));
+        if (filteredPosts.length > 0) {
+          filteredPosts.forEach(post => {
+            const postElement = document.createElement('div');
+            postElement.classList.add('post');
+            postElement.innerHTML = `
+              <h2><a href="${post.url}">${post.title}</a></h2>
+              <p>${post.excerpt}</p>
+            `;
+            resultsContainer.appendChild(postElement);
+          });
+        } else {
+          resultsContainer.innerHTML = '<p>No posts found for this category.</p>';
+        }
+      } else {
+        resultsContainer.innerHTML = '<p>Please select a category.</p>';
+      }
+    });
+  </script>
