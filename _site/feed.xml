@@ -1,0 +1,819 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2024-10-16T12:33:34-04:00</updated><id>/feed.xml</id><title type="html">Finding the “Perfect” Scale</title><subtitle>A database developed to help you find the &quot;perfect&quot; scale for your research.</subtitle><entry><title type="html">Welcome to Jekyll!</title><link href="/jekyll/update/2024/10/16/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2024-10-16T06:42:37-04:00</published><updated>2024-10-16T06:42:37-04:00</updated><id>/jekyll/update/2024/10/16/welcome-to-jekyll</id><content type="html" xml:base="/jekyll/update/2024/10/16/welcome-to-jekyll.html"><![CDATA[<p>You’ll find this post in your <code class="language-plaintext highlighter-rouge">_posts</code> directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run <code class="language-plaintext highlighter-rouge">jekyll serve</code>, which launches a web server and auto-regenerates your site when a file is updated.</p>
+
+<p>Jekyll requires blog post files to be named according to the following format:</p>
+
+<p><code class="language-plaintext highlighter-rouge">YEAR-MONTH-DAY-title.MARKUP</code></p>
+
+<p>Where <code class="language-plaintext highlighter-rouge">YEAR</code> is a four-digit number, <code class="language-plaintext highlighter-rouge">MONTH</code> and <code class="language-plaintext highlighter-rouge">DAY</code> are both two-digit numbers, and <code class="language-plaintext highlighter-rouge">MARKUP</code> is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.</p>
+
+<p>Jekyll also offers powerful support for code snippets:</p>
+
+<figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="k">def</span> <span class="nf">print_hi</span><span class="p">(</span><span class="nb">name</span><span class="p">)</span>
+  <span class="nb">puts</span> <span class="s2">"Hi, </span><span class="si">#{</span><span class="nb">name</span><span class="si">}</span><span class="s2">"</span>
+<span class="k">end</span>
+<span class="n">print_hi</span><span class="p">(</span><span class="s1">'Tom'</span><span class="p">)</span>
+<span class="c1">#=&gt; prints 'Hi, Tom' to STDOUT.</span></code></pre></figure>
+
+<p>Check out the <a href="https://jekyllrb.com/docs/home">Jekyll docs</a> for more info on how to get the most out of Jekyll. File all bugs/feature requests at <a href="https://github.com/jekyll/jekyll">Jekyll’s GitHub repo</a>. If you have questions, you can ask them on <a href="https://talk.jekyllrb.com/">Jekyll Talk</a>.</p>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.]]></summary></entry><entry><title type="html">Glossary</title><link href="/2024/10/09/glossary.html" rel="alternate" type="text/html" title="Glossary" /><published>2024-10-09T00:00:00-04:00</published><updated>2024-10-09T00:00:00-04:00</updated><id>/2024/10/09/glossary</id><content type="html" xml:base="/2024/10/09/glossary.html"><![CDATA[<h1 id="classical-test-theory">Classical Test Theory</h1>
+
+<h1 id="construct">Construct</h1>
+
+<h1 id="concurrent-validity">Concurrent Validity</h1>
+
+<h1 id="construct-validity">Construct Validity</h1>
+
+<h1 id="convergent-validity">Convergent Validity</h1>
+
+<h1 id="criterion-validity">Criterion Validity</h1>
+
+<h1 id="custom-scale">Custom Scale</h1>
+
+<h1 id="dimension">Dimension</h1>
+
+<h1 id="discriminant-validity">Discriminant Validity</h1>
+
+<h1 id="domain">Domain</h1>
+
+<h1 id="factor">Factor</h1>
+
+<h1 id="item">Item</h1>
+
+<h1 id="item-response-theory">Item Response Theory</h1>
+
+<h1 id="latent-variable">Latent variable</h1>
+
+<h1 id="predictive-validity">Predictive Validity</h1>
+
+<h1 id="psychometrics">Psychometrics</h1>
+
+<h1 id="rasch">Rasch</h1>
+
+<h1 id="reliability">Reliability</h1>
+
+<h1 id="scale">Scale</h1>
+
+<h1 id="subscale">Subscale</h1>]]></content><author><name></name></author><summary type="html"><![CDATA[Classical Test Theory]]></summary></entry><entry><title type="html">Negative Attitudes Towards Robots Scale</title><link href="/attitudes/2024/07/02/NARS.html" rel="alternate" type="text/html" title="Negative Attitudes Towards Robots Scale" /><published>2024-07-02T00:00:00-04:00</published><updated>2024-07-02T00:00:00-04:00</updated><id>/attitudes/2024/07/02/NARS</id><content type="html" xml:base="/attitudes/2024/07/02/NARS.html"><![CDATA[<p><strong>NOTE: THIS IS NOT THE LATEST VERSION OF THIS SCALE.</strong></p>
+
+<h1 id="construct-summary">Construct Summary</h1>
+
+<p>The authors define the construct of negative attitudes towards robots as follows:</p>
+
+<blockquote>
+  <p>“In considering negative attitudes toward robots, we need to take into account two psychological constructs related to it, which will be components of negative attitudes toward robots. One is the computer anxiety mentioned above, and the other is communication apprehension.” (p 440)</p>
+</blockquote>
+
+<p>They define computer anxiety as follows:</p>
+
+<blockquote>
+  <p>“…considered to be anxiety or apprehension evoked in individuals when they use computers, do things leading them to computers, or think about the meaning of computers.” (p. 440)</p>
+</blockquote>
+
+<p>They define communication apprehension as follows:</p>
+
+<blockquote>
+  <p>“…as a level of fear or anxiety in individuals toward real communication with another or others and prediction of it, such as speech, writing, singing, and so on.” (p. 441)</p>
+</blockquote>
+
+<p>The authors define attitudes as follows:</p>
+
+<blockquote>
+  <p>“It is defined as a relatively stable and enduring predisposition to behave or react in a certain way toward persons, objects, institutions, or issues, and the source is cultural, familial, and personal.” (p. 440)</p>
+</blockquote>
+
+<h1 id="rating--tbd">Rating = TBD%</h1>
+
+<p>The values below are not correct - need Jackie to include updated version with new scale items.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Check?</th>
+      <th>Guideline Item</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>&#10003;</td>
+      <td>Is the construct defined?</td>
+    </tr>
+    <tr>
+      <td>&#10003;</td>
+      <td>Does the final version of the items capture the construct as it has been defined by the authors?</td>
+    </tr>
+    <tr>
+      <td>&#10003;</td>
+      <td>Is the item generation process discussed (e.g., literature review, Delphi method, crowd-sourcing)?</td>
+    </tr>
+    <tr>
+      <td>&#10003;</td>
+      <td>Person to items 10:1 for the initial set of items?</td>
+    </tr>
+    <tr>
+      <td>&#10003;</td>
+      <td>Did they perform an EFA, PCA, Rasch, or similar test to determine the item to factor relationship?</td>
+    </tr>
+    <tr>
+      <td style="color: red;">&#10006;</td>
+      <td>Did they describe how they determined number of factors?</td>
+    </tr>
+    <tr>
+      <td style="color: red;">&#10006;</td>
+      <td>Did they report the full initial set of items?</td>
+    </tr>
+    <tr>
+      <td style="color: red;">&#10006;</td>
+      <td>Did they provide loadings (EFA) or item fits (Rasch) of all items?</td>
+    </tr>
+    <tr>
+      <td style="color: red;">&#10006;</td>
+      <td>Is there a description of the item removal process (e.g., using infit/outfit, factor loading minimum value, or cross-loading values)?</td>
+    </tr>
+    <tr>
+      <td>&#10003;</td>
+      <td>Did they list the final number of items included in the scale?</td>
+    </tr>
+    <tr>
+      <td>&#10003;</td>
+      <td>Did they include a factor structure test (e.g., second EFA, CFA, DIF, test for unidimensionality when using Rasch, or similar)?</td>
+    </tr>
+    <tr>
+      <td>&#10003;</td>
+      <td>Was a measure of reliability (e.g., Cronbach’s alpha, McDonalds Omega_h or Omega_t, Tarkkonen’s Rho) reported?</td>
+    </tr>
+    <tr>
+      <td style="color: red;">&#10006;</td>
+      <td>Was a test of validity (e.g., predictive, concurrent, convergent, discriminant) reported?</td>
+    </tr>
+  </tbody>
+</table>
+
+<p><strong>Comments</strong>
+None</p>
+
+<h1 id="reviewed-by-experts-">Reviewed by Experts ✓</h1>
+
+<h1 id="downloads">Downloads</h1>
+<p><a href="https://www.jbe-platform.com/content/journals/10.1075/is.7.3.14nom" target="_blank">PAPER</a>
+<br />Nomura, T., Suzuki, T., Kanda, T., &amp; Kato, K. (2006). Measurement of negative attitudes toward robots. Interaction Studies. Social Behaviour and Communication in Biological and Artificial Systems, 7(3), 437-454.</p>
+
+<p><br />PDF of scale as well as instructions for administration and scoring are not readily available. Check the paper for more details or click <a href="/2024/06/20/submitScale.html">here</a> to submit this information if you are the author of this scale.</p>
+
+<h1 id="final-scale-items-tbd">Final Scale Items (TBD):</h1>
+
+<p>TBD</p>]]></content><author><name></name></author><category term="attitudes" /><summary type="html"><![CDATA[NOTE: THIS IS NOT THE LATEST VERSION OF THIS SCALE.]]></summary></entry><entry><title type="html">Submit Your Scale For Review</title><link href="/2024/06/20/submitScale.html" rel="alternate" type="text/html" title="Submit Your Scale For Review" /><published>2024-06-20T11:00:41-04:00</published><updated>2024-06-20T11:00:41-04:00</updated><id>/2024/06/20/submitScale</id><content type="html" xml:base="/2024/06/20/submitScale.html"><![CDATA[<p>Please send us a copy of your scale. Make sure to include the final version of the items on a separate page as well as instructions for administration and scoring.</p>
+
+<form action="https://formspree.io/your-email@example.com" method="POST">
+    <label>
+        Your email:
+        <input type="email" name="_replyto" />
+    </label>
+    <label>
+        Your scale information:
+        <textarea name="message"></textarea>
+    </label>
+    <button type="submit">Send</button>
+</form>]]></content><author><name></name></author><summary type="html"><![CDATA[Please send us a copy of your scale. Make sure to include the final version of the items on a separate page as well as instructions for administration and scoring.]]></summary></entry><entry><title type="html">EmCorp Scale</title><link href="/perceived%20embodiment/2024/06/13/emcorphoffmann.html" rel="alternate" type="text/html" title="EmCorp Scale" /><published>2024-06-13T00:00:00-04:00</published><updated>2024-06-13T00:00:00-04:00</updated><id>/perceived%20embodiment/2024/06/13/emcorphoffmann</id><content type="html" xml:base="/perceived%20embodiment/2024/06/13/emcorphoffmann.html"><![CDATA[<p><strong>This is the most up-to-date version of this scale.</strong></p>
+
+<h1 id="construct-summary">Construct Summary</h1>
+
+<p>TBD</p>
+
+<h1 id="rating--92">Rating = 92%</h1>
+
+<table>
+  <thead>
+    <tr>
+      <th>Check?</th>
+      <th>Guideline Item</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>&#10003;</td>
+      <td>Is the construct defined?</td>
+    </tr>
+    <tr>
+      <td>&#10003;</td>
+      <td>Does the final version of the items capture the construct as it has been defined by the authors?</td>
+    </tr>
+    <tr>
+      <td>&#10003;</td>
+      <td>Is the item generation process discussed (e.g., literature review, Delphi method, crowd-sourcing)?</td>
+    </tr>
+    <tr>
+      <td style="color: red;">&#10006;</td>
+      <td>Person to items 10:1 for the initial set of items?</td>
+    </tr>
+    <tr>
+      <td>&#10003;</td>
+      <td>Did they perform an EFA, PCA, Rasch, or similar test to determine the item to factor relationship?</td>
+    </tr>
+    <tr>
+      <td>&#10003;</td>
+      <td>Did they describe how they determined number of factors?</td>
+    </tr>
+    <tr>
+      <td>&#10003;</td>
+      <td>Did they report the full initial set of items?</td>
+    </tr>
+    <tr>
+      <td>&#10003;</td>
+      <td>Did they provide loadings (EFA) or item fits (Rasch) of all items?</td>
+    </tr>
+    <tr>
+      <td>&#10003;</td>
+      <td>Is there a description of the item removal process (e.g., using infit/outfit, factor loading minimum value, or cross-loading values)?</td>
+    </tr>
+    <tr>
+      <td>&#10003;</td>
+      <td>Did they list the final number of items included in the scale?</td>
+    </tr>
+    <tr>
+      <td>&#10003;</td>
+      <td>Did they include a factor structure test (e.g., second EFA, CFA, DIF, test for unidimensionality when using Rasch, or similar)?</td>
+    </tr>
+    <tr>
+      <td>&#10003;</td>
+      <td>Was a measure of reliability (e.g., Cronbach’s alpha, McDonalds Omega_h or Omega_t, Tarkkonen’s Rho) reported?</td>
+    </tr>
+    <tr>
+      <td>&#10003;</td>
+      <td>Was a test of validity (e.g., predictive, concurrent, convergent, discriminant) reported?</td>
+    </tr>
+  </tbody>
+</table>
+
+<p><strong>Comments</strong>
+<br />full set of items listed in the appendix</p>
+
+<h1 id="reviewed-by-experts-">Reviewed by Experts ✓</h1>
+
+<h1 id="downloads">Downloads</h1>
+<p><a href="https://dl.acm.org/doi/abs/10.1145/3171221.3171242" target="_blank">PAPER</a>
+<br />Hoffmann, L., Bock, N., &amp; Rosenthal vd Pütten, A. M. (2018, February). The peculiarities of robot embodiment (emcorp-scale) development, validation and initial test of the embodiment and corporeality of artificial agents scale. In Proceedings of the 2018 ACM/IEEE international conference on human-robot interaction (pp. 370-378).</p>
+
+<p><br />PDF of scale as well as instructions for administration and scoring are not readily available. Check the paper for more details or click <a href="/2024/06/20/submitScale.html">here</a> to submit this information if you are the author of this scale.</p>
+
+<h1 id="final-scale-items-20-items">Final Scale Items (20 items)):</h1>
+
+<p>is physically embodied
+<br />is existent in the real world
+<br />is real
+<br />is unrestricted in its actions
+<br />is unrestricted in its movements
+<br />is unrestricted in its facial expressions
+<br />is unrestricted in its gestures
+<br />is able to autonomously navigate in space
+<br />is able to move towards me
+<br />is able to touch objects
+<br />is able to carry objects
+<br />is able to perform designated actions like brewing coffee or vacuuming
+<br />is able to move in space
+<br />is able to react to the same environmental stimuli as I do
+<br />is able to immediately react to my actions
+<br />is able to recognize emotions
+<br />is able to interpret (my) behaviors
+<br />is able to perceive what I perceive
+<br />is able to understand my behavior
+<br />is able to to perceive my behavior</p>]]></content><author><name></name></author><category term="perceived embodiment" /><summary type="html"><![CDATA[This is the most up-to-date version of this scale.]]></summary></entry><entry><title type="html">Perceived Embodiment - Validated</title><link href="/perceived%20embodiment%20validated/2024/06/13/validateembodimentgonzalez.html" rel="alternate" type="text/html" title="Perceived Embodiment - Validated" /><published>2024-06-13T00:00:00-04:00</published><updated>2024-06-13T00:00:00-04:00</updated><id>/perceived%20embodiment%20validated/2024/06/13/validateembodimentgonzalez</id><content type="html" xml:base="/perceived%20embodiment%20validated/2024/06/13/validateembodimentgonzalez.html"><![CDATA[<p><strong>This is the most up-to-date version of this scale.</strong></p>
+
+<h1 id="construct-summary">Construct Summary</h1>
+
+<p>The authors define the construct of embodiment as consistenting of three inter-related categories:</p>
+
+<blockquote>
+  <p>“appearance, response, ownership, and multi-sensory.” (p. 1)</p>
+</blockquote>
+
+<h1 id="rating--85">Rating = 85%</h1>
+
+<table>
+  <thead>
+    <tr>
+      <th>Check?</th>
+      <th>Guideline Item</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>&#10003;</td>
+      <td>Is the construct defined?</td>
+    </tr>
+    <tr>
+      <td>&#10003;</td>
+      <td>Does the final version of the items capture the construct as it has been defined by the authors?</td>
+    </tr>
+    <tr>
+      <td>&#10003;</td>
+      <td>Is the item generation process discussed (e.g., literature review, Delphi method, crowd-sourcing)?</td>
+    </tr>
+    <tr>
+      <td style="color: red;">&#10006;</td>
+      <td>Person to items 10:1 for the initial set of items?</td>
+    </tr>
+    <tr>
+      <td>&#10003;</td>
+      <td>Did they perform an EFA, PCA, Rasch, or similar test to determine the item to factor relationship?</td>
+    </tr>
+    <tr>
+      <td>&#10003;</td>
+      <td>Did they describe how they determined number of factors?</td>
+    </tr>
+    <tr>
+      <td>&#10003;</td>
+      <td>Did they report the full initial set of items?</td>
+    </tr>
+    <tr>
+      <td>&#10003;</td>
+      <td>Did they provide loadings (EFA) or item fits (Rasch) of all items?</td>
+    </tr>
+    <tr>
+      <td>&#10003;</td>
+      <td>Is there a description of the item removal process (e.g., using infit/outfit, factor loading minimum value, or cross-loading values)?</td>
+    </tr>
+    <tr>
+      <td>&#10003;</td>
+      <td>Did they list the final number of items included in the scale?</td>
+    </tr>
+    <tr>
+      <td style="color: red;">&#10006;</td>
+      <td>Did they include a factor structure test (e.g., second EFA, CFA, DIF, test for unidimensionality when using Rasch, or similar)?</td>
+    </tr>
+    <tr>
+      <td>&#10003;</td>
+      <td>Was a measure of reliability (e.g., Cronbach’s alpha, McDonalds Omega_h or Omega_t, Tarkkonen’s Rho) reported?</td>
+    </tr>
+    <tr>
+      <td>&#10003;</td>
+      <td>Was a test of validity (e.g., predictive, concurrent, convergent, discriminant) reported?</td>
+    </tr>
+  </tbody>
+</table>
+
+<p><strong>Comments</strong>
+The scale is validated using existing data from previous experiments that used the original measures</p>
+
+<h1 id="reviewed-by-experts-">Reviewed by Experts ✓</h1>
+
+<h1 id="downloads">Downloads</h1>
+<p><a href="https://www.frontiersin.org/articles/10.3389/frobt.2018.00074/full" target="_blank">PAPER</a>
+<br />Gonzalez-Franco, M., &amp; Peck, T. C. (2018). Avatar embodiment. towards a standardized questionnaire. Frontiers in Robotics and AI, 5, 74.</p>
+
+<p><br />PDF of scale as well as instructions for administration and scoring are not readily available. Check the paper for more details or click <a href="/2024/06/20/submitScale.html">here</a> to submit this information if you are the author of this scale.</p>
+
+<h1 id="final-scale-items-16-total">Final Scale Items (16 total):</h1>
+
+<p><br />I felt out of my body. 
+<br />I felt as if my (real) body were drifting toward the virtual body or as if the virtual body were drifting toward my (real) body. 
+<br />I felt as if the movements of the virtual body were influencing my own movements. 
+<br />It felt as if my (real) body were turning into an “avatar” body. 
+<br />At some point it felt as if my real body was starting to take on the posture or shape of the virtual body that I saw. 
+<br />I felt like I was wearing different clothes from when I came to the laboratory. 
+<br />I felt as if my body had changed. 
+<br />I felt a <strong>__ sensation in my body when I saw __</strong>. 
+<br />I felt that my own body could be affected by <strong>__. 
+<br />I felt as if the virtual body was my body. 
+<br />At some point it felt that the virtual body resembled my own (real) body, in terms of shape, skin tone or other visual features. 
+<br />I felt as if my body was located where I saw the virtual body. 
+<br />I felt like I could control the virtual body as if it was my own body. 
+<br />It seemed as if I felt the touch of the __</strong> in the location where I saw the virtual body touched. 
+<br />It seemed as if the touch I felt was caused by the <strong>__ touching the virtual body. 
+<br />It seemed as if my body was touching the __</strong>.</p>]]></content><author><name></name></author><category term="perceived embodiment validated" /><summary type="html"><![CDATA[This is the most up-to-date version of this scale.]]></summary></entry><entry><title type="html">Multdimensional Measure of Trust - version 2</title><link href="/trust/2024/06/12/MDMTv2.html" rel="alternate" type="text/html" title="Multdimensional Measure of Trust - version 2" /><published>2024-06-12T02:23:41-04:00</published><updated>2024-06-12T02:23:41-04:00</updated><id>/trust/2024/06/12/MDMTv2</id><content type="html" xml:base="/trust/2024/06/12/MDMTv2.html"><![CDATA[<p><strong>This is the most up-to-date version of this scale.</strong></p>
+
+<h1 id="construct-summary">Construct Summary</h1>
+
+<p>The authors use the same definition of trust as in their original publication:</p>
+
+<blockquote>
+  <p>“Trust = a dyadic relation in which one person accepts vulnerability because they
+expect that the other person’s future action will have certain characteristics; these
+characteristics include some mix of performance (ability, reliability) and/or morality
+(honesty, integrity, and benevolence)” (Malle &amp; Ullman, 2021, p. 12)</p>
+</blockquote>
+
+<p>However, this study updates the construct to include the dimension of benevolence (e.g., kind, looks out for others, etc)</p>
+
+<h1 id="rating--23">Rating = 23%</h1>
+
+<table>
+  <thead>
+    <tr>
+      <th>Check?</th>
+      <th>Guideline Item</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>&#10003;</td>
+      <td>Is the construct defined?</td>
+    </tr>
+    <tr>
+      <td>&#10003;</td>
+      <td>Does the final version of the items capture the construct as it has been defined by the authors?</td>
+    </tr>
+    <tr>
+      <td style="color: red;">&#10006;</td>
+      <td>Is the item generation process discussed (e.g., literature review, Delphi method, crowd-sourcing)?</td>
+    </tr>
+    <tr>
+      <td style="color: red;">&#10006;</td>
+      <td>Person to items 10:1 for the initial set of items?</td>
+    </tr>
+    <tr>
+      <td>&#10003;</td>
+      <td>Did they perform an EFA, PCA, Rasch, or similar test to determine the item to factor relationship?</td>
+    </tr>
+    <tr>
+      <td style="color: red;">&#10006;</td>
+      <td>Did they describe how they determined number of factors?</td>
+    </tr>
+    <tr>
+      <td style="color: red;">&#10006;</td>
+      <td>Did they report the full initial set of items?</td>
+    </tr>
+    <tr>
+      <td style="color: red;">&#10006;</td>
+      <td>Did they provide loadings (EFA) or item fits (Rasch) of all items?</td>
+    </tr>
+    <tr>
+      <td style="color: red;">&#10006;</td>
+      <td>Is there a description of the item removal process (e.g., using infit/outfit, factor loading minimum value, or cross-loading values)?</td>
+    </tr>
+    <tr>
+      <td style="color: red;">&#10006;</td>
+      <td>Did they list the final number of items included in the scale?</td>
+    </tr>
+    <tr>
+      <td style="color: red;">&#10006;</td>
+      <td>Did they include a factor structure test (e.g., second EFA, CFA, DIF, test for unidimensionality when using Rasch, or similar)?</td>
+    </tr>
+    <tr>
+      <td style="color: red;">&#10006;</td>
+      <td>Was a measure of reliability (e.g., Cronbach’s alpha, McDonalds Omega_h or Omega_t, Tarkkonen’s Rho) reported?</td>
+    </tr>
+    <tr>
+      <td style="color: red;">&#10006;</td>
+      <td>Was a test of validity (e.g., predictive, concurrent, convergent, discriminant) reported?</td>
+    </tr>
+  </tbody>
+</table>
+
+<p><strong>Comments</strong>
+<br /> Much of the information about scale development is referenced as being reported in the dissertation of Danny Ullman.</p>
+
+<h1 id="reviewed-by-experts-">Reviewed by Experts ✓</h1>
+
+<h1 id="downloads">Downloads</h1>
+<p><a href="https://arxiv.org/abs/2311.14887" target="_blank">PAPER</a>
+<br />Malle, B. F., &amp; Ullman, D. (2023). Measuring Human-Robot Trust with the MDMT (Multi-Dimensional Measure of Trust). arXiv preprint arXiv:2311.14887.</p>
+
+<p>PDF of instructions for use, scoring, and blank scale is not readily available. Check the paper for more details or click <a href="/2024/06/20/submitScale.html">here</a> to submit this information if you are the author of this scale.</p>
+
+<h1 id="final-scale-items-20-total">Final Scale Items (20 total)</h1>
+
+<p>A list of the final items was not included in the paper.</p>]]></content><author><name></name></author><category term="trust" /><summary type="html"><![CDATA[This is the most up-to-date version of this scale.]]></summary></entry><entry><title type="html">Robotic perceived empathy (RoPE scale)</title><link href="/attitudes/2024/06/12/ROPE.html" rel="alternate" type="text/html" title="Robotic perceived empathy (RoPE scale)" /><published>2024-06-12T00:00:00-04:00</published><updated>2024-06-12T00:00:00-04:00</updated><id>/attitudes/2024/06/12/ROPE</id><content type="html" xml:base="/attitudes/2024/06/12/ROPE.html"><![CDATA[<p><strong>This is the most up-to-date version of this scale.</strong></p>
+
+<h1 id="construct-summary">Construct Summary</h1>
+
+<p>The authors define the construct of empathic comprehension, or perceived empathy as:</p>
+
+<blockquote>
+  <p>“Empathic comprehension, sometimes called empathic understanding, describes the ability to become aware of and to understand another person’s unique experience and feelings. Empathic response describes how one communicates their attempts at understanding someone else’s frame of reference, including their feelings and motives.” (p. 656)</p>
+</blockquote>
+
+<h1 id="rating--38">Rating = 38%</h1>
+
+<table>
+  <thead>
+    <tr>
+      <th>Check?</th>
+      <th>Guideline Item</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>&#10003;</td>
+      <td>Is the construct defined?</td>
+    </tr>
+    <tr>
+      <td>&#10003;</td>
+      <td>Does the final version of the items capture the construct as it has been defined by the authors?</td>
+    </tr>
+    <tr>
+      <td>&#10003;</td>
+      <td>Is the item generation process discussed (e.g., literature review, Delphi method, crowd-sourcing)?</td>
+    </tr>
+    <tr>
+      <td style="color: red;">&#10006;</td>
+      <td>Person to items 10:1 for the initial set of items?</td>
+    </tr>
+    <tr>
+      <td style="color: red;">&#10006;</td>
+      <td>Did they perform an EFA, PCA, Rasch, or similar test to determine the item to factor relationship?</td>
+    </tr>
+    <tr>
+      <td style="color: red;">&#10006;</td>
+      <td>Did they describe how they determined number of factors?</td>
+    </tr>
+    <tr>
+      <td style="color: red;">&#10006;</td>
+      <td>Did they report the full initial set of items?</td>
+    </tr>
+    <tr>
+      <td style="color: red;">&#10006;</td>
+      <td>Did they provide loadings (EFA) or item fits (Rasch) of all items?</td>
+    </tr>
+    <tr>
+      <td>&#10003;</td>
+      <td>Is there a description of the item removal process (e.g., using infit/outfit, factor loading minimum value, or cross-loading values)?</td>
+    </tr>
+    <tr>
+      <td>&#10003;</td>
+      <td>Did they list the final number of items included in the scale?</td>
+    </tr>
+    <tr>
+      <td style="color: red;">&#10006;</td>
+      <td>Did they include a factor structure test (e.g., second EFA, CFA, DIF, test for unidimensionality when using Rasch, or similar)?</td>
+    </tr>
+    <tr>
+      <td style="color: red;">&#10006;</td>
+      <td>Was a measure of reliability (e.g., Cronbach’s alpha, McDonalds Omega_h or Omega_t, Tarkkonen’s Rho) reported?</td>
+    </tr>
+    <tr>
+      <td style="color: red;">&#10006;</td>
+      <td>Was a test of validity (e.g., predictive, concurrent, convergent, discriminant) reported?</td>
+    </tr>
+  </tbody>
+</table>
+
+<p><strong>Comments</strong>
+item development reported in a separate (earlier) paper.</p>
+
+<h1 id="reviewed-by-experts-">Reviewed by Experts ✓</h1>
+
+<h1 id="downloads">Downloads</h1>
+<p><a href="https://ieeexplore.ieee.org/abstract/document/8673082?casa_token=6tCsqe-JQlMAAAAA:LGzFMbNAnAVTyW9UUMKeI69SlQZiSzegPVx276FzMRvtkrdSfO7E3uT6jBrRIHrDr0GZ21flVQ" target="_blank">PAPER</a>
+<br />Charrier, L., Rieger, A., Galdeano, A., Cordier, A., Lefort, M., &amp; Hassas, S. (2019, March). The rope scale: a measure of how empathic a robot is perceived. In 2019 14th ACM/IEEE International Conference on Human-Robot Interaction (HRI) (pp. 656-657). IEEE.</p>
+
+<p><br />PDF of scale as well as instructions for administration and scoring are not readily available. Check the paper for more details or click <a href="/2024/06/20/submitScale.html">here</a> to submit this information if you are the author of this scale.</p>
+
+<h1 id="final-scale-items-16-total">Final Scale Items (16 total):</h1>
+
+<p><strong>Empathic Understanding</strong>
+<br />the robot appreciates exactly how the things I experience feel to me
+<br />the robot knows me and my needs
+<br />the robot cares about my feelings
+<br />the robot does not understand me
+<br />the robot perceives and accepts my individual characteristics
+<br />the robot usually understands the whole of what I mean
+<br />The robot reacts to my words but does not see the way I feel
+<br />the robot seems to feel bad when I am sad or disappointed</p>
+
+<p><strong>Empathic Response</strong>
+<br />whether thoughts or feelings I express are “good” or “bad” makes no difference to the robot’s actions towards me
+<br />no matter what I tell about myself, the robot acts just the same
+<br />the robot comforts me when I am upset; the robot encourages me
+<br />the robot praises me when I have done something well
+<br />the robot helps me when I need it
+<br />the robot knows when I want to talk and lets me do so
+<br />the robot’s response to me is fixed and automatic that I do not get through to it</p>]]></content><author><name></name></author><category term="attitudes" /><summary type="html"><![CDATA[This is the most up-to-date version of this scale.]]></summary></entry><entry><title type="html">Robotic Social Attribute Scale (RoSAS)</title><link href="/social%20attributes/2024/06/12/RoSAS.html" rel="alternate" type="text/html" title="Robotic Social Attribute Scale (RoSAS)" /><published>2024-06-12T00:00:00-04:00</published><updated>2024-06-12T00:00:00-04:00</updated><id>/social%20attributes/2024/06/12/RoSAS</id><content type="html" xml:base="/social%20attributes/2024/06/12/RoSAS.html"><![CDATA[<p><strong>This is the most up-to-date version of this scale.</strong></p>
+
+<h1 id="construct-summary">Construct Summary</h1>
+
+<p>The authors define the construct as a measure of the central attributes implicated in human perception of robots. They state that there are three main dimensions of social perception of robots:</p>
+
+<blockquote>
+  <p><br />1. warmth - defined as whether another [entity] intends to help or harm (p. 254)
+<br />2. competence - defined as whether a[n] [entity] has the ability to help or harm (p. 254)
+<br />3. discomfort (not explicitly defined)</p>
+</blockquote>
+
+<h1 id="rating--85">Rating = 85%</h1>
+
+<table>
+  <thead>
+    <tr>
+      <th>Check?</th>
+      <th>Guideline Item</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>&#10003;</td>
+      <td>Is the construct defined?</td>
+    </tr>
+    <tr>
+      <td style="color: red;">&#10006;</td>
+      <td>Does the final version of the items capture the construct as it has been defined by the authors?</td>
+    </tr>
+    <tr>
+      <td>&#10003;</td>
+      <td>Is the item generation process discussed (e.g., literature review, Delphi method, crowd-sourcing)?</td>
+    </tr>
+    <tr>
+      <td style="color: red;">&#10006;</td>
+      <td>Person to items 10:1 for the initial set of items?</td>
+    </tr>
+    <tr>
+      <td>&#10003;</td>
+      <td>Did they perform an EFA, PCA, Rasch, or similar test to determine the item to factor relationship?</td>
+    </tr>
+    <tr>
+      <td>&#10003;</td>
+      <td>Did they describe how they determined number of factors?</td>
+    </tr>
+    <tr>
+      <td>&#10003;</td>
+      <td>Did they report the full initial set of items?</td>
+    </tr>
+    <tr>
+      <td>&#10003;</td>
+      <td>Did they provide loadings (EFA) or item fits (Rasch) of all items?</td>
+    </tr>
+    <tr>
+      &lt;<td>&#10003;</td>
+      <td>Is there a description of the item removal process (e.g., using infit/outfit, factor loading minimum value, or cross-loading values)?</td>
+    </tr>
+    <tr>
+      <td>&#10003;</td>
+      <td>Did they list the final number of items included in the scale?</td>
+    </tr>
+    <tr>
+      <td>&#10003;</td>
+      <td>Did they include a factor structure test (e.g., second EFA, CFA, DIF, test for unidimensionality when using Rasch, or similar)?</td>
+    </tr>
+    <tr>
+      <td>&#10003;</td>
+      <td>Was a measure of reliability (e.g., Cronbach’s alpha, McDonalds Omega_h or Omega_t, Tarkkonen’s Rho) reported?</td>
+    </tr>
+    <tr>
+      <td>&#10003;</td>
+      <td>Was a test of validity (e.g., predictive, concurrent, convergent, discriminant) reported?</td>
+    </tr>
+  </tbody>
+</table>
+
+<p><strong>Comments</strong>
+None</p>
+
+<h1 id="reviewed-by-experts-">Reviewed by Experts ✓</h1>
+
+<h1 id="downloads">Downloads</h1>
+<p><a href="https://dl.acm.org/doi/abs/10.1145/2909824.3020208" target="_blank">PAPER</a>
+<br />Carpinella, C. M., Wyman, A. B., Perez, M. A., &amp; Stroessner, S. J. (2017, March). The robotic social attributes scale (rosas) development and validation. In Proceedings of the 2017 ACM/IEEE International Conference on human-robot interaction (pp. 254-262).</p>
+
+<p><br />PDF of scale as well as instructions for administration and scoring are not readily available. Check the paper for more details or click <a href="/2024/06/20/submitScale.html">here</a> to submit this information if you are the author of this scale.</p>
+
+<h1 id="final-scale-items-18-total">Final Scale Items (18 total):</h1>
+
+<p><strong>Competence</strong>
+<br />capable
+<br />responsible
+<br />interactive
+<br />reliable
+<br />competent
+<br />knowledgable</p>
+
+<p><strong>Warmth</strong>
+<br />happy
+<br />feeling
+<br />social
+<br />organic
+<br />compassionate
+<br />emotional</p>
+
+<p><strong>Discomfort</strong>
+<br />scary
+<br />strange
+<br />awkward
+<br />dangerous
+<br />awful
+<br />aggressive</p>]]></content><author><name></name></author><category term="social attributes" /><summary type="html"><![CDATA[This is the most up-to-date version of this scale.]]></summary></entry><entry><title type="html">Perceived Embodiment</title><link href="/perceived%20embodiment/2024/06/12/embodimentgonzalez.html" rel="alternate" type="text/html" title="Perceived Embodiment" /><published>2024-06-12T00:00:00-04:00</published><updated>2024-06-12T00:00:00-04:00</updated><id>/perceived%20embodiment/2024/06/12/embodimentgonzalez</id><content type="html" xml:base="/perceived%20embodiment/2024/06/12/embodimentgonzalez.html"><![CDATA[<p><strong>NOTE: THIS IS NOT THE LATEST VERSION OF THIS SCALE. <br /> We recommend using the latest version of this scale which you can find <a href="/perceived%20embodiment%20validated/2024/06/13/validateembodimentgonzalez.html">here</a></strong></p>
+
+<h1 id="construct-summary">Construct Summary</h1>
+
+<p>The authors identify the construct of avatar embodiment as consisting of 6 main factors:</p>
+
+<blockquote>
+  <ol>
+    <li>Body ownership. Present whenever there is a substitute body or body part. It is possible to have body ownership over a body that participants feel is not in the same location as their own body.</li>
+    <li>Agency and motor control of the body. Present whenever there is motion tracking and the participant can move parts or all of the virtual body.</li>
+    <li>Tactile sensations. Present whenever there is tactile or haptic stimulation to enhance the embodiment illusion.</li>
+    <li>Location of the body. Present whenever there is a substitute body or body part that is either collocated or not collocated with the participant. Participants must feel that their body is in the same location as the virtual body in order to experience an embodiment illusion. Participants may sense an out-of-body effect, or that the location of their body has drifted toward the location of the avatar. These questions are often only asked when the avatar is not collocated with the participant.</li>
+    <li>External appearance. Present when the self-avatar is a lookalike avatar or as control questions when there are shape, gender, race, clothing, or other visual modifications to the avatar different from the self.</li>
+    <li>Response to external stimuli. In many occasions during the experiment there is an event that modifies or threatens the body or body parts of the self-avatar. If the participant is embodied in the self-avatar then the participant will react as if their own body is threatened. This is often measured through both questionnaire and quantitative response.” (p. 3-4)</li>
+  </ol>
+</blockquote>
+
+<h1 id="rating--54">Rating = 54%</h1>
+
+<table>
+  <thead>
+    <tr>
+      <th>Check?</th>
+      <th>Guideline Item</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>&#10003;</td>
+      <td>Is the construct defined?</td>
+    </tr>
+    <tr>
+      <td>&#10003;</td>
+      <td>Does the final version of the items capture the construct as it has been defined by the authors?</td>
+    </tr>
+    <tr>
+      <td>&#10003;</td>
+      <td>Is the item generation process discussed (e.g., literature review, Delphi method, crowd-sourcing)?</td>
+    </tr>
+    <tr>
+      <td style="color: red;">&#10006;</td>
+      <td>Person to items 10:1 for the initial set of items?</td>
+    </tr>
+    <tr>
+      <td style="color: red;">&#10006;</td>
+      <td>Did they perform an EFA, PCA, Rasch, or similar test to determine the item to factor relationship?</td>
+    </tr>
+    <tr>
+      <td>&#10003;</td>
+      <td>Did they describe how they determined number of factors?</td>
+    </tr>
+    <tr>
+      <td>&#10003;</td>
+      <td>Did they report the full initial set of items?</td>
+    </tr>
+    <tr>
+      <td style="color: red;">&#10006;</td>
+      <td>Did they provide loadings (EFA) or item fits (Rasch) of all items?</td>
+    </tr>
+    <tr>
+      <td>&#10003;</td>
+      <td>Is there a description of the item removal process (e.g., using infit/outfit, factor loading minimum value, or cross-loading values)?</td>
+    </tr>
+    <tr>
+      <td>&#10003;</td>
+      <td>Did they list the final number of items included in the scale?</td>
+    </tr>
+    <tr>
+      <td style="color: red;">&#10006;</td>
+      <td>Did they include a factor structure test (e.g., second EFA, CFA, DIF, test for unidimensionality when using Rasch, or similar)?</td>
+    </tr>
+    <tr>
+      <td style="color: red;">&#10006;</td>
+      <td>Was a measure of reliability (e.g., Cronbach’s alpha, McDonalds Omega_h or Omega_t, Tarkkonen’s Rho) reported?</td>
+    </tr>
+    <tr>
+      <td style="color: red;">&#10006;</td>
+      <td>Was a test of validity (e.g., predictive, concurrent, convergent, discriminant) reported?</td>
+    </tr>
+  </tbody>
+</table>
+
+<p><strong>Comments</strong>
+<br />A validation <a href="https://www.frontiersin.org/articles/10.3389/frvir.2020.575943/full" target="_blank">study</a> was later conducted (Peck &amp; Gonzalez-Franco, 2021) and suggested 4 factors and 16 items</p>
+
+<h1 id="reviewed-by-experts-">Reviewed by Experts ✓</h1>
+
+<h1 id="downloads">Downloads</h1>
+<p><a href="https://www.frontiersin.org/articles/10.3389/frobt.2018.00074/full" target="_blank">PAPER</a>
+<br />Gonzalez-Franco, M., &amp; Peck, T. C. (2018). Avatar embodiment. towards a standardized questionnaire. Frontiers in Robotics and AI, 5, 74.</p>
+
+<p><br />PDF of scale as well as instructions for administration and scoring are not readily available. Check the paper for more details or click <a href="/2024/06/20/submitScale.html">here</a> to submit this information if you are the author of this scale.</p>
+
+<h1 id="final-scale-items-25-total">Final Scale Items (25 total):</h1>
+
+<p><strong>Body ownership</strong>
+<br />Q1. “I felt as if the virtual <strong>__was my __</strong>” If there is more than one avatar, e.g. in a VR social interaction, use a longer version: “I felt as if the virtual <strong>__I saw when I looked down was my __</strong>” 
+<br />Q2. “It felt as if the virtual <strong>__I saw was someone else” 
+<br />Q3. “It seemed as if I might have more than one __</strong>” - If there is a mirror: 
+<br />Q4. “I felt as if the virtual <strong>__I saw when looking in the mirror was my own __</strong>” 
+<br />Q5. “I felt as if the virtual ____I saw when looking at myself in the mirror was another person”</p>
+
+<p><strong>Agency and motor control</strong>
+<br />Q6. “It felt like I could control the virtual <strong>__as if it was my own __</strong>” 
+<br />Q7. “The movements of the virtual ____were caused by my movements”
+<br />Q8. “I felt as if the movements of the virtual ____were influencing my own movements”
+<br />Q9. “I felt as if the virtual ____was moving by itself ”</p>
+
+<p><strong>Tactile sensations</strong> 
+<br />Q10. “It seemed as if I felt the touch of the <strong>__ in the location where I saw the virtual ____touched” 
+<br />Q11. “It seemed as if the touch I felt was located somewhere between my physical ____and the virtual __</strong>” 
+<br />Q12. “It seemed as if the touch I felt was caused by the <strong>__ touching the virtual __</strong>” 
+<br />Q13. “It seemed as if my <strong>__ was touching the __</strong>”</p>
+
+<p><strong>Location of the body</strong> 
+<br />Q14. “I felt as if my <strong>__was located where I saw the virtual __</strong>” 
+<br />Q15. “I felt out of my body” - If the virtual body is not collocated with the participants’ body: 
+<br />Q16. “I felt as if my (real) <strong>__were drifting toward the virtual ____or as if the virtual ____were drifting toward my (real) __</strong>” 5. External appearance. 
+<br />Q17. “It felt as if my (real) <strong>__were turning into an ‘avatar’ __</strong>” 
+<br />Q18. “At some point it felt as if my real <strong>__was starting to take on the posture or shape of the virtual ____that I saw” 
+<br />Q19. “At some point it felt that the virtual ____resembled my own (real) __</strong>, in terms of shape, skin tone or other visual features.” 
+<br />Q20. “I felt like I was wearing different clothes from when I came to the laboratory”</p>
+
+<p><strong>Response to external stimuli</strong>
+<br />Q21. “I felt that my own <strong>__could be affected by __</strong>” 
+<br />Q22. “I felt a <strong>__sensation in my body when I saw __</strong>” 
+<br />Q23. “When <strong>__ happened, I felt the instinct to __</strong>” 
+<br />Q24. “I felt as if my <strong>__had __</strong>” - If there is a threat to the body: 
+<br />Q25. “I had the feeling that I might be harmed by the <em>__</em>”</p>]]></content><author><name></name></author><category term="perceived embodiment" /><summary type="html"><![CDATA[NOTE: THIS IS NOT THE LATEST VERSION OF THIS SCALE. We recommend using the latest version of this scale which you can find here]]></summary></entry></feed>
