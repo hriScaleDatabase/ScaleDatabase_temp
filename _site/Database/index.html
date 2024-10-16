@@ -1,0 +1,999 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>Database | Finding the “Perfect” Scale</title>
+<meta name="generator" content="Jekyll v4.3.3" />
+<meta property="og:title" content="Database" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="A database developed to help you find the “perfect” scale for your research." />
+<meta property="og:description" content="A database developed to help you find the “perfect” scale for your research." />
+<link rel="canonical" href="/Database/" />
+<meta property="og:url" content="/Database/" />
+<meta property="og:site_name" content="Finding the “Perfect” Scale" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Database" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebPage","description":"A database developed to help you find the “perfect” scale for your research.","headline":"Database","url":"/Database/"}</script>
+<!-- End Jekyll SEO tag -->
+<link rel="stylesheet" href="/assets/main.css"><link type="application/atom+xml" rel="alternate" href="/feed.xml" title="Finding the &quot;Perfect&quot; Scale" /></head>
+<body><header class="site-header" role="banner">
+
+  <div class="wrapper">
+    <!----><!---->
+    <a class="site-title" rel="author" href="/">Finding the &quot;Perfect&quot; Scale</a><nav class="site-nav">
+        <input type="checkbox" id="nav-trigger" class="nav-trigger" />
+        <label for="nav-trigger">
+          <span class="menu-icon">
+            <svg viewBox="0 0 18 15" width="18px" height="15px">
+              <path d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.032C17.335,0,18,0.665,18,1.484L18,1.484z M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.032C17.335,6.031,18,6.696,18,7.516L18,7.516z M18,13.516C18,14.335,17.335,15,16.516,15H1.484 C0.665,15,0,14.335,0,13.516l0,0c0-0.82,0.665-1.483,1.484-1.483h15.032C17.335,12.031,18,12.695,18,13.516L18,13.516z"/>
+            </svg>
+          </span>
+        </label>
+
+        <div class="trigger"><a class="page-link" href="/guideline/">Guideline</a><a class="page-link" href="/Database/">Database</a><a class="page-link" href="/team/">Team</a><a class="page-link" href="/faq/">FAQ</a><a class="page-link" href="/about/">About</a><a class="page-link" href="/">Home</a></div>
+      </nav></div>
+</header><main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        <article class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">Database</h1>
+  </header>
+
+  <div class="post-content">
+    <p><select id="jumpToDropdown">
+  <option value="">Jump to...</option>
+  <option value="#scales-by-category">Top</option>
+  <option value="#attitudesattributes">Attitudes/Attributes</option>
+  <option value="#collaborative-fluency">Collaborative Fluency</option>
+  <option value="#perceived-embodiment">Perceived Embodiment</option>
+  <option value="#social-acceptance">Social Acceptance</option>
+  <option value="#trust">Trust</option>
+  <option value="#scales">Table of all scales</option>
+</select></p>
+
+<!--Main page contains search tools at the top
+search by construct, author, scale name, year of publication-->
+
+<!-- Html Elements for Search -->
+<!-- commenting out for now as this is on hold - mm -->
+<!--
+<div id="search-container">
+    <input type="text" id="search-input" placeholder="search...">
+    <button id="search-button">Search</button>
+    <ul id="results-container"></ul>
+</div>-->
+
+<!-- Script pointing to search-script.js -->
+<!-- <script src="C:/Users/saad-admin/HRI-database/search-script.js" type="text/javascript"></script> -->
+
+<!-- Configuration -->
+<!-- commenting search out as this is causing a console error and Laura said she was just trying things out -->
+<style>
+    #jumpToDropdown {
+      padding: 10px;
+      border: 1px solid #ccc;
+      position: fixed;
+      left: 0;
+    }   
+</style>
+
+<script>
+    const jumpToDropdown = document.getElementById("jumpToDropdown");
+
+    jumpToDropdown.addEventListener("change", function() {
+      const selectedValue = this.value;
+      if (selectedValue) {
+        const targetSection = document.querySelector(selectedValue);
+        if (targetSection) {
+          targetSection.scrollIntoView({ behavior: "smooth" });
+
+          // Reset the dropdown after a short delay
+          setTimeout(() => {
+            jumpToDropdown.value = ""; // Set back to the default placeholder
+          }, 1000);
+        }
+      }
+    });
+</script>
+
+<script>
+    // Not deleting yet as not sure if this should be abandoned fully - mm
+    // Function to trigger search
+    /*function triggerSearch() {
+        var searchTerm = document.getElementById('search-input').value.trim();
+        SimpleJekyllSearch.search(searchTerm);
+    }
+
+    // Bind click event to search button
+    document.getElementById('search-button').addEventListener('click', function() {
+        triggerSearch();
+    });
+
+    // Bind enter key press to trigger search
+    document.getElementById('search-input').addEventListener('keypress', function(event) {
+        if (event.key === 'Enter') {
+            triggerSearch();
+        }
+    });
+
+    // Initialize search
+    SimpleJekyllSearch({
+        searchInput: document.getElementById('search-input'),
+        resultsContainer: document.getElementById('results-container'),
+        json: '/search.json'
+    }); */
+</script>
+
+<h2 id="scales-by-category">Scales by Category</h2>
+
+<h1 id="attitudesattributes">Attitudes/Attributes</h1>
+<p>100 <a href="/attitudes/2024/06/03/gators.html">General Attitudes Towards Robots Scale (GAToRS)</a>
+<br />85  <a href="/social%20attributes/2024/06/12/RoSAS.html">Robotic Social Attributes Scale (RoSAS)</a>
+<br />69  <a href="/attitudes/2024/06/12/RAS.html">Robot Anxiety Scale (RAS)</a>
+<br />38  <a href="/attitudes/2024/06/12/ROPE.html">Perceived Empathy (RoPE)</a>
+<br />23  <a href="/attitudes/2024/07/02/NARS.html">Negative Attitudes Towards Robots Scale (NARS)</a></p>
+
+<h1 id="collaborative-fluency">Collaborative Fluency</h1>
+<p>46  <a href="/collaborative%20fluency/2024/06/11/hoffmanfluency.html">Collaborative Fluency</a></p>
+
+<h1 id="perceived-embodiment">Perceived Embodiment</h1>
+<p><br />92  <a href="/perceived%20embodiment/2024/06/13/emcorphoffmann.html">EmCorp Scale</a>
+<br />85  <a href="/perceived%20embodiment/2024/06/12/embodimentgonzalez.html">Avatar Embodiment</a>
+<br />54  <a href="/perceived%20embodiment%20validated/2024/06/13/validateembodimentgonzalez.html">Avatar Embodiment - Validated</a></p>
+
+<h1 id="safety">Safety</h1>
+<p>46  <a href="/safety/2024/06/12/safetykamide.html">Psychological Safety</a></p>
+
+<h1 id="social-acceptance">Social Acceptance</h1>
+<p>77  <a href="/social%20acceptance/2024/06/11/frankenstein.html">Frankenstein Syndrome Questionnaire</a></p>
+
+<h1 id="trust">Trust</h1>
+<p>85  <a href="/trust/2024/06/11/charaltrust.html">Trust in Industrial Human-Robot Collaboration</a>
+<br />62  <a href="/trust/2024/06/04/MDMT.html">Multidimensional Measure of Trust (MDMT)</a>
+<br />31  <a href="/trust/2024/06/11/yagodatrust.html">Trust Perception Scale-HRI</a>
+<br />23  <a href="/trust/2024/06/12/MDMTv2.html">Multidimensional Measure of Trust (MDMT) version 2</a></p>
+
+<p><br /></p>
+<hr />
+
+<p><br /></p>
+
+<script>
+    // The purpose of this function is to sort our database by column when a column is clicked
+    function sortTable(header, columnIndex) {
+      const tableBody = header.closest('table').querySelector('tbody');
+      const rows = Array.from(tableBody.querySelectorAll('tr'));
+
+      // Get and update the sort direction for the specific column header
+      let sortDirection = header.dataset.sort;
+      if (sortDirection === 'none') {
+        sortDirection = 'asc';
+      } else if (sortDirection === 'asc') {
+        sortDirection = 'desc';
+      } else {
+        sortDirection = 'none'; // Reset if clicked again
+      }
+      header.dataset.sort = sortDirection; // Update only this header
+
+      // Sort the rows
+      rows.sort((a, b) => {
+        const aValue = a.cells[columnIndex].textContent.toLowerCase();
+        const bValue = b.cells[columnIndex].textContent.toLowerCase();
+
+        if (sortDirection === 'none') {
+          return 0; // No sorting when direction is 'none'
+        }
+
+        // Handle NaN values (non-numeric)
+        const isNumeric = !isNaN(parseFloat(aValue)) && !isNaN(parseFloat(bValue));
+        if (!isNumeric) {
+          // Compare as strings if either value is not numeric
+          return aValue.localeCompare(bValue) * (sortDirection === 'asc' ? 1 : -1);
+        }
+
+        // Compare numeric values
+        return (aValue - bValue) * (sortDirection === 'asc' ? 1 : -1);
+      });
+
+      // Update tableBody
+      tableBody.innerHTML = '';
+      rows.forEach(row => tableBody.appendChild(row));
+    }
+
+</script>
+
+<style>
+    th {
+      cursor: pointer; /* Change the cursor to a hand on hover */
+      background-color: #f0f0f0; /* Add a subtle background color */
+      text-decoration: underline; /* Underline the text */
+    }
+
+    th:hover {
+      background-color: #e0e0e0; /* Darken the background on hover */
+    }
+</style>
+
+<h2 id="scales">Scales</h2>
+<p>Sort by clicking on any of the headers below
+<!-- updated table code which displays headers and makes use of sortTable to sort our columns --></p>
+<table>
+  <thead>
+    <tr>
+       <th onclick="sortTable(this, 0)" data-sort="none">Rating</th>
+       <th onclick="sortTable(this, 1)" data-sort="none">ScaleName</th>
+       <th onclick="sortTable(this, 2)" data-sort="none">Construct label</th>
+       <th onclick="sortTable(this, 3)" data-sort="none">DimLabels</th>
+       <th onclick="sortTable(this, 4)" data-sort="none">NumItems</th>
+       <th onclick="sortTable(this, 5)" data-sort="none">Title</th>
+       <th onclick="sortTable(this, 6)" data-sort="none">Authors</th>
+       <th onclick="sortTable(this, 7)" data-sort="none">Year</th>
+      
+    </tr>
+  </thead>
+  <tbody id="tableBody">
+    
+      <tr> 
+          <td>23</td>
+        
+          <td></td>
+        
+          <td>negative attitudes towards robots</td>
+        
+          <td></td>
+        
+          <td></td>
+        
+          <td>Measurement of negative attitudes toward robots </td>
+        
+          <td>Nomura, T., Suzuki, T., Kanda, T., &amp; Kato, K.</td>
+        
+          <td>2006</td>
+        
+      </tr>
+    
+      <tr> 
+          <td>23</td>
+        
+          <td>MDMTv2</td>
+        
+          <td>trust</td>
+        
+          <td>transparent, reliable, ethical, competent, benelovent</td>
+        
+          <td>20</td>
+        
+          <td>Measuring Human-Robot Trust with the MDMT (Multi-Dimensional Measure of Trust)*</td>
+        
+          <td>Malle, B. &amp; Ullman D.</td>
+        
+          <td>2022</td>
+        
+      </tr>
+    
+      <tr> 
+          <td>31</td>
+        
+          <td></td>
+        
+          <td>emotion</td>
+        
+          <td></td>
+        
+          <td></td>
+        
+          <td>Measuring Emotion: The Self-assessment Manikin and the Semantic Differential</td>
+        
+          <td>Margaret M. Bradley and Peter J. Lang</td>
+        
+          <td>1994</td>
+        
+      </tr>
+    
+      <tr> 
+          <td>31</td>
+        
+          <td>Trust Perception Scale-HRI</td>
+        
+          <td>trust</td>
+        
+          <td>unclear</td>
+        
+          <td>40 or 14</td>
+        
+          <td>Measuring Trust in Human Robot Interactions: Development of theTrust Perception Scale-HRI</td>
+        
+          <td>Schaefer</td>
+        
+          <td>2016</td>
+        
+      </tr>
+    
+      <tr> 
+          <td>38</td>
+        
+          <td>RoPE</td>
+        
+          <td>perceived empathy</td>
+        
+          <td>empathic understanding and empathic response</td>
+        
+          <td>16</td>
+        
+          <td>The RoPE Scale: a Measure of How Empathic a Robot is Perceived</td>
+        
+          <td>Charrier et al.</td>
+        
+          <td>2020</td>
+        
+      </tr>
+    
+      <tr> 
+          <td>46</td>
+        
+          <td>NA</td>
+        
+          <td>collaborative fluency</td>
+        
+          <td>not reported</td>
+        
+          <td>8</td>
+        
+          <td>Evaluating Fluency in HumanRobot Collaboration</td>
+        
+          <td>Hoffman, G</td>
+        
+          <td>2019</td>
+        
+      </tr>
+    
+      <tr> 
+          <td>46</td>
+        
+          <td>NA</td>
+        
+          <td>psychological safety</td>
+        
+          <td>performance, hummaness, acceptable, harmlessness, toughness, and agency</td>
+        
+          <td>33</td>
+        
+          <td>New Measurement of Psychological Safety for Humanoid</td>
+        
+          <td>Kamide et al.</td>
+        
+          <td>2012</td>
+        
+      </tr>
+    
+      <tr> 
+          <td>54</td>
+        
+          <td>SEQ (Standardized Embodiment Questionnaire)</td>
+        
+          <td>perceived embodiment</td>
+        
+          <td>Body ownership, Agency and motor control, Tactile sensations, Location of the body, External appearance</td>
+        
+          <td>25</td>
+        
+          <td>Avatar Embodiment. Towards a Standardized Questionnaire</td>
+        
+          <td>Gonzalez-Franco &amp; Peck</td>
+        
+          <td>2018</td>
+        
+      </tr>
+    
+      <tr> 
+          <td>62</td>
+        
+          <td>MDMT</td>
+        
+          <td>trust</td>
+        
+          <td>performance trust and moral trust</td>
+        
+          <td>16</td>
+        
+          <td>A multi-dimensional conception and measure of human-robot trust</td>
+        
+          <td>Malle, B. &amp; Ullman D.</td>
+        
+          <td>2021</td>
+        
+      </tr>
+    
+      <tr> 
+          <td>69</td>
+        
+          <td>RAS</td>
+        
+          <td>anxiety toward robots</td>
+        
+          <td>unclear</td>
+        
+          <td>11</td>
+        
+          <td>Measurement of Anxiety toward Robots</td>
+        
+          <td>Nomura et al.</td>
+        
+          <td>2006</td>
+        
+      </tr>
+    
+      <tr> 
+          <td>77</td>
+        
+          <td>Frankenstein Syndrome Questionnaire</td>
+        
+          <td>social acceptance of humanoid robots</td>
+        
+          <td>general anxiety toward humanoid robots, apprehension toward social risks of humanoid robots, trusworthiness for developers of humanoid robots, expectation for humanoid robots in daily life</td>
+        
+          <td>27 or 30</td>
+        
+          <td>Social acceptance of humanoid robots in Japan: A survey for development of the frankenstein syndorome questionnaire</td>
+        
+          <td>Nomura et al.</td>
+        
+          <td>2012</td>
+        
+      </tr>
+    
+      <tr> 
+          <td>77</td>
+        
+          <td>HRI Trust Scale</td>
+        
+          <td>trust</td>
+        
+          <td>team configuration, team process, context, task, and system</td>
+        
+          <td>36</td>
+        
+          <td>You Want Me to Trust a ROBOT? The Development of a HumanRobot Interaction Trust Scale</td>
+        
+          <td>Yagoda and Gillan</td>
+        
+          <td>2012</td>
+        
+      </tr>
+    
+      <tr> 
+          <td>85</td>
+        
+          <td>SEQ (Standardized Embodiment Questionnaire) version 2</td>
+        
+          <td>perceived embodiment</td>
+        
+          <td>appearance,
+response, ownership, multisensory</td>
+        
+          <td>16</td>
+        
+          <td>Avatar Embodiment. A Standardized Questionnaire</td>
+        
+          <td>Peck and Gonzalez-Franco</td>
+        
+          <td>2021</td>
+        
+      </tr>
+    
+      <tr> 
+          <td>85</td>
+        
+          <td>RoSAS</td>
+        
+          <td>social attributes that people ascribe to machines</td>
+        
+          <td>competence, warmth, discomfort</td>
+        
+          <td>18</td>
+        
+          <td>The Robotic Social Attributes Scale (RoSAS): Development and Validation</td>
+        
+          <td>Carpinella et al.</td>
+        
+          <td>2017</td>
+        
+      </tr>
+    
+      <tr> 
+          <td>85</td>
+        
+          <td>NA</td>
+        
+          <td>trust</td>
+        
+          <td>safe co-operation, robot and gripper reliability, robot's motion and pick-up speed</td>
+        
+          <td>10</td>
+        
+          <td>The Development of a Scale to Evaluate Trust in Industrial Human-robot Collaboration</td>
+        
+          <td>Charalambous, Fletcher, Webb</td>
+        
+          <td>2016</td>
+        
+      </tr>
+    
+      <tr> 
+          <td>92</td>
+        
+          <td>EmCorp Scale</td>
+        
+          <td>perceived embodiment</td>
+        
+          <td></td>
+        
+          <td></td>
+        
+          <td>The Peculiarities of Robot Embodiment (EmCorp-Scale)</td>
+        
+          <td>Hoffmann et al.</td>
+        
+          <td>2018</td>
+        
+      </tr>
+    
+      <tr> 
+          <td>100</td>
+        
+          <td>GAToRS</td>
+        
+          <td>attitudes towards robots</td>
+        
+          <td>personal level positive attitude, personal level negative attitude, societal level positive attitude, societal level negative attitude</td>
+        
+          <td>20</td>
+        
+          <td>General Attitudes Towards Robots Scale (GAToRS): A New Instrument for Social Surveys</td>
+        
+          <td>Koverola et al.</td>
+        
+          <td>2022</td>
+        
+      </tr>
+    
+  </tbody>
+</table>
+
+<!-- Laura's original table code
+<table>
+  
+    
+    <tr>
+      
+        <th>Rating</th>
+      
+        <th>ScaleName</th>
+      
+        <th>Construct label</th>
+      
+        <th>DimLabels</th>
+      
+        <th>NumItems</th>
+      
+        <th>Title</th>
+      
+        <th>Authors</th>
+      
+        <th>Year</th>
+      
+    </tr>
+    
+
+    <tr class="row1">
+<td class="col1">
+      23
+    </td><td class="col2">
+      
+    </td><td class="col3">
+      negative attitudes towards robots
+    </td><td class="col4">
+      
+    </td><td class="col5">
+      
+    </td><td class="col6">
+      Measurement of negative attitudes toward robots 
+    </td><td class="col7">
+      Nomura, T., Suzuki, T., Kanda, T., & Kato, K.
+    </td><td class="col8">
+      2006
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      23
+    </td><td class="col2">
+      MDMTv2
+    </td><td class="col3">
+      trust
+    </td><td class="col4">
+      transparent, reliable, ethical, competent, benelovent
+    </td><td class="col5">
+      20
+    </td><td class="col6">
+      Measuring Human-Robot Trust with the MDMT (Multi-Dimensional Measure of Trust)*
+    </td><td class="col7">
+      Malle, B. & Ullman D.
+    </td><td class="col8">
+      2022
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      31
+    </td><td class="col2">
+      
+    </td><td class="col3">
+      emotion
+    </td><td class="col4">
+      
+    </td><td class="col5">
+      
+    </td><td class="col6">
+      Measuring Emotion: The Self-assessment Manikin and the Semantic Differential
+    </td><td class="col7">
+      Margaret M. Bradley and Peter J. Lang
+    </td><td class="col8">
+      1994
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      31
+    </td><td class="col2">
+      Trust Perception Scale-HRI
+    </td><td class="col3">
+      trust
+    </td><td class="col4">
+      unclear
+    </td><td class="col5">
+      40 or 14
+    </td><td class="col6">
+      Measuring Trust in Human Robot Interactions: Development of theTrust Perception Scale-HRI
+    </td><td class="col7">
+      Schaefer
+    </td><td class="col8">
+      2016
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      38
+    </td><td class="col2">
+      RoPE
+    </td><td class="col3">
+      perceived empathy
+    </td><td class="col4">
+      empathic understanding and empathic response
+    </td><td class="col5">
+      16
+    </td><td class="col6">
+      The RoPE Scale: a Measure of How Empathic a Robot is Perceived
+    </td><td class="col7">
+      Charrier et al.
+    </td><td class="col8">
+      2020
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      46
+    </td><td class="col2">
+      NA
+    </td><td class="col3">
+      collaborative fluency
+    </td><td class="col4">
+      not reported
+    </td><td class="col5">
+      8
+    </td><td class="col6">
+      Evaluating Fluency in HumanRobot Collaboration
+    </td><td class="col7">
+      Hoffman, G
+    </td><td class="col8">
+      2019
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      46
+    </td><td class="col2">
+      NA
+    </td><td class="col3">
+      psychological safety
+    </td><td class="col4">
+      performance, hummaness, acceptable, harmlessness, toughness, and agency
+    </td><td class="col5">
+      33
+    </td><td class="col6">
+      New Measurement of Psychological Safety for Humanoid
+    </td><td class="col7">
+      Kamide et al.
+    </td><td class="col8">
+      2012
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      54
+    </td><td class="col2">
+      SEQ (Standardized Embodiment Questionnaire)
+    </td><td class="col3">
+      perceived embodiment
+    </td><td class="col4">
+      Body ownership, Agency and motor control, Tactile sensations, Location of the body, External appearance
+    </td><td class="col5">
+      25
+    </td><td class="col6">
+      Avatar Embodiment. Towards a Standardized Questionnaire
+    </td><td class="col7">
+      Gonzalez-Franco & Peck
+    </td><td class="col8">
+      2018
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      62
+    </td><td class="col2">
+      MDMT
+    </td><td class="col3">
+      trust
+    </td><td class="col4">
+      performance trust and moral trust
+    </td><td class="col5">
+      16
+    </td><td class="col6">
+      A multi-dimensional conception and measure of human-robot trust
+    </td><td class="col7">
+      Malle, B. & Ullman D.
+    </td><td class="col8">
+      2021
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      69
+    </td><td class="col2">
+      RAS
+    </td><td class="col3">
+      anxiety toward robots
+    </td><td class="col4">
+      unclear
+    </td><td class="col5">
+      11
+    </td><td class="col6">
+      Measurement of Anxiety toward Robots
+    </td><td class="col7">
+      Nomura et al.
+    </td><td class="col8">
+      2006
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      77
+    </td><td class="col2">
+      Frankenstein Syndrome Questionnaire
+    </td><td class="col3">
+      social acceptance of humanoid robots
+    </td><td class="col4">
+      general anxiety toward humanoid robots, apprehension toward social risks of humanoid robots, trusworthiness for developers of humanoid robots, expectation for humanoid robots in daily life
+    </td><td class="col5">
+      27 or 30
+    </td><td class="col6">
+      Social acceptance of humanoid robots in Japan: A survey for development of the frankenstein syndorome questionnaire
+    </td><td class="col7">
+      Nomura et al.
+    </td><td class="col8">
+      2012
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      77
+    </td><td class="col2">
+      HRI Trust Scale
+    </td><td class="col3">
+      trust
+    </td><td class="col4">
+      team configuration, team process, context, task, and system
+    </td><td class="col5">
+      36
+    </td><td class="col6">
+      You Want Me to Trust a ROBOT? The Development of a HumanRobot Interaction Trust Scale
+    </td><td class="col7">
+      Yagoda and Gillan
+    </td><td class="col8">
+      2012
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      85
+    </td><td class="col2">
+      SEQ (Standardized Embodiment Questionnaire) version 2
+    </td><td class="col3">
+      perceived embodiment
+    </td><td class="col4">
+      appearance,
+response, ownership, multisensory
+    </td><td class="col5">
+      16
+    </td><td class="col6">
+      Avatar Embodiment. A Standardized Questionnaire
+    </td><td class="col7">
+      Peck and Gonzalez-Franco
+    </td><td class="col8">
+      2021
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      85
+    </td><td class="col2">
+      RoSAS
+    </td><td class="col3">
+      social attributes that people ascribe to machines
+    </td><td class="col4">
+      competence, warmth, discomfort
+    </td><td class="col5">
+      18
+    </td><td class="col6">
+      The Robotic Social Attributes Scale (RoSAS): Development and Validation
+    </td><td class="col7">
+      Carpinella et al.
+    </td><td class="col8">
+      2017
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      85
+    </td><td class="col2">
+      NA
+    </td><td class="col3">
+      trust
+    </td><td class="col4">
+      safe co-operation, robot and gripper reliability, robot's motion and pick-up speed
+    </td><td class="col5">
+      10
+    </td><td class="col6">
+      The Development of a Scale to Evaluate Trust in Industrial Human-robot Collaboration
+    </td><td class="col7">
+      Charalambous, Fletcher, Webb
+    </td><td class="col8">
+      2016
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      92
+    </td><td class="col2">
+      EmCorp Scale
+    </td><td class="col3">
+      perceived embodiment
+    </td><td class="col4">
+      
+    </td><td class="col5">
+      
+    </td><td class="col6">
+      The Peculiarities of Robot Embodiment (EmCorp-Scale)
+    </td><td class="col7">
+      Hoffmann et al.
+    </td><td class="col8">
+      2018
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      100
+    </td><td class="col2">
+      GAToRS
+    </td><td class="col3">
+      attitudes towards robots
+    </td><td class="col4">
+      personal level positive attitude, personal level negative attitude, societal level positive attitude, societal level negative attitude
+    </td><td class="col5">
+      20
+    </td><td class="col6">
+      General Attitudes Towards Robots Scale (GAToRS): A New Instrument for Social Surveys
+    </td><td class="col7">
+      Koverola et al.
+    </td><td class="col8">
+      2022
+    </td></tr>
+
+  
+</table>-->
+
+  </div>
+
+</article>
+
+      </div>
+    </main><footer class="site-footer h-card">
+  <data class="u-url" href="/"></data>
+
+  <div class="wrapper">
+
+    <!-- <h2 class="footer-heading">Finding the &quot;Perfect&quot; Scale</h2> -->
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        <ul class="contact-list">
+          <li class="p-name">Finding the &quot;Perfect&quot; Scale</li></ul>
+      </div>
+
+      <div class="footer-col footer-col-2"><ul class="social-media-list"></ul>
+</div>
+
+      <div class="footer-col footer-col-3">
+        <p>A database developed to help you find the &quot;perfect&quot; scale for your research.</p>
+      </div>
+    </div>
+
+  </div>
+
+</footer>
+
+</body>
+
+</html>
