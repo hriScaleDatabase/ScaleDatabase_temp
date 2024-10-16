@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Guideline
-permalink: /guideline/
+permalink: https://hriscaledatabase.github.io/ScaleDatabase_temp/guideline/ #/guideline/
 ---
 
 How the guideline works
