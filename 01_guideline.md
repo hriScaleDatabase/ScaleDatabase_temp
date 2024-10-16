@@ -7,7 +7,7 @@ permalink: https://hriscaledatabase.github.io/ScaleDatabase_temp/guideline #/gui
 How the guideline works
 
 What's included 
-test123
+test6789
 
 Tips for how to use it: Use comments section to figure out specific details including about validation studies
 Don’t just rely on the rating value - read the papers!
