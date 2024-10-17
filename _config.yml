@@ -22,8 +22,8 @@ title: Finding the "Perfect" Scale
 #email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   A database developed to help you find the "perfect" scale for your research.
-baseurl: "/ScaleDatabase_temp" # the subpath of your site, e.g. /blog
-url: "https://hriscaledatabase.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://hriscaledatabase.psychology.gmu.edu" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 #github_username:  jekyll
 
