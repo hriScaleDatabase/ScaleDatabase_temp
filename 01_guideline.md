@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Guideline
-permalink: https://hriscaledatabase.psychology.gmu.edu/guideline #/guideline/
+permalink: /guideline/
 ---
 
 How the guideline works
