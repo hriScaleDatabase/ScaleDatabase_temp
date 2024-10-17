@@ -16,8 +16,10 @@ Finding the "perfect" scale for your research is not always a simple or straight
 <br>Jump to the [guideline](/guideline) to learn more about the guideline items and our recommendations for how to best use this database. 
 <br>Jump to the [database](/database) to find your "perfect" scale!
 
-<a href="/assets/pdf/THRI_ScaleGuidelines_2024_10.4.24.pdf" target="_blank">Download the perfect scales paper</a>
+
 <br> Saad, L., Roesler, E., Phillips, B. K., & Trafton, J. G. (under review) Choosing the "perfect" scale: a primer to evaluate existing scales in HRI. 
 
 
 <img src = "{{site.image-path}}/psychometrics-and-scale-dev.jpg" width="250" height="200" alt="Image 1"> <img src = "{{site.image-path}}/HRI.jpg" width="300" height="200" alt="Image 1"> 
+
+[<a href="/assets/pdf/THRI_ScaleGuidelines_2024_10.4.24.pdf" target="_blank">Download the perfect scales paper</a>]: #
