@@ -87,6 +87,16 @@ search by construct, author, scale name, year of publication-->
     }); */
 </script>
 
+
+# Tips for using the database
+
+* Each page (clickable link) below contains information about a specific scale. Scales are grouped by category and the guideline was applied to each scale. Click on the links to get more information about a scale.
+* In some cases, the scale development and validation process was conducted in separate papers (e.g., Avatar Embodiment) and therefore the guideline was applied to each paper individually. 
+* If a scale has been updated, we will include a link at the top of the page to the most recent version of the scale. 
+* Scale pages include: a construct definition (as reported in the paper - quoted where possible), a rating percentage out of 100%, details about which items it received points for (a check indicates a point), a comments section with extra information by the expert reviewers where applicable, a link to the paper and citation in APA format, where possible a PDF of the scale and administration and scoring instructions, and a list of the final scale items as reported in the paper.
+* Use the comment section on each page to figure out the specific details including about whether this was a validation study.
+* Don’t just rely on the rating value that has been reported on the page - read the papers!
+
 ## Scales by Category
 
 # Attitudes/Attributes
@@ -115,16 +125,6 @@ search by construct, author, scale name, year of publication-->
 <br>62&emsp;&ensp;[Multidimensional Measure of Trust (MDMT)]({% post_url 2024-06-04-MDMT %})
 <br>31&emsp;&ensp;[Trust Perception Scale-HRI]({% post_url 2024-06-11-yagodatrust %})
 <br>23&emsp;&ensp;[Multidimensional Measure of Trust (MDMT) version 2]({% post_url 2024-06-12-MDMTv2 %})
-
-
-# Tips for using the guideline and the database
-
-* Each page (clickable link) below contains information about a specific scale. Scales are grouped by category and the guideline was applied to each scale. Click on the links to get more information about a scale.
-* In some cases, the scale development and validation process was conducted in separate papers (e.g., Avatar Embodiment) and therefore the guideline was applied to each paper individually. 
-* If a scale has been updated, we will include a link at the top of the page to the most recent version of the scale. 
-* Scale pages include: a construct definition (as reported in the paper - quoted where possible), a rating percentage out of 100%, details about which items it received points for (a check indicates a point), a comments section with extra information by the expert reviewers where applicable, a link to the paper and citation in APA format, where possible a PDF of the scale and administration and scoring instructions, and a list of the final scale items as reported in the paper.
-* Use the comment section on each page to figure out the specific details including about whether this was a validation study.
-* Don’t just rely on the rating value that has been reported on the page - read the papers!
 
 <br>
 <hr>
