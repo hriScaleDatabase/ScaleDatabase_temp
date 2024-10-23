@@ -55,8 +55,8 @@ three questions.
 11. *Did the scale developers include a factor structure test (e.g., second EFA, CFA, DIF, test of unidimensionality if using Rasch, or similar)?*
 After a scale has been created, it is best to determine if the scale has the same factor structure on a different sample. Check to see if there is a test for factor structure. A confirmatory factor analysis (CFA) or a Differential Item Function (DIF) are common approaches.
 
-12. *Was a measure of reliability (e.g., Cronbach's alpha or McDonald's omega total or omega hierarchical, Tarkkhonen's Rho) reported?*
-Reliability refers to the principle that a mesaurement produces similar results under similar conditions and is related to one of the core components of science: replicability. There should be some test of the scale's reliability in the paper. This can be completed using metrics such as omega total or omega hierarchical in addition to Cronbach's coefficient alpha. A reasonable minimum threshold for reliability is >= 0.80.
+12. *Was a measure of reliability (e.g., Cronbach's &alpha; or McDonald's ω<sub>t</sub> or ω<sub>h</sub>, Tarkkhonen's Rho) reported?*
+Reliability refers to the principle that a mesaurement produces similar results under similar conditions and is related to one of the core components of science: replicability. There should be some test of the scale's reliability in the paper. This can be completed using metrics such as ω<sub>t</sub> or &Omega; hierarchical in addition to Cronbach's coefficient &alpha;. A reasonable minimum threshold for reliability is &ge; 0.80.
 
 13. *Was a test of validity (e.g., predictive, concurrent, convergent, discriminant) reported?*
 Validity measures the extent to which the scale actually measures the latent dimension it was developed to
