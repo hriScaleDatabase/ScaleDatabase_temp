@@ -4,8 +4,6 @@ title: FAQ
 permalink: /faq/
 ---
 
-Here is a page that lists all the frequently asked questions and our responses.
-
 <details>
   <summary style="font-size: 30px;">Why didn't my scale get a 100% rating?</summary>
   <p>If a scale did not receive a perfect rating (13/13 points) then it is because the paper we reviewed either did not conduct the corresponding analysis or did not report it. We would like to make it clear that just because a scale has not received a perfect score using our guideline (as most scales have not) does not mean that it should not be used. We simply provide the reader/researcher with the information about the missing components in the scale development process to allow them to make as informed a decision as possible.</p>
