@@ -11,7 +11,7 @@ permalink: /team/
   </div>
 </div>
 
-<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+<div style="display: flex; align-items: flex-start; flex-direction: row-reverse; margin-bottom: 20px;">
   <img src="{{site.image-path}}/eileen.jpg" width="250" height="200" alt="eileen" style="margin-right: 15px;">
   <div>
     <strong>Eileen Roesler</strong> is an Assistant Professor in the Department of Psychology at George Mason University, specializing in the Human Factors and Applied Cognition Group. As the principal investigator in both the Human-Agent Collaboration (<a href="https://hac.lab.gmu.edu/" target="_blank">hac-lab</a>) and Human-Robot Interaction (<a href="https://hri.lab.gmu.edu/" target="_blank">hri-lab</a>) labs, she leads experimental research as well as research in the development and validation of questionnaires. As a dedicated international scholar, one of her core passions is the high-quality translation and cross-country validation of these instruments, ensuring their validity, reliability, and applicability across more diverse populations.
@@ -25,8 +25,8 @@ permalink: /team/
   </div>
 </div>
 
-<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-  <img src="{{site.image-path}}/trafton.mug.png" width="100" height="200" alt="greg" style="margin-right: 15px;">
+<div style="display: flex; align-items: flex-start; flex-direction: row-reverse; margin-bottom: 20px;">
+  <img src="{{site.image-path}}/trafton.mug.png" width="150" height="150" alt="greg" style="margin-right: 15px;">
   <div>
     <strong>Greg Trafton</strong> is the section head for the Intelligent Systems Section in the Artificial Intelligence Center at the Naval Research Laboratory in Washington, DC.
   </div>
