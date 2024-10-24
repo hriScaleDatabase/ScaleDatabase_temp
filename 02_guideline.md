@@ -14,7 +14,7 @@ Click here for a [Glossary]({% post_url 2024-10-09-glossary %})
 <hr>
 <br>
 
-<br>The guideline questions are grouped into the three stages of the scale development and validation process: item development, scale development, and scale evaluation.
+<br>The guideline questions are grouped into the three stages of the scale development and validation process: **item development**, **scale development**, and **scale evaluation**.
 
 # Stage 1: Item development
 Stage summary: Item development refers to the process by which the items of the scale are created. Each item is intended to capture the construct of interest either in part or in full. There are **three** main questions the reader can ask of the scale at this stage:
@@ -53,8 +53,7 @@ It is very likely the initial set of items in its entirety will either not be ap
 It is critical that the final version of the scale in the publication is clearly reported to ensure that the scale is used as intended. The reader should look for this information either in the main text of the publication, in an appendix, or in an online repository.
 
 # Stage 3: Scale evaluation
-Stage summary: Scale evaluation occurs after the original scale is created and attempts to answer the following
-three questions.
+Stage summary: Scale evaluation occurs after the original scale is created and attempts to answer the following **three** questions.
 
 11. *Did the scale developers include a factor structure test (e.g., second EFA, CFA, DIF, test of unidimensionality if using Rasch, or similar)?*
 After a scale has been created, it is best to determine if the scale has the same factor structure on a different sample. Check to see if there is a test for factor structure. A confirmatory factor analysis (CFA) or a Differential Item Function (DIF) are common approaches.
