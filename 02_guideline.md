@@ -10,6 +10,10 @@ The guideline aims to help you pick the appropriate scale, evaluate whether it w
 
 Click here for a [Glossary]({% post_url 2024-10-09-glossary %})
 
+<br>
+<hr>
+<br>
+
 <br>The guideline questions are grouped into the three stages of the scale development and validation process: item development, scale development, and scale evaluation.
 
 # Stage 1: Item development

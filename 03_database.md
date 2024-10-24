@@ -98,6 +98,7 @@ search by construct, author, scale name, year of publication-->
 * Don’t just rely on the rating value that has been reported on the page - read the papers!
 
 ## Scales by Category
+The values to the left of the scale title indicate the total score (out of 100 max) that the scale received using our guideline. 
 
 # Attitudes/Attributes
 100&emsp;[General Attitudes Towards Robots Scale (GAToRS)]({% post_url 2024-06-03-gators %})
