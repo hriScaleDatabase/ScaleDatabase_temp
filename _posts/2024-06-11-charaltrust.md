@@ -61,7 +61,7 @@ The authors aim to measure trust specifically in the context of industrial human
     </tr>
     <tr>
       <td>&#10003;</td>
-      <td>Did they list the final number of items included in the scale?</td>
+      <td>Did they list the final items included in the scale?</td>
     </tr>
     <tr>
       <td>&#10003;</td>
@@ -87,7 +87,7 @@ None
 [PAPER](https://link.springer.com/article/10.1007/s12369-015-0333-8){:target="_blank"}
 <br>Charalambous, G., Fletcher, S., & Webb, P. (2016). The development of a scale to evaluate trust in industrial human-robot collaboration. International Journal of Social Robotics, 8, 193-209.
 
-<br>PDF of instructions for use, scoring, and blank scale is not readily available. Check the paper for more details or click [here]({% post_url 2024-06-20-submitScale %}) to submit this information if you are the author of this scale.
+<br>PDF of instructions for use, scoring, and blank scale is not readily available. Check the paper for more details or email hriscaledatabase@gmail.com to submit this information if you are the author of this scale.
 
 # Final Scale Items (10 total):
 

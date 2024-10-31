@@ -61,7 +61,7 @@ TBD
     </tr>
     <tr>
       <td>&#10003;</td>
-      <td>Did they list the final number of items included in the scale?</td>
+      <td>Did they list the final items included in the scale?</td>
     </tr>
     <tr>
       <td>&#10003;</td>
@@ -87,7 +87,7 @@ TBD
 [PAPER](https://dl.acm.org/doi/abs/10.1145/3171221.3171242){:target="_blank"}
 <br>Hoffmann, L., Bock, N., & Rosenthal vd Pütten, A. M. (2018, February). The peculiarities of robot embodiment (emcorp-scale) development, validation and initial test of the embodiment and corporeality of artificial agents scale. In Proceedings of the 2018 ACM/IEEE international conference on human-robot interaction (pp. 370-378).
 
-<br>PDF of scale as well as instructions for administration and scoring are not readily available. Check the paper for more details or click [here]({% post_url 2024-06-20-submitScale %}) to submit this information if you are the author of this scale.
+<br>PDF of scale as well as instructions for administration and scoring are not readily available. Check the paper for more details or email hriscaledatabase@gmail.com to submit this information if you are the author of this scale.
 
 # Final Scale Items (20 items)):
 

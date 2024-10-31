@@ -60,7 +60,7 @@ The author did not provide a definition of trust in this paper.
     </tr>
     <tr>
       <td>&#10003;</td>
-      <td>Did they list the final number of items included in the scale?</td>
+      <td>Did they list the final items included in the scale?</td>
     </tr>
     <tr>
       <td style="color: red;">&#10006;</td>

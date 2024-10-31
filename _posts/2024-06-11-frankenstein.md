@@ -63,7 +63,7 @@ The authors define the construct of "Frankenstein Syndrome" as follows:
     </tr>
     <tr>
       <td>&#10003;</td>
-      <td>Did they list the final number of items included in the scale?</td>
+      <td>Did they list the final items included in the scale?</td>
     </tr>
     <tr>
       <td style="color: red;">&#10006;</td>
@@ -90,7 +90,7 @@ The authors define the construct of "Frankenstein Syndrome" as follows:
 [PAPER](https://link.springer.com/chapter/10.1007/978-3-319-02675-6_27){:target="_blank"}
 <br>Syrdal, D. S., Nomura, T., & Dautenhahn, K. (2013, October). The Frankenstein Syndrome Questionnaire–Results from a quantitative cross-cultural survey. In International conference on social robotics (pp. 270-279). Cham: Springer International Publishing.
 
-<br>PDF of scale as well as instructions for administration and scoring are not readily available. Check the paper for more details or click [here]({% post_url 2024-06-20-submitScale %}) to submit this information if you are the author of this scale.
+<br>PDF of scale as well as instructions for administration and scoring are not readily available. Check the paper for more details or email hriscaledatabase@gmail.com to submit this information if you are the author of this scale.
 
 # Final Scale Items (final # not reported):
 

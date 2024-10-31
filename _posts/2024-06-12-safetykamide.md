@@ -63,7 +63,7 @@ The authors report there are six fators of psychological safety:
     </tr>
     <tr>
       <td>&#10003;</td>
-      <td>Did they list the final number of items included in the scale?</td>
+      <td>Did they list the final items included in the scale?</td>
     </tr>
     <tr>
       <td style="color: red;">&#10006;</td>
@@ -89,7 +89,7 @@ The authors report there are six fators of psychological safety:
 [PAPER](https://dl.acm.org/doi/abs/10.1145/2157689.2157698){:target="_blank"}
 <br>Kamide, H., Mae, Y., Kawabe, K., Shigemi, S., Hirose, M., & Arai, T. (2012, March). New measurement of psychological safety for humanoid. In Proceedings of the seventh annual ACM/IEEE international conference on Human-Robot Interaction (pp. 49-56).
 
-<br>PDF of scale as well as instructions for administration and scoring are not readily available. Check the paper for more details or click [here]({% post_url 2024-06-20-submitScale %}) to submit this information if you are the author of this scale.
+<br>PDF of scale as well as instructions for administration and scoring are not readily available. Check the paper for more details or email hriscaledatabase@gmail.com to submit this information if you are the author of this scale.
 
 # Final Scale Items (33 items):
 

@@ -68,7 +68,7 @@ The authors identify the construct of avatar embodiment as consisting of 6 main 
     </tr>
     <tr>
       <td>&#10003;</td>
-      <td>Did they list the final number of items included in the scale?</td>
+      <td>Did they list the final items included in the scale?</td>
     </tr>
     <tr>
       <td style="color: red;">&#10006;</td>
@@ -94,7 +94,7 @@ The authors identify the construct of avatar embodiment as consisting of 6 main 
 [PAPER](https://www.frontiersin.org/articles/10.3389/frobt.2018.00074/full){:target="_blank"}
 <br>Gonzalez-Franco, M., & Peck, T. C. (2018). Avatar embodiment. towards a standardized questionnaire. Frontiers in Robotics and AI, 5, 74.
 
-<br>PDF of scale as well as instructions for administration and scoring are not readily available. Check the paper for more details or click [here]({% post_url 2024-06-20-submitScale %}) to submit this information if you are the author of this scale.
+<br>PDF of scale as well as instructions for administration and scoring are not readily available. Check the paper for more details or email hriscaledatabase@gmail.com to submit this information if you are the author of this scale.
 
 # Final Scale Items (25 total):
 

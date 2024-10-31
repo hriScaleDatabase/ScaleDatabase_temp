@@ -63,7 +63,7 @@ The authors define the construct of fluency as follows (adding to test commit on
     </tr>
     <tr>
       <td>&#10003;</td>
-      <td>Did they list the final number of items included in the scale?</td>
+      <td>Did they list the final items included in the scale?</td>
     </tr>
     <tr>
       <td style="color: red;">&#10006;</td>
@@ -89,7 +89,7 @@ None
 [PAPER](https://ieeexplore.ieee.org/abstract/document/8678448?casa_token=wDu8TKkvAEAAAAAA:OSe-vqBxJQbKJQILtVcRXEmtl41JGwN5iHvC7d1nFSjWN0WpDqT2elhqrnvs5x_5QGcP7OCm8w){:target="_blank"}
 <br>Hoffman, G. (2019). Evaluating fluency in human–robot collaboration. IEEE Transactions on Human-Machine Systems, 49(3), 209-218.
 
-<br>PDF of scale as well as instructions for administration and scoring are not readily available. Check the paper for more details or click [here]({% post_url 2024-06-20-submitScale %}) to submit this information if you are the author of this scale.
+<br>PDF of scale as well as instructions for administration and scoring are not readily available. Check the paper for more details or email hriscaledatabase@gmail.com to submit this information if you are the author of this scale.
 
 # Final Scale Items (8 total):
 

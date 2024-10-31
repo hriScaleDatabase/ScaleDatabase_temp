@@ -63,7 +63,7 @@ The authors define the construct of trust as follows:
     </tr>
     <tr>
       <td>&#10003;</td>
-      <td>Did they list the final number of items included in the scale?</td>
+      <td>Did they list the final items included in the scale?</td>
     </tr>
     <tr>
       <td>&#10003;</td>
@@ -90,7 +90,7 @@ None
 <br>Yagoda, R. E., & Gillan, D. J. (2012). You want me to trust a ROBOT? The development of a human–robot interaction trust scale. International Journal of Social Robotics, 4, 235-248.
 
 <a href="/assets/pdf/yagoda_trust_scale.pdf" target="_blank">click here to access a blank scale</a>
-<br>PDF of instructions for administration and score not readily available. Check the paper for more details or click [here]({% post_url 2024-06-20-submitScale %}) to submit this information if you are the author of this scale.
+<br>PDF of instructions for administration and score not readily available. Check the paper for more details or email hriscaledatabase@gmail.com to submit this information if you are the author of this scale.
 
 # Final Scale Items (36 total):
 
