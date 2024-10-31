@@ -114,6 +114,7 @@ The values to the left of the scale title indicate the total score (out of 100 m
 <br>62&emsp;&ensp;[Educational Robot Attitude Scale (ERAS)]({% post_url 2024-10-31-ERAS %})
 <br>46&emsp;&ensp;[Multidimensional Robot Attitude Scale]({% post_url 2024-10-31-MDRAS %})
 <br>38&emsp;&ensp;[Perceived Empathy (RoPE)]({% post_url 2024-06-12-ROPE %})
+<br>23&emsp;&ensp;[Godspeed Scale]({% post_url 2024-10-31-Godspeed %})
 
 
 # Collaborative Fluency
