@@ -6,6 +6,7 @@ permalink: /Database/
 <select id="jumpToDropdown">
   <option value="">Jump to...</option>
   <option value="#scales-by-category">Top</option>
+  <option value="#anthropomorphism">Anthropomorphism</option>
   <option value="#attitudesattributes">Attitudes/Attributes</option>
   <option value="#collaborative-fluency">Collaborative Fluency</option>
   <option value="#perceived-embodiment">Perceived Embodiment</option>
@@ -99,6 +100,9 @@ search by construct, author, scale name, year of publication-->
 
 ## Scales by Category
 The values to the left of the scale title indicate the total score (out of 100 max) that the scale received using our guideline. 
+
+# Anthropomorphism
+
 
 # Attitudes/Attributes
 100&emsp;[General Attitudes Towards Robots Scale (GAToRS)]({% post_url 2024-06-03-gators %})
