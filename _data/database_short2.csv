@@ -1,5 +1,6 @@
 Rating,ScaleName,Construct label,DimLabels,NumItems,Title,Authors,Year
 100,GAToRS,attitudes towards robots,"personal level positive attitude, personal level negative attitude, societal level positive attitude, societal level negative attitude",20,General Attitudes Towards Robots Scale (GAToRS): A New Instrument for Social Surveys,Koverola et al.,2022
+100,PA,perceived agency,unidimensional,14,The Perception of Agency,Trafton et al.,2024
 92,EmCorp Scale,perceived embodiment,,,The Peculiarities of Robot Embodiment (EmCorp-Scale),Hoffmann et al.,2018
 92,PMP,perceived moral patiency in robots,"care, fairness, authority, loyalty, purity, and liberty",18,Perceived moral patiency of social robots: Explication and scale development,Banks et al.,2023
 85,SEQ (Standardized Embodiment Questionnaire) version 2,perceived embodiment,"appearance,
