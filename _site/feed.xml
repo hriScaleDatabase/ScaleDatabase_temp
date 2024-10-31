@@ -1,88 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="http://hriscaledatabase.psychology.gmu.edu/feed.xml" rel="self" type="application/atom+xml" /><link href="http://hriscaledatabase.psychology.gmu.edu/" rel="alternate" type="text/html" /><updated>2024-10-17T18:30:32-04:00</updated><id>http://hriscaledatabase.psychology.gmu.edu/feed.xml</id><title type="html">Finding the “Perfect” Scale</title><subtitle>A database developed to help you find the &quot;perfect&quot; scale for your research.</subtitle><entry><title type="html">Welcome to Jekyll!</title><link href="http://hriscaledatabase.psychology.gmu.edu/jekyll/update/2024/10/16/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2024-10-16T06:42:37-04:00</published><updated>2024-10-16T06:42:37-04:00</updated><id>http://hriscaledatabase.psychology.gmu.edu/jekyll/update/2024/10/16/welcome-to-jekyll</id><content type="html" xml:base="http://hriscaledatabase.psychology.gmu.edu/jekyll/update/2024/10/16/welcome-to-jekyll.html"><![CDATA[<p>You’ll find this post in your <code class="language-plaintext highlighter-rouge">_posts</code> directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run <code class="language-plaintext highlighter-rouge">jekyll serve</code>, which launches a web server and auto-regenerates your site when a file is updated.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="http://hriscaledatabase.psychology.gmu.edu/feed.xml" rel="self" type="application/atom+xml" /><link href="http://hriscaledatabase.psychology.gmu.edu/" rel="alternate" type="text/html" /><updated>2024-10-31T17:17:17-04:00</updated><id>http://hriscaledatabase.psychology.gmu.edu/feed.xml</id><title type="html">Finding the “Perfect” Scale</title><subtitle>A database developed to help you find the &quot;perfect&quot; scale for your research.</subtitle><entry><title type="html">Trust Perception Scale-HRI</title><link href="http://hriscaledatabase.psychology.gmu.edu/trust/2024/10/31/trustschaefer.html" rel="alternate" type="text/html" title="Trust Perception Scale-HRI" /><published>2024-10-31T00:00:00-04:00</published><updated>2024-10-31T00:00:00-04:00</updated><id>http://hriscaledatabase.psychology.gmu.edu/trust/2024/10/31/trustschaefer</id><content type="html" xml:base="http://hriscaledatabase.psychology.gmu.edu/trust/2024/10/31/trustschaefer.html"><![CDATA[<h1 id="construct-summary">Construct Summary</h1>
 
-<p>Jekyll requires blog post files to be named according to the following format:</p>
+<p>The author did not provide a definition of trust in this paper.</p>
 
-<p><code class="language-plaintext highlighter-rouge">YEAR-MONTH-DAY-title.MARKUP</code></p>
-
-<p>Where <code class="language-plaintext highlighter-rouge">YEAR</code> is a four-digit number, <code class="language-plaintext highlighter-rouge">MONTH</code> and <code class="language-plaintext highlighter-rouge">DAY</code> are both two-digit numbers, and <code class="language-plaintext highlighter-rouge">MARKUP</code> is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.</p>
-
-<p>Jekyll also offers powerful support for code snippets:</p>
-
-<figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="k">def</span> <span class="nf">print_hi</span><span class="p">(</span><span class="nb">name</span><span class="p">)</span>
-  <span class="nb">puts</span> <span class="s2">"Hi, </span><span class="si">#{</span><span class="nb">name</span><span class="si">}</span><span class="s2">"</span>
-<span class="k">end</span>
-<span class="n">print_hi</span><span class="p">(</span><span class="s1">'Tom'</span><span class="p">)</span>
-<span class="c1">#=&gt; prints 'Hi, Tom' to STDOUT.</span></code></pre></figure>
-
-<p>Check out the <a href="https://jekyllrb.com/docs/home">Jekyll docs</a> for more info on how to get the most out of Jekyll. File all bugs/feature requests at <a href="https://github.com/jekyll/jekyll">Jekyll’s GitHub repo</a>. If you have questions, you can ask them on <a href="https://talk.jekyllrb.com/">Jekyll Talk</a>.</p>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.]]></summary></entry><entry><title type="html">Glossary</title><link href="http://hriscaledatabase.psychology.gmu.edu/2024/10/09/glossary.html" rel="alternate" type="text/html" title="Glossary" /><published>2024-10-09T00:00:00-04:00</published><updated>2024-10-09T00:00:00-04:00</updated><id>http://hriscaledatabase.psychology.gmu.edu/2024/10/09/glossary</id><content type="html" xml:base="http://hriscaledatabase.psychology.gmu.edu/2024/10/09/glossary.html"><![CDATA[<h1 id="classical-test-theory">Classical Test Theory</h1>
-
-<h1 id="construct">Construct</h1>
-
-<h1 id="concurrent-validity">Concurrent Validity</h1>
-
-<h1 id="construct-validity">Construct Validity</h1>
-
-<h1 id="convergent-validity">Convergent Validity</h1>
-
-<h1 id="criterion-validity">Criterion Validity</h1>
-
-<h1 id="custom-scale">Custom Scale</h1>
-
-<h1 id="dimension">Dimension</h1>
-
-<h1 id="discriminant-validity">Discriminant Validity</h1>
-
-<h1 id="domain">Domain</h1>
-
-<h1 id="factor">Factor</h1>
-
-<h1 id="item">Item</h1>
-
-<h1 id="item-response-theory">Item Response Theory</h1>
-
-<h1 id="latent-variable">Latent variable</h1>
-
-<h1 id="predictive-validity">Predictive Validity</h1>
-
-<h1 id="psychometrics">Psychometrics</h1>
-
-<h1 id="rasch">Rasch</h1>
-
-<h1 id="reliability">Reliability</h1>
-
-<h1 id="scale">Scale</h1>
-
-<h1 id="subscale">Subscale</h1>]]></content><author><name></name></author><summary type="html"><![CDATA[Classical Test Theory]]></summary></entry><entry><title type="html">Negative Attitudes Towards Robots Scale</title><link href="http://hriscaledatabase.psychology.gmu.edu/attitudes/2024/07/02/NARS.html" rel="alternate" type="text/html" title="Negative Attitudes Towards Robots Scale" /><published>2024-07-02T00:00:00-04:00</published><updated>2024-07-02T00:00:00-04:00</updated><id>http://hriscaledatabase.psychology.gmu.edu/attitudes/2024/07/02/NARS</id><content type="html" xml:base="http://hriscaledatabase.psychology.gmu.edu/attitudes/2024/07/02/NARS.html"><![CDATA[<p><strong>NOTE: THIS IS NOT THE LATEST VERSION OF THIS SCALE.</strong></p>
-
-<h1 id="construct-summary">Construct Summary</h1>
-
-<p>The authors define the construct of negative attitudes towards robots as follows:</p>
-
-<blockquote>
-  <p>“In considering negative attitudes toward robots, we need to take into account two psychological constructs related to it, which will be components of negative attitudes toward robots. One is the computer anxiety mentioned above, and the other is communication apprehension.” (p 440)</p>
-</blockquote>
-
-<p>They define computer anxiety as follows:</p>
-
-<blockquote>
-  <p>“…considered to be anxiety or apprehension evoked in individuals when they use computers, do things leading them to computers, or think about the meaning of computers.” (p. 440)</p>
-</blockquote>
-
-<p>They define communication apprehension as follows:</p>
-
-<blockquote>
-  <p>“…as a level of fear or anxiety in individuals toward real communication with another or others and prediction of it, such as speech, writing, singing, and so on.” (p. 441)</p>
-</blockquote>
-
-<p>The authors define attitudes as follows:</p>
-
-<blockquote>
-  <p>“It is defined as a relatively stable and enduring predisposition to behave or react in a certain way toward persons, objects, institutions, or issues, and the source is cultural, familial, and personal.” (p. 440)</p>
-</blockquote>
-
-<h1 id="rating--tbd">Rating = TBD%</h1>
-
-<p>The values below are not correct - need Jackie to include updated version with new scale items.</p>
+<h1 id="rating--31">Rating = 31%</h1>
 
 <table>
   <thead>
@@ -93,11 +13,11 @@
   </thead>
   <tbody>
     <tr>
-      <td>&#10003;</td>
+      <td style="color: red;">&#10006;</td>
       <td>Is the construct defined?</td>
     </tr>
     <tr>
-      <td>&#10003;</td>
+      <td style="color: red;">&#10006;</td>
       <td>Does the final version of the items capture the construct as it has been defined by the authors?</td>
     </tr>
     <tr>
@@ -105,11 +25,11 @@
       <td>Is the item generation process discussed (e.g., literature review, Delphi method, crowd-sourcing)?</td>
     </tr>
     <tr>
-      <td>&#10003;</td>
+      <td style="color: red;">&#10006;</td>
       <td>Person to items 10:1 for the initial set of items?</td>
     </tr>
     <tr>
-      <td>&#10003;</td>
+      <td style="color: red;">&#10006;</td>
       <td>Did they perform an EFA, PCA, Rasch, or similar test to determine the item to factor relationship?</td>
     </tr>
     <tr>
@@ -125,58 +45,88 @@
       <td>Did they provide loadings (EFA) or item fits (Rasch) of all items?</td>
     </tr>
     <tr>
-      <td style="color: red;">&#10006;</td>
+      <td>&#10003;</td>
       <td>Is there a description of the item removal process (e.g., using infit/outfit, factor loading minimum value, or cross-loading values)?</td>
     </tr>
     <tr>
       <td>&#10003;</td>
-      <td>Did they list the final number of items included in the scale?</td>
-    </tr>
-    <tr>
-      <td>&#10003;</td>
-      <td>Did they include a factor structure test (e.g., second EFA, CFA, DIF, test for unidimensionality when using Rasch, or similar)?</td>
-    </tr>
-    <tr>
-      <td>&#10003;</td>
-      <td>Was a measure of reliability (e.g., Cronbach’s alpha, McDonalds Omega_h or Omega_t, Tarkkonen’s Rho) reported?</td>
+      <td>Did they list the final items included in the scale?</td>
     </tr>
     <tr>
       <td style="color: red;">&#10006;</td>
+      <td>Did they include a factor structure test (e.g., second EFA, CFA, DIF, test for unidimensionality when using Rasch, or similar)?</td>
+    </tr>
+    <tr>
+      <td style="color: red;">&#10006;</td>
+      <td>Was a measure of reliability (e.g., Cronbach’s alpha, McDonalds Omega_h or Omega_t, Tarkkonen’s Rho) reported?</td>
+    </tr>
+    <tr>
+      <td>&#10003;</td>
       <td>Was a test of validity (e.g., predictive, concurrent, convergent, discriminant) reported?</td>
     </tr>
   </tbody>
 </table>
 
 <p><strong>Comments</strong>
-None</p>
+Short version of the scale is reported to by 14 items but only 11 are identified in the text of the paper.</p>
 
 <h1 id="reviewed-by-experts-">Reviewed by Experts ✓</h1>
 
 <h1 id="downloads">Downloads</h1>
-<p><a href="https://www.jbe-platform.com/content/journals/10.1075/is.7.3.14nom" target="_blank">PAPER</a>
-<br />Nomura, T., Suzuki, T., Kanda, T., &amp; Kato, K. (2006). Measurement of negative attitudes toward robots. Interaction Studies. Social Behaviour and Communication in Biological and Artificial Systems, 7(3), 437-454.</p>
+<p><a href="https://link.springer.com/chapter/10.1007/978-1-4899-7668-0_10" target="_blank">PAPER</a>
+<br />Schaefer, K. E. (2016). Measuring trust in human robot interactions: Development of the “trust perception scale-HRI”. In Robust intelligence and trust in autonomous systems (pp. 191-218). Boston, MA: Springer US.</p>
 
-<p><br />PDF of scale as well as instructions for administration and scoring are not readily available. Check the paper for more details or click <a href="/2024/06/20/submitScale.html">here</a> to submit this information if you are the author of this scale.</p>
+<p><br />PDF of scale as well as instructions for administration and scoring are included in the main text of the paper (see link above). Check the paper for more details.</p>
 
-<h1 id="final-scale-items-tbd">Final Scale Items (TBD):</h1>
+<h1 id="final-scale-items-40-or-14">Final Scale Items (40 or 14*):</h1>
 
-<p>TBD</p>]]></content><author><name></name></author><category term="attitudes" /><summary type="html"><![CDATA[NOTE: THIS IS NOT THE LATEST VERSION OF THIS SCALE.]]></summary></entry><entry><title type="html">Submit Your Scale For Review</title><link href="http://hriscaledatabase.psychology.gmu.edu/2024/06/20/submitScale.html" rel="alternate" type="text/html" title="Submit Your Scale For Review" /><published>2024-06-20T11:00:41-04:00</published><updated>2024-06-20T11:00:41-04:00</updated><id>http://hriscaledatabase.psychology.gmu.edu/2024/06/20/submitScale</id><content type="html" xml:base="http://hriscaledatabase.psychology.gmu.edu/2024/06/20/submitScale.html"><![CDATA[<p>Please send us a copy of your scale. Make sure to include the final version of the items on a separate page as well as instructions for administration and scoring.</p>
+<p>Items with a * represent short version of the scale (author reports 14 total but only 11 identified in paper)</p>
 
-<form action="https://formspree.io/your-email@example.com" method="POST">
-    <label>
-        Your email:
-        <input type="email" name="_replyto" />
-    </label>
-    <label>
-        Your scale information:
-        <textarea name="message"></textarea>
-    </label>
-    <button type="submit">Send</button>
-</form>]]></content><author><name></name></author><summary type="html"><![CDATA[Please send us a copy of your scale. Make sure to include the final version of the items on a separate page as well as instructions for administration and scoring.]]></summary></entry><entry><title type="html">EmCorp Scale</title><link href="http://hriscaledatabase.psychology.gmu.edu/perceived%20embodiment/2024/06/13/emcorphoffmann.html" rel="alternate" type="text/html" title="EmCorp Scale" /><published>2024-06-13T00:00:00-04:00</published><updated>2024-06-13T00:00:00-04:00</updated><id>http://hriscaledatabase.psychology.gmu.edu/perceived%20embodiment/2024/06/13/emcorphoffmann</id><content type="html" xml:base="http://hriscaledatabase.psychology.gmu.edu/perceived%20embodiment/2024/06/13/emcorphoffmann.html"><![CDATA[<p><strong>This is the most up-to-date version of this scale.</strong></p>
+<p><br /><em>What % of the time will this robot be…</em> 
+<br />Considered part of the team
+<br />Responsible
+<br />Supportive
+<br />Incompetent
+<br />Dependable*
+<br />Friendly
+<br />Reliable*
+<br />Pleasant
+<br />Unresponsive*
+<br />Autonomous
+<br />Predictable*
+<br />Conscious
+<br />Lifelike
+<br />A good teammate
+<br />Led astray by unexpected changes in the environment</p>
+
+<p><br /><em>What % of the time will this robot…</em>
+<br />Act consistently*
+<br />Protect people
+<br />Act as part of the team
+<br />Function successfully
+<br />Malfunction
+<br />Clearly communicate
+<br />Require frequent maintenance
+<br />Openly communicate
+<br />Have errors
+<br />Perform a task better than a novice human user
+<br />Know the difference between friend and foe
+<br />Provide feedback*
+<br />Possess adequate decision-making capability
+<br />Warn people of potential risks in the environment
+<br />Meet the needs of the mission/task*
+<br />Provide appropriate information*
+<br />Communicate with people*
+<br />Work best with a team
+<br />Keep classified information secure
+<br />Perform exactly as instructed*
+<br />Make sensible decisions
+<br />Work in close proximity with people
+<br />Tell the truth
+<br />Perform many functions at one time
+<br />Follow directions*</p>]]></content><author><name></name></author><category term="trust" /><summary type="html"><![CDATA[Construct Summary]]></summary></entry><entry><title type="html">Perceived Moral Patiency Scale (PMP)</title><link href="http://hriscaledatabase.psychology.gmu.edu/morality/2024/10/31/PMP.html" rel="alternate" type="text/html" title="Perceived Moral Patiency Scale (PMP)" /><published>2024-10-31T00:00:00-04:00</published><updated>2024-10-31T00:00:00-04:00</updated><id>http://hriscaledatabase.psychology.gmu.edu/morality/2024/10/31/PMP</id><content type="html" xml:base="http://hriscaledatabase.psychology.gmu.edu/morality/2024/10/31/PMP.html"><![CDATA[<p><strong>This is the most up-to-date version of this scale.</strong></p>
 
 <h1 id="construct-summary">Construct Summary</h1>
-
-<p>TBD</p>
 
 <h1 id="rating--92">Rating = 92%</h1>
 
@@ -201,7 +151,7 @@ None</p>
       <td>Is the item generation process discussed (e.g., literature review, Delphi method, crowd-sourcing)?</td>
     </tr>
     <tr>
-      <td style="color: red;">&#10006;</td>
+      <td>&#10003;</td>
       <td>Person to items 10:1 for the initial set of items?</td>
     </tr>
     <tr>
@@ -217,16 +167,16 @@ None</p>
       <td>Did they report the full initial set of items?</td>
     </tr>
     <tr>
-      <td>&#10003;</td>
+      <td style="color: red;">&#10006;</td>
       <td>Did they provide loadings (EFA) or item fits (Rasch) of all items?</td>
     </tr>
     <tr>
-      <td>&#10003;</td>
+      &lt;<td>&#10003;</td>
       <td>Is there a description of the item removal process (e.g., using infit/outfit, factor loading minimum value, or cross-loading values)?</td>
     </tr>
     <tr>
       <td>&#10003;</td>
-      <td>Did they list the final number of items included in the scale?</td>
+      <td>Did they list the final items included in the scale?</td>
     </tr>
     <tr>
       <td>&#10003;</td>
@@ -244,45 +194,60 @@ None</p>
 </table>
 
 <p><strong>Comments</strong>
-<br />full set of items listed in the appendix</p>
+Initial items are in supp material (OSF)</p>
 
 <h1 id="reviewed-by-experts-">Reviewed by Experts ✓</h1>
 
 <h1 id="downloads">Downloads</h1>
-<p><a href="https://dl.acm.org/doi/abs/10.1145/3171221.3171242" target="_blank">PAPER</a>
-<br />Hoffmann, L., Bock, N., &amp; Rosenthal vd Pütten, A. M. (2018, February). The peculiarities of robot embodiment (emcorp-scale) development, validation and initial test of the embodiment and corporeality of artificial agents scale. In Proceedings of the 2018 ACM/IEEE international conference on human-robot interaction (pp. 370-378).</p>
+<p><a href="https://link.springer.com/article/10.1007/s12369-022-00950-6" target="_blank">PAPER</a>
+<br />Banks, J., &amp; Bowman, N. D. (2023). Perceived moral patiency of social robots: Explication and scale development. International Journal of Social Robotics, 15(1), 101-113.</p>
 
-<p><br />PDF of scale as well as instructions for administration and scoring are not readily available. Check the paper for more details or click <a href="/2024/06/20/submitScale.html">here</a> to submit this information if you are the author of this scale.</p>
+<p><br />PDF of scale as well as instructions for administration and scoring are not readily available. Check the paper for more details or email hriscaledatabase@gmail.com submit this information if you are the author of this scale.</p>
 
-<h1 id="final-scale-items-20-items">Final Scale Items (20 items)):</h1>
+<h1 id="final-scale-items-18-total">Final Scale Items (18 total):</h1>
 
-<p>is physically embodied
-<br />is existent in the real world
-<br />is real
-<br />is unrestricted in its actions
-<br />is unrestricted in its movements
-<br />is unrestricted in its facial expressions
-<br />is unrestricted in its gestures
-<br />is able to autonomously navigate in space
-<br />is able to move towards me
-<br />is able to touch objects
-<br />is able to carry objects
-<br />is able to perform designated actions like brewing coffee or vacuuming
-<br />is able to move in space
-<br />is able to react to the same environmental stimuli as I do
-<br />is able to immediately react to my actions
-<br />is able to recognize emotions
-<br />is able to interpret (my) behaviors
-<br />is able to perceive what I perceive
-<br />is able to understand my behavior
-<br />is able to to perceive my behavior</p>]]></content><author><name></name></author><category term="perceived embodiment" /><summary type="html"><![CDATA[This is the most up-to-date version of this scale.]]></summary></entry><entry><title type="html">Perceived Embodiment - Validated</title><link href="http://hriscaledatabase.psychology.gmu.edu/perceived%20embodiment%20validated/2024/06/13/validateembodimentgonzalez.html" rel="alternate" type="text/html" title="Perceived Embodiment - Validated" /><published>2024-06-13T00:00:00-04:00</published><updated>2024-06-13T00:00:00-04:00</updated><id>http://hriscaledatabase.psychology.gmu.edu/perceived%20embodiment%20validated/2024/06/13/validateembodimentgonzalez</id><content type="html" xml:base="http://hriscaledatabase.psychology.gmu.edu/perceived%20embodiment%20validated/2024/06/13/validateembodimentgonzalez.html"><![CDATA[<p><strong>This is the most up-to-date version of this scale.</strong></p>
+<p><strong>Care</strong>
+<br />This robot should have its opinions considered.
+<br />This robot should be engaged in conversation. 
+<br />This robot should be helped to achieve its goals.</p>
+
+<p><strong>Fairness</strong>
+<br />This robot should be treated as an equal.
+<br />This robot should have advocates for equal rights.
+<br />This robot should be treated as humans are treated.</p>
+
+<p><strong>Authority</strong>
+<br />This robot should be respected.
+<br />This robot should be admired for its skills.
+<br />This robot should be obeyed.</p>
+
+<p><strong>Loyalty</strong>
+<br />This robot should have someone who always has their back.
+<br />This robot should have a devoted protector.
+<br />This robot should have humans support its purpose.</p>
+
+<p><strong>Purity</strong>
+<br />This robot should be protected from violent or lewd media.
+<br />This robot should be protected from the harsh realities of humanity.
+<br />This robot should only be allowed to consume wholesome information.</p>
+
+<p><strong>Liberty</strong> 
+<br />This robot should be programmed to be free.
+<br />This robot should be freed from control by others. 
+<br />This robot should be given free reign.</p>]]></content><author><name></name></author><category term="morality" /><summary type="html"><![CDATA[This is the most up-to-date version of this scale.]]></summary></entry><entry><title type="html">Perceived Moral Agency Scale (PMA)</title><link href="http://hriscaledatabase.psychology.gmu.edu/morality/2024/10/31/PMA.html" rel="alternate" type="text/html" title="Perceived Moral Agency Scale (PMA)" /><published>2024-10-31T00:00:00-04:00</published><updated>2024-10-31T00:00:00-04:00</updated><id>http://hriscaledatabase.psychology.gmu.edu/morality/2024/10/31/PMA</id><content type="html" xml:base="http://hriscaledatabase.psychology.gmu.edu/morality/2024/10/31/PMA.html"><![CDATA[<p><strong>This is the most up-to-date version of this scale.</strong></p>
 
 <h1 id="construct-summary">Construct Summary</h1>
 
-<p>The authors define the construct of embodiment as consistenting of three inter-related categories:</p>
+<p>The authors define the perceived moral agency as:</p>
 
 <blockquote>
-  <p>“appearance, response, ownership, and multi-sensory.” (p. 1)</p>
+  <p>a measure of the human attribution of the status of a machine’s agency and/or morality (independent of whether it actually has agency or morality) (p.  365)</p>
+</blockquote>
+
+<p>The scale consists of two dimensions:</p>
+
+<blockquote>
+  <p>Morality, featuring a cluster of both rational and intuited morality items and Dependency, featuring semantically reversed items associated with both autonomy and intentionality, representing an absence of agency and reliance on programming or other human control. (p. 366)</p>
 </blockquote>
 
 <h1 id="rating--85">Rating = 85%</h1>
@@ -324,16 +289,346 @@ None</p>
       <td>Did they report the full initial set of items?</td>
     </tr>
     <tr>
-      <td>&#10003;</td>
+      <td style="color: red;">&#10006;</td>
       <td>Did they provide loadings (EFA) or item fits (Rasch) of all items?</td>
     </tr>
     <tr>
-      <td>&#10003;</td>
+      &lt;<td>&#10003;</td>
       <td>Is there a description of the item removal process (e.g., using infit/outfit, factor loading minimum value, or cross-loading values)?</td>
     </tr>
     <tr>
       <td>&#10003;</td>
-      <td>Did they list the final number of items included in the scale?</td>
+      <td>Did they list the final items included in the scale?</td>
+    </tr>
+    <tr>
+      <td>&#10003;</td>
+      <td>Did they include a factor structure test (e.g., second EFA, CFA, DIF, test for unidimensionality when using Rasch, or similar)?</td>
+    </tr>
+    <tr>
+      <td>&#10003;</td>
+      <td>Was a measure of reliability (e.g., Cronbach’s alpha, McDonalds Omega_h or Omega_t, Tarkkonen’s Rho) reported?</td>
+    </tr>
+    <tr>
+      <td>&#10003;</td>
+      <td>Was a test of validity (e.g., predictive, concurrent, convergent, discriminant) reported?</td>
+    </tr>
+  </tbody>
+</table>
+
+<p><strong>Comments</strong>
+None</p>
+
+<h1 id="reviewed-by-experts-">Reviewed by Experts ✓</h1>
+
+<h1 id="downloads">Downloads</h1>
+<p><a href="https://www.sciencedirect.com/science/article/pii/S0747563218304035" target="_blank">PAPER</a>
+<br />Banks, J. (2019). A perceived moral agency scale: Development and validation of a metric for humans and social machines. Computers in Human Behavior, 90, 363-371.</p>
+
+<p><br />PDF of scale as well as instructions for administration and scoring are not readily available. Check the paper for more details or email hriscaledatabase@gmail.com submit this information if you are the author of this scale.</p>
+
+<h1 id="final-scale-items-10-total">Final Scale Items (10 total):</h1>
+
+<p><strong>Morality</strong> 
+<br />This X has a sense for what is right and wrong. 
+<br />This X can think through whether an action is moral.
+<br />This X might feel obligated to behave in a moral way. 
+<br />This X is capable of being rational about good and evil. 
+<br />This X behaves according to moral rules. 
+<br />This X would refrain from doing things that have painful repurcussions.</p>
+
+<p><strong>Dependency</strong> 
+<br />This X can only behave how it is programmed to behave. 
+<br />This Xs actions are the result of its programming. 
+<br />This X can only do what humans tell it to do. 
+<br />This X would never do anything it was not programmed to do.</p>]]></content><author><name></name></author><category term="morality" /><summary type="html"><![CDATA[This is the most up-to-date version of this scale.]]></summary></entry><entry><title type="html">Perceived Agency (PA) Scale</title><link href="http://hriscaledatabase.psychology.gmu.edu/attitudes/attributes/2024/10/31/PA.html" rel="alternate" type="text/html" title="Perceived Agency (PA) Scale" /><published>2024-10-31T00:00:00-04:00</published><updated>2024-10-31T00:00:00-04:00</updated><id>http://hriscaledatabase.psychology.gmu.edu/attitudes/attributes/2024/10/31/PA</id><content type="html" xml:base="http://hriscaledatabase.psychology.gmu.edu/attitudes/attributes/2024/10/31/PA.html"><![CDATA[<p><strong>This is the most up to date version of this scale.</strong></p>
+
+<h1 id="construct-summary">Construct Summary</h1>
+
+<p>The authors define the perception of agency as:</p>
+
+<blockquote>
+  <p>People perceive agency in another entity when the entity’s actions may be assumed by an outside observer to be driven primarily by its internal thoughts and feelings and less by the external environment. (p. 3)</p>
+</blockquote>
+
+<h1 id="rating--100">Rating = 100%</h1>
+
+<table>
+  <thead>
+    <tr>
+      <th>Check?</th>
+      <th>Guideline Item</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>&#10003;</td>
+      <td>Is the construct defined?</td>
+    </tr>
+    <tr>
+      <td>&#10003;</td>
+      <td>Does the final version of the items capture the construct as it has been defined by the authors?</td>
+    </tr>
+    <tr>
+      <td>&#10003;</td>
+      <td>Is the item generation process discussed (e.g., literature review, Delphi method, crowd-sourcing)?</td>
+    </tr>
+    <tr>
+      <td>&#10003;</td>
+      <td>Person to items 10:1 for the initial set of items?</td>
+    </tr>
+    <tr>
+      <td>&#10003;</td>
+      <td>Did they perform an EFA, PCA, Rasch, or similar test to determine the item to factor relationship?</td>
+    </tr>
+    <tr>
+      <td>&#10003;</td>
+      <td>Did they describe how they determined number of factors?</td>
+    </tr>
+    <tr>
+      <td>&#10003;</td>
+      <td>Did they report the full initial set of items?</td>
+    </tr>
+    <tr>
+      <td>&#10003;</td>
+      <td>Did they provide loadings (EFA) or item fits (Rasch) of all items?</td>
+    </tr>
+    <tr>
+      &lt;<td>&#10003;</td>
+      <td>Is there a description of the item removal process (e.g., using infit/outfit, factor loading minimum value, or cross-loading values)?</td>
+    </tr>
+    <tr>
+      <td>&#10003;</td>
+      <td>Did they list the final items included in the scale?</td>
+    </tr>
+    <tr>
+      <td>&#10003;</td>
+      <td>Did they include a factor structure test (e.g., second EFA, CFA, DIF, test for unidimensionality when using Rasch, or similar)?</td>
+    </tr>
+    <tr>
+      <td>&#10003;</td>
+      <td>Was a measure of reliability (e.g., Cronbach’s alpha, McDonalds Omega_h or Omega_t, Tarkkonen’s Rho) reported?</td>
+    </tr>
+    <tr>
+      <td>&#10003;</td>
+      <td>Was a test of validity (e.g., predictive, concurrent, convergent, discriminant) reported?</td>
+    </tr>
+  </tbody>
+</table>
+
+<p><strong>Comments</strong>
+None</p>
+
+<h1 id="reviewed-by-experts-">Reviewed by Experts ✓</h1>
+
+<h1 id="downloads">Downloads</h1>
+<p><a href="https://dl.acm.org/doi/full/10.1145/3640011" target="_blank">PAPER</a>
+<br />Trafton, J. G., McCurry, J. M., Zish, K., &amp; Frazier, C. R. (2024). The perception of agency. ACM Transactions on Human-Robot Interaction, 13(1), 1-23.</p>
+
+<p><br />PDF of scale as well as instructions for administration and scoring are not readily available. Check the paper for more details or email hriscaledatabase@gmail.com submit this information if you are the author of this scale.</p>
+
+<h1 id="final-scale-items-14-total-including-an-attention-check">Final Scale Items (14 total including an attention check):</h1>
+<p>The entity…</p>
+
+<p><br />acts with purpose
+<br />has goals
+<br />can create new goals 
+<br />can communicate with people
+<br />treats others as if they had a mind
+<br />wanted to perform these actions
+<br />can show empotions to other people
+<br />can change their behavior based on how people treat them
+<br />can adapt to different situations
+<br />would do well in other environments
+<br />can perform many types of tasks 
+<br />Imagine the robot/character/person was asked to be an actor in a local theater production. How well do you think they would do?
+<br />łImagine the robot/character/person was asked to host a dinner party for your friends next weekend. This includes coming up with a menu, cooking, and hosting. How well do you think they will do?
+<br />has a face (attention check)</p>]]></content><author><name></name></author><category term="attitudes/attributes" /><summary type="html"><![CDATA[This is the most up to date version of this scale.]]></summary></entry><entry><title type="html">Multidimensional Robot Attitude Scale</title><link href="http://hriscaledatabase.psychology.gmu.edu/attitudes/attributes/2024/10/31/MDRAS.html" rel="alternate" type="text/html" title="Multidimensional Robot Attitude Scale" /><published>2024-10-31T00:00:00-04:00</published><updated>2024-10-31T00:00:00-04:00</updated><id>http://hriscaledatabase.psychology.gmu.edu/attitudes/attributes/2024/10/31/MDRAS</id><content type="html" xml:base="http://hriscaledatabase.psychology.gmu.edu/attitudes/attributes/2024/10/31/MDRAS.html"><![CDATA[<p><strong>This is the most up-to-date version of this scale.</strong></p>
+
+<h1 id="construct-summary">Construct Summary</h1>
+
+<p>The authors do not provide a definition of the construct.</p>
+
+<h1 id="rating--46">Rating = 46%</h1>
+
+<table>
+  <thead>
+    <tr>
+      <th>Check?</th>
+      <th>Guideline Item</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="color: red;">&#10006;</td>
+      <td>Is the construct defined?</td>
+    </tr>
+    <tr>
+      <td style="color: red;">&#10006;</td>
+      <td>Does the final version of the items capture the construct as it has been defined by the authors?</td>
+    </tr>
+    <tr>
+      <td>&#10003;</td>
+      <td>Is the item generation process discussed (e.g., literature review, Delphi method, crowd-sourcing)?</td>
+    </tr>
+    <tr>
+      <td style="color: red;">&#10006;</td>
+      <td>Person to items 10:1 for the initial set of items?</td>
+    </tr>
+    <tr>
+      <td>&#10003;</td>
+      <td>Did they perform an EFA, PCA, Rasch, or similar test to determine the item to factor relationship?</td>
+    </tr>
+    <tr>
+      <td>&#10003;</td>
+      <td>Did they describe how they determined number of factors?</td>
+    </tr>
+    <tr>
+      <td style="color: red;">&#10006;</td>
+      <td>Did they report the full initial set of items?</td>
+    </tr>
+    <tr>
+      <td style="color: red;">&#10006;</td>
+      <td>Did they provide loadings (EFA) or item fits (Rasch) of all items?</td>
+    </tr>
+    <tr>
+      &lt;<td>&#10003;</td>
+      <td>Is there a description of the item removal process (e.g., using infit/outfit, factor loading minimum value, or cross-loading values)?</td>
+    </tr>
+    <tr>
+      <td>&#10003;</td>
+      <td>Did they list the final items included in the scale?</td>
+    </tr>
+    <tr>
+      <td style="color: red;">&#10006;</td>
+      <td>Did they include a factor structure test (e.g., second EFA, CFA, DIF, test for unidimensionality when using Rasch, or similar)?</td>
+    </tr>
+    <tr>
+      <td>&#10003;</td>
+      <td>Was a measure of reliability (e.g., Cronbach’s alpha, McDonalds Omega_h or Omega_t, Tarkkonen’s Rho) reported?</td>
+    </tr>
+    <tr>
+      <td style="color: red;">&#10006;</td>
+      <td>Was a test of validity (e.g., predictive, concurrent, convergent, discriminant) reported?</td>
+    </tr>
+  </tbody>
+</table>
+
+<p><strong>Comments</strong>
+2 dimensions had only 2 items, not nearly enough Ps, no factor loadings shown, item removal process not replicable, unclear how exactly they defined attitude</p>
+
+<h1 id="reviewed-by-experts-">Reviewed by Experts ✓</h1>
+
+<h1 id="downloads">Downloads</h1>
+<p><a href="https://link.springer.com/chapter/10.1007/978-3-319-25554-5_48" target="_blank">PAPER</a>
+<br />Ninomiya, T., Fujita, A., Suzuki, D., &amp; Umemuro, H. (2015). Development of the multi-dimensional robot attitude scale: Constructs of people’s attitudes towards domestic robots. In Social Robotics: 7th International Conference, ICSR 2015, Paris, France, October 26-30, 2015, Proceedings 7 (pp. 482-491). Springer International Publishing.</p>
+
+<p><br />PDF of scale as well as instructions for administration and scoring are not readily available. Check the paper for more details or email hriscaledatabase@gmail.com submit this information if you are the author of this scale.</p>
+
+<h1 id="final-scale-items-49-total">Final Scale Items (49 total):</h1>
+
+<p><br />If a robot was introduced to my home, I would feel like I have a new family member. 
+<br />I would feel relaxed with a robot in my home. 
+<br />I like that a robot can encourage me. 
+<br />I think a robot can be a communication partner. 
+<br />I want to converse with a robot. 
+<br />I would want to boast that I have a robot in my home. 
+<br />If a robot is introduced to my home, I think my children or grandchildren will be pleased. 
+<br />If my friends use robots, I will also want one. 
+<br />I want to use robots if I can use them with my friends. 
+<br />Robots are neo-futuristic and cutting-edge. 
+<br />It is good if a robot can do the work of a human. 
+<br />I feel easy around robots because I do not need to pay attention to robots as I do to humans. 
+<br />It would be a pity to have a robot in my home. 
+<br />The movements of a robot are unpleasant. 
+<br />It is unnatural for a robot to speak in a human language. 
+<br />I feel like I also become a machine when I am with a robot. 
+<br />I feel scared around robots. 
+<br />I have enough skills to use a robot. 
+<br />I can make full use of a robot. 
+<br />It is easy to use a robot. 
+<br />I can easily learn how to use a robot. 
+<br />I think the robot design should be cute. 
+<br />I think robots should have animal-like shapes. 
+<br />I think the shape of a robot should have roundness. 
+<br />I think the voice of a robot should be like the voice of a living creature. 
+<br />I think the design of a robot should be beautiful. 
+<br />I think the design of a robot should be cool.
+<br />I think a robot should have human-like shape. 
+<br />Robots are practical. 
+<br />Robots are user-friendly. 
+<br />Robots have functions that I find satisfactory with. 
+<br />Robots are convenient. 
+<br />I feel the necessity for robots in my daily life. 
+<br />I think robots are heavy. 
+<br />I think the maintenance of a robot is difficult. 
+<br />I worry about the robot breaking down. 
+<br />I think robots should make various sounds. 
+<br />I think robots should have various shapes. 
+<br />I think robots should have various colors. 
+<br />I think a robot could recognize me and respond to me. 
+<br />I think a robot would obey my commands. 
+<br />I want to tame a robot according to my preferences. 
+<br />I expect my family or friends to teach me how to use a robot. 
+<br />I expect my family or friends to help me when I use a robot. 
+<br />I expect my family or friends to advise me how to use a robot. 
+<br />Robots can be used by remote control. 
+<br />Robots can be controlled by a button (on the robot itself). 
+<br />I worry that robots are suitable for the state (layout of the furniture and other things) of my room now. 
+<br />I worry that robots are suitable for the circumstances (width or numbers of ramps) of my room now.</p>]]></content><author><name></name></author><category term="attitudes/attributes" /><summary type="html"><![CDATA[This is the most up-to-date version of this scale.]]></summary></entry><entry><title type="html">Measurement of Moral Concern for Robots (MCRS)</title><link href="http://hriscaledatabase.psychology.gmu.edu/morality/2024/10/31/MCRS.html" rel="alternate" type="text/html" title="Measurement of Moral Concern for Robots (MCRS)" /><published>2024-10-31T00:00:00-04:00</published><updated>2024-10-31T00:00:00-04:00</updated><id>http://hriscaledatabase.psychology.gmu.edu/morality/2024/10/31/MCRS</id><content type="html" xml:base="http://hriscaledatabase.psychology.gmu.edu/morality/2024/10/31/MCRS.html"><![CDATA[<p><strong>This is the most up-to-date version of this scale.</strong></p>
+
+<h1 id="construct-summary">Construct Summary</h1>
+
+<p>The authors do not provide a definition of the construct.</p>
+
+<h1 id="rating--38">Rating = 38%</h1>
+
+<table>
+  <thead>
+    <tr>
+      <th>Check?</th>
+      <th>Guideline Item</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="color: red;">&#10006;</td>
+      <td>Is the construct defined?</td>
+    </tr>
+    <tr>
+      <td style="color: red;">&#10006;</td>
+      <td>Does the final version of the items capture the construct as it has been defined by the authors?</td>
+    </tr>
+    <tr>
+      <td>&#10003;</td>
+      <td>Is the item generation process discussed (e.g., literature review, Delphi method, crowd-sourcing)?</td>
+    </tr>
+    <tr>
+      <td style="color: red;">&#10006;</td>
+      <td>Person to items 10:1 for the initial set of items?</td>
+    </tr>
+    <tr>
+      <td>&#10003;</td>
+      <td>Did they perform an EFA, PCA, Rasch, or similar test to determine the item to factor relationship?</td>
+    </tr>
+    <tr>
+      <td>&#10003;</td>
+      <td>Did they describe how they determined number of factors?</td>
+    </tr>
+    <tr>
+      <td style="color: red;">&#10006;</td>
+      <td>Did they report the full initial set of items?</td>
+    </tr>
+    <tr>
+      <td style="color: red;">&#10006;</td>
+      <td>Did they provide loadings (EFA) or item fits (Rasch) of all items?</td>
+    </tr>
+    <tr>
+      <td style="color: red;">&#10006;</td>
+      <td>Is there a description of the item removal process (e.g., using infit/outfit, factor loading minimum value, or cross-loading values)?</td>
+    </tr>
+    <tr>
+      <td style="color: red;">&#10006;</td>
+      <td>Did they list the final items included in the scale?</td>
     </tr>
     <tr>
       <td style="color: red;">&#10006;</td>
@@ -351,47 +646,21 @@ None</p>
 </table>
 
 <p><strong>Comments</strong>
-The scale is validated using existing data from previous experiments that used the original measures</p>
+None</p>
 
 <h1 id="reviewed-by-experts-">Reviewed by Experts ✓</h1>
 
 <h1 id="downloads">Downloads</h1>
-<p><a href="https://www.frontiersin.org/articles/10.3389/frobt.2018.00074/full" target="_blank">PAPER</a>
-<br />Gonzalez-Franco, M., &amp; Peck, T. C. (2018). Avatar embodiment. towards a standardized questionnaire. Frontiers in Robotics and AI, 5, 74.</p>
+<p><a href="https://ieeexplore.ieee.org/abstract/document/8673095?casa_token=BUV_Y-WNiGcAAAAA:1A_FZf90pfm3MDQPDfFr8B-smdWWuvY575h-Qik4Ld0157a4n1ZHc6xis2tKtMwz9nP4_6AMVw" target="_blank">PAPER</a>
+<br />Nomura, T., Kanda, T., &amp; Yamada, S. (2019, March). Measurement of moral concern for robots. In 2019 14th ACM/IEEE International Conference on Human-Robot Interaction (HRI) (pp. 540-541). IEEE.</p>
 
-<p><br />PDF of scale as well as instructions for administration and scoring are not readily available. Check the paper for more details or click <a href="/2024/06/20/submitScale.html">here</a> to submit this information if you are the author of this scale.</p>
+<p><br />PDF of scale as well as instructions for administration and scoring are not readily available. Check the paper for more details or email hriscaledatabase@gmail.com submit this information if you are the author of this scale.</p>
 
-<h1 id="final-scale-items-16-total">Final Scale Items (16 total):</h1>
-
-<p><br />I felt out of my body. 
-<br />I felt as if my (real) body were drifting toward the virtual body or as if the virtual body were drifting toward my (real) body. 
-<br />I felt as if the movements of the virtual body were influencing my own movements. 
-<br />It felt as if my (real) body were turning into an “avatar” body. 
-<br />At some point it felt as if my real body was starting to take on the posture or shape of the virtual body that I saw. 
-<br />I felt like I was wearing different clothes from when I came to the laboratory. 
-<br />I felt as if my body had changed. 
-<br />I felt a <strong>__ sensation in my body when I saw __</strong>. 
-<br />I felt that my own body could be affected by <strong>__. 
-<br />I felt as if the virtual body was my body. 
-<br />At some point it felt that the virtual body resembled my own (real) body, in terms of shape, skin tone or other visual features. 
-<br />I felt as if my body was located where I saw the virtual body. 
-<br />I felt like I could control the virtual body as if it was my own body. 
-<br />It seemed as if I felt the touch of the __</strong> in the location where I saw the virtual body touched. 
-<br />It seemed as if the touch I felt was caused by the <strong>__ touching the virtual body. 
-<br />It seemed as if my body was touching the __</strong>.</p>]]></content><author><name></name></author><category term="perceived embodiment validated" /><summary type="html"><![CDATA[This is the most up-to-date version of this scale.]]></summary></entry><entry><title type="html">Multdimensional Measure of Trust - version 2</title><link href="http://hriscaledatabase.psychology.gmu.edu/trust/2024/06/12/MDMTv2.html" rel="alternate" type="text/html" title="Multdimensional Measure of Trust - version 2" /><published>2024-06-12T02:23:41-04:00</published><updated>2024-06-12T02:23:41-04:00</updated><id>http://hriscaledatabase.psychology.gmu.edu/trust/2024/06/12/MDMTv2</id><content type="html" xml:base="http://hriscaledatabase.psychology.gmu.edu/trust/2024/06/12/MDMTv2.html"><![CDATA[<p><strong>This is the most up-to-date version of this scale.</strong></p>
+<h1 id="final-scale-items-unclear">Final Scale Items (unclear):</h1>]]></content><author><name></name></author><category term="morality" /><summary type="html"><![CDATA[This is the most up-to-date version of this scale.]]></summary></entry><entry><title type="html">Godspeed scale</title><link href="http://hriscaledatabase.psychology.gmu.edu/attitudes/attributes/2024/10/31/Godspeed.html" rel="alternate" type="text/html" title="Godspeed scale" /><published>2024-10-31T00:00:00-04:00</published><updated>2024-10-31T00:00:00-04:00</updated><id>http://hriscaledatabase.psychology.gmu.edu/attitudes/attributes/2024/10/31/Godspeed</id><content type="html" xml:base="http://hriscaledatabase.psychology.gmu.edu/attitudes/attributes/2024/10/31/Godspeed.html"><![CDATA[<p><strong>This is the most up to date version of this scale.</strong></p>
 
 <h1 id="construct-summary">Construct Summary</h1>
 
-<p>The authors use the same definition of trust as in their original publication:</p>
-
-<blockquote>
-  <p>“Trust = a dyadic relation in which one person accepts vulnerability because they
-expect that the other person’s future action will have certain characteristics; these
-characteristics include some mix of performance (ability, reliability) and/or morality
-(honesty, integrity, and benevolence)” (Malle &amp; Ullman, 2021, p. 12)</p>
-</blockquote>
-
-<p>However, this study updates the construct to include the dimension of benevolence (e.g., kind, looks out for others, etc)</p>
+<p>The authors report that the scale was developed to measure “users’ perception of service robots” (p. 71) and “take the often-used concepts of anthropomorphism, animacy, likeability, and perceived intelligence and perceived safety as starting points to propose a consistent set of five questionnaires for these concepts.” (p. 72)</p>
 
 <h1 id="rating--23">Rating = 23%</h1>
 
@@ -420,7 +689,7 @@ characteristics include some mix of performance (ability, reliability) and/or mo
       <td>Person to items 10:1 for the initial set of items?</td>
     </tr>
     <tr>
-      <td>&#10003;</td>
+      <td style="color: red;">&#10006;</td>
       <td>Did they perform an EFA, PCA, Rasch, or similar test to determine the item to factor relationship?</td>
     </tr>
     <tr>
@@ -440,7 +709,7 @@ characteristics include some mix of performance (ability, reliability) and/or mo
       <td>Is there a description of the item removal process (e.g., using infit/outfit, factor loading minimum value, or cross-loading values)?</td>
     </tr>
     <tr>
-      <td style="color: red;">&#10006;</td>
+      <td>&#10003;</td>
       <td>Did they list the final number of items included in the scale?</td>
     </tr>
     <tr>
@@ -448,7 +717,7 @@ characteristics include some mix of performance (ability, reliability) and/or mo
       <td>Did they include a factor structure test (e.g., second EFA, CFA, DIF, test for unidimensionality when using Rasch, or similar)?</td>
     </tr>
     <tr>
-      <td style="color: red;">&#10006;</td>
+      <td>&#10003;</td>
       <td>Was a measure of reliability (e.g., Cronbach’s alpha, McDonalds Omega_h or Omega_t, Tarkkonen’s Rho) reported?</td>
     </tr>
     <tr>
@@ -459,29 +728,65 @@ characteristics include some mix of performance (ability, reliability) and/or mo
 </table>
 
 <p><strong>Comments</strong>
-<br /> Much of the information about scale development is referenced as being reported in the dissertation of Danny Ullman.</p>
+None</p>
 
 <h1 id="reviewed-by-experts-">Reviewed by Experts ✓</h1>
 
 <h1 id="downloads">Downloads</h1>
-<p><a href="https://arxiv.org/abs/2311.14887" target="_blank">PAPER</a>
-<br />Malle, B. F., &amp; Ullman, D. (2023). Measuring Human-Robot Trust with the MDMT (Multi-Dimensional Measure of Trust). arXiv preprint arXiv:2311.14887.</p>
+<p><a href="https://link.springer.com/article/10.1007/s12369-008-0001-3" target="_blank">PAPER</a>
+<br />Bartneck, C., Kulić, D., Croft, E., &amp; Zoghbi, S. (2009). Measurement instruments for the anthropomorphism, animacy, likeability, perceived intelligence, and perceived safety of robots. International journal of social robotics, 1, 71-81.</p>
 
-<p>PDF of instructions for use, scoring, and blank scale is not readily available. Check the paper for more details or click <a href="/2024/06/20/submitScale.html">here</a> to submit this information if you are the author of this scale.</p>
+<p><br />PDF of scale as well as instructions for administration and scoring are not readily available. Check the paper for more details or email hriscaledatabase@gmail.com submit this information if you are the author of this scale.</p>
 
-<h1 id="final-scale-items-20-total">Final Scale Items (20 total)</h1>
+<h1 id="final-scale-items-24-total">Final Scale Items (24 total):</h1>
+<p>Semantic differential so each item is an endpoint separated by 1-5 response scale.</p>
 
-<p>A list of the final items was not included in the paper.</p>]]></content><author><name></name></author><category term="trust" /><summary type="html"><![CDATA[This is the most up-to-date version of this scale.]]></summary></entry><entry><title type="html">Robotic perceived empathy (RoPE scale)</title><link href="http://hriscaledatabase.psychology.gmu.edu/attitudes/2024/06/12/ROPE.html" rel="alternate" type="text/html" title="Robotic perceived empathy (RoPE scale)" /><published>2024-06-12T00:00:00-04:00</published><updated>2024-06-12T00:00:00-04:00</updated><id>http://hriscaledatabase.psychology.gmu.edu/attitudes/2024/06/12/ROPE</id><content type="html" xml:base="http://hriscaledatabase.psychology.gmu.edu/attitudes/2024/06/12/ROPE.html"><![CDATA[<p><strong>This is the most up-to-date version of this scale.</strong></p>
+<p><strong>Anthropomorphism</strong>
+<br />fake/natural
+<br />machinelike/humanlike
+<br />unconscious/conscious
+<br />artificial/lifelike
+<br />moving rigidly/moving elegantly</p>
+
+<p><strong>Animacy</strong>
+<br />dead/alive
+<br />stagnant/lively
+<br />mechanical/organic
+<br />artificial/lifelike
+<br />inert/interactive
+<br />apathetic/responsive</p>
+
+<p><strong>Likeability</strong>
+<br />dislike/like
+<br />unfriendly/friendly
+<br />unkind/kind
+<br />unpleasant/pleasant
+<br />awful/nice</p>
+
+<p><strong>Perceived Intelligence</strong>
+<br />incompetent/competent
+<br />ignorant/knowledgeable
+<br />irresponsible/responsible
+<br />unintelligent/intelligent
+<br />foolish/sensible</p>
+
+<p><strong>Perceived Safety</strong>
+<br />anxious/relaxed
+<br />agitated/calm
+<br />quiescient/surprised</p>]]></content><author><name></name></author><category term="attitudes/attributes" /><summary type="html"><![CDATA[This is the most up to date version of this scale.]]></summary></entry><entry><title type="html">Educational Robot Attitude Scale (ERAS)</title><link href="http://hriscaledatabase.psychology.gmu.edu/attitudes/attributes/2024/10/31/ERAS.html" rel="alternate" type="text/html" title="Educational Robot Attitude Scale (ERAS)" /><published>2024-10-31T00:00:00-04:00</published><updated>2024-10-31T00:00:00-04:00</updated><id>http://hriscaledatabase.psychology.gmu.edu/attitudes/attributes/2024/10/31/ERAS</id><content type="html" xml:base="http://hriscaledatabase.psychology.gmu.edu/attitudes/attributes/2024/10/31/ERAS.html"><![CDATA[<p><strong>This is the most up-to-date version of this scale.</strong></p>
 
 <h1 id="construct-summary">Construct Summary</h1>
 
-<p>The authors define the construct of empathic comprehension, or perceived empathy as:</p>
+<p>The authors define the scale as a measure of students’ attitudes towards the use of humanoid robots in educational settings. The scale consists of four factors defined as:</p>
 
 <blockquote>
-  <p>“Empathic comprehension, sometimes called empathic understanding, describes the ability to become aware of and to understand another person’s unique experience and feelings. Empathic response describes how one communicates their attempts at understanding someone else’s frame of reference, including their feelings and motives.” (p. 656)</p>
+  <p><br />1. engagement - concern the learners’ involvement in the lesson (p. 385)
+<br />2. enjoyment - aimed to measure the learners’ views of the robot as a source of entertainment in the class (p. 385)
+<br />3. intention - reflect their intended communication with the robot in the future lessons (p. 385)
+<br />4. anxiety - items that target to reveal the sources of fear, anxiety and avoidance associated with the use of robots in the class</p>
 </blockquote>
 
-<h1 id="rating--38">Rating = 38%</h1>
+<h1 id="rating--62">Rating = 62%</h1>
 
 <table>
   <thead>
@@ -508,11 +813,11 @@ characteristics include some mix of performance (ability, reliability) and/or mo
       <td>Person to items 10:1 for the initial set of items?</td>
     </tr>
     <tr>
-      <td style="color: red;">&#10006;</td>
+      <td>&#10003;</td>
       <td>Did they perform an EFA, PCA, Rasch, or similar test to determine the item to factor relationship?</td>
     </tr>
     <tr>
-      <td style="color: red;">&#10006;</td>
+      <td>&#10003;</td>
       <td>Did they describe how they determined number of factors?</td>
     </tr>
     <tr>
@@ -524,19 +829,19 @@ characteristics include some mix of performance (ability, reliability) and/or mo
       <td>Did they provide loadings (EFA) or item fits (Rasch) of all items?</td>
     </tr>
     <tr>
-      <td>&#10003;</td>
+      &lt;<td>&#10003;</td>
       <td>Is there a description of the item removal process (e.g., using infit/outfit, factor loading minimum value, or cross-loading values)?</td>
     </tr>
     <tr>
       <td>&#10003;</td>
-      <td>Did they list the final number of items included in the scale?</td>
+      <td>Did they list the final items included in the scale?</td>
     </tr>
     <tr>
       <td style="color: red;">&#10006;</td>
       <td>Did they include a factor structure test (e.g., second EFA, CFA, DIF, test for unidimensionality when using Rasch, or similar)?</td>
     </tr>
     <tr>
-      <td style="color: red;">&#10006;</td>
+      <td>&#10003;</td>
       <td>Was a measure of reliability (e.g., Cronbach’s alpha, McDonalds Omega_h or Omega_t, Tarkkonen’s Rho) reported?</td>
     </tr>
     <tr>
@@ -547,45 +852,49 @@ characteristics include some mix of performance (ability, reliability) and/or mo
 </table>
 
 <p><strong>Comments</strong>
-item development reported in a separate (earlier) paper.</p>
+factor loadings only reported on final set of items, item removal process was described but not replicable</p>
 
 <h1 id="reviewed-by-experts-">Reviewed by Experts ✓</h1>
 
 <h1 id="downloads">Downloads</h1>
-<p><a href="https://ieeexplore.ieee.org/abstract/document/8673082?casa_token=6tCsqe-JQlMAAAAA:LGzFMbNAnAVTyW9UUMKeI69SlQZiSzegPVx276FzMRvtkrdSfO7E3uT6jBrRIHrDr0GZ21flVQ" target="_blank">PAPER</a>
-<br />Charrier, L., Rieger, A., Galdeano, A., Cordier, A., Lefort, M., &amp; Hassas, S. (2019, March). The rope scale: a measure of how empathic a robot is perceived. In 2019 14th ACM/IEEE International Conference on Human-Robot Interaction (HRI) (pp. 656-657). IEEE.</p>
+<p><a href="https://www.tandfonline.com/doi/full/10.1080/10494820.2018.1474234?casa_token=1QqFXHMwfGgAAAAA%3A2cQVaR7APnYaE3DtFqMGhccOVwjQUtmLnfGk9-R0XWSemJ2QRVb0TGNXoaMEYpNg5gn-Y5u_o25CVNo" target="_blank">PAPER</a>
+<br />Sisman, B., Gunay, D., &amp; Kucuk, S. (2019). Development and validation of an educational robot attitude scale (ERAS) for secondary school students. Interactive Learning Environments, 27(3), 377-388.</p>
 
-<p><br />PDF of scale as well as instructions for administration and scoring are not readily available. Check the paper for more details or click <a href="/2024/06/20/submitScale.html">here</a> to submit this information if you are the author of this scale.</p>
+<p><br />PDF of scale as well as instructions for administration and scoring are not readily available. Check the paper for more details or email hriscaledatabase@gmail.com submit this information if you are the author of this scale.</p>
 
-<h1 id="final-scale-items-16-total">Final Scale Items (16 total):</h1>
+<h1 id="final-scale-items-17-total">Final Scale Items (17 total):</h1>
 
-<p><strong>Empathic Understanding</strong>
-<br />the robot appreciates exactly how the things I experience feel to me
-<br />the robot knows me and my needs
-<br />the robot cares about my feelings
-<br />the robot does not understand me
-<br />the robot perceives and accepts my individual characteristics
-<br />the robot usually understands the whole of what I mean
-<br />The robot reacts to my words but does not see the way I feel
-<br />the robot seems to feel bad when I am sad or disappointed</p>
+<p><strong>Engagement</strong>
+<br />I try to make sense of the lesson better when a robot is used in the lesson.
+<br />I can pay more attention to the lesson when there is a robot in the class.
+<br />I can consider the robot as a teacher as it talks and moves like a human.
+<br />I feel more interested in the topic when there is a robot in the class.
+<br />I enjoy lessons that are handled using a robot.</p>
 
-<p><strong>Empathic Response</strong>
-<br />whether thoughts or feelings I express are “good” or “bad” makes no difference to the robot’s actions towards me
-<br />no matter what I tell about myself, the robot acts just the same
-<br />the robot comforts me when I am upset; the robot encourages me
-<br />the robot praises me when I have done something well
-<br />the robot helps me when I need it
-<br />the robot knows when I want to talk and lets me do so
-<br />the robot’s response to me is fixed and automatic that I do not get through to it</p>]]></content><author><name></name></author><category term="attitudes" /><summary type="html"><![CDATA[This is the most up-to-date version of this scale.]]></summary></entry><entry><title type="html">Robotic Social Attribute Scale (RoSAS)</title><link href="http://hriscaledatabase.psychology.gmu.edu/social%20attributes/2024/06/12/RoSAS.html" rel="alternate" type="text/html" title="Robotic Social Attribute Scale (RoSAS)" /><published>2024-06-12T00:00:00-04:00</published><updated>2024-06-12T00:00:00-04:00</updated><id>http://hriscaledatabase.psychology.gmu.edu/social%20attributes/2024/06/12/RoSAS</id><content type="html" xml:base="http://hriscaledatabase.psychology.gmu.edu/social%20attributes/2024/06/12/RoSAS.html"><![CDATA[<p><strong>This is the most up-to-date version of this scale.</strong></p>
+<p><strong>Enjoyment</strong>
+<br />It is interesting to see a robot acting and talking like a human.
+<br />Communicating with the robot is fun.
+<br />I like communicating with the robot on a one-on-one basis.
+<br />I enjoy it when the robot understands what I am saying and responds to me.</p>
+
+<p><strong>Anxiety</strong>
+<br />I don’t like the robot to be in the class.
+<br />The existence of a robot in the class causes disrupt.
+<br />Communicating with the robot is difficult.
+<br />I feel nervous while talking with the robot.</p>
+
+<p><strong>Intention</strong>
+<br />I would like robots to take part in the lessons in the future.
+<br />I would like to have a robot that would accompany me while studying at home.
+<br />I would like robots to be utilized in other lessons as well.
+<br />I think robots should be used in the lessons because the age of technology necessitates this.”</p>]]></content><author><name></name></author><category term="attitudes/attributes" /><summary type="html"><![CDATA[This is the most up-to-date version of this scale.]]></summary></entry><entry><title type="html">Anthropomorphism Rasch</title><link href="http://hriscaledatabase.psychology.gmu.edu/anthropomorphism/2024/10/31/AP_HL.html" rel="alternate" type="text/html" title="Anthropomorphism Rasch" /><published>2024-10-31T00:00:00-04:00</published><updated>2024-10-31T00:00:00-04:00</updated><id>http://hriscaledatabase.psychology.gmu.edu/anthropomorphism/2024/10/31/AP_HL</id><content type="html" xml:base="http://hriscaledatabase.psychology.gmu.edu/anthropomorphism/2024/10/31/AP_HL.html"><![CDATA[<p><strong>This is the most up-to-date version of this scale.</strong></p>
 
 <h1 id="construct-summary">Construct Summary</h1>
 
-<p>The authors define the construct as a measure of the central attributes implicated in human perception of robots. They state that there are three main dimensions of social perception of robots:</p>
+<p>The authors define the construct as follows:</p>
 
 <blockquote>
-  <p><br />1. warmth - defined as whether another [entity] intends to help or harm (p. 254)
-<br />2. competence - defined as whether a[n] [entity] has the ability to help or harm (p. 254)
-<br />3. discomfort (not explicitly defined)</p>
+  <p>We view anthropomorphism as a one-dimensional construct, and argue that all human-like characteristics—no matter which subset they belong to—are ordered according to the probability with which they are ascribed to robots. (p. 478)</p>
 </blockquote>
 
 <h1 id="rating--85">Rating = 85%</h1>
@@ -603,7 +912,7 @@ item development reported in a separate (earlier) paper.</p>
       <td>Is the construct defined?</td>
     </tr>
     <tr>
-      <td style="color: red;">&#10006;</td>
+      <td>&#10003;</td>
       <td>Does the final version of the items capture the construct as it has been defined by the authors?</td>
     </tr>
     <tr>
@@ -635,8 +944,8 @@ item development reported in a separate (earlier) paper.</p>
       <td>Is there a description of the item removal process (e.g., using infit/outfit, factor loading minimum value, or cross-loading values)?</td>
     </tr>
     <tr>
-      <td>&#10003;</td>
-      <td>Did they list the final number of items included in the scale?</td>
+      <td style="color: red;">&#10006;</td>
+      <td>Did they list the final items included in the scale?</td>
     </tr>
     <tr>
       <td>&#10003;</td>
@@ -654,166 +963,72 @@ item development reported in a separate (earlier) paper.</p>
 </table>
 
 <p><strong>Comments</strong>
-None</p>
+Recruited participants through personal contacts (not replicable), inconsistent item removal process across experiments, inconsistent # of items across experiments (37, 25, 19)</p>
 
 <h1 id="reviewed-by-experts-">Reviewed by Experts ✓</h1>
 
 <h1 id="downloads">Downloads</h1>
-<p><a href="https://dl.acm.org/doi/abs/10.1145/2909824.3020208" target="_blank">PAPER</a>
-<br />Carpinella, C. M., Wyman, A. B., Perez, M. A., &amp; Stroessner, S. J. (2017, March). The robotic social attributes scale (rosas) development and validation. In Proceedings of the 2017 ACM/IEEE International Conference on human-robot interaction (pp. 254-262).</p>
+<p><a href="https://link.springer.com/article/10.1007/s12369-019-00516-z" target="_blank">PAPER</a>
+<br />Ruijten, P. A., Haans, A., Ham, J., &amp; Midden, C. J. (2019). Perceived human-likeness of social robots: testing the Rasch model as a method for measuring anthropomorphism. International Journal of Social Robotics, 11, 477-494.</p>
 
-<p><br />PDF of scale as well as instructions for administration and scoring are not readily available. Check the paper for more details or click <a href="/2024/06/20/submitScale.html">here</a> to submit this information if you are the author of this scale.</p>
+<p><br />PDF of scale as well as instructions for administration and scoring are not readily available. Check the paper for more details or email hriscaledatabase@gmail.com to submit this information if you are the author of this scale.</p>
 
-<h1 id="final-scale-items-18-total">Final Scale Items (18 total):</h1>
+<h1 id="final-scale-items-unclear">Final Scale Items (unclear)</h1>]]></content><author><name></name></author><category term="anthropomorphism" /><summary type="html"><![CDATA[This is the most up-to-date version of this scale.]]></summary></entry><entry><title type="html">Glossary</title><link href="http://hriscaledatabase.psychology.gmu.edu/2024/10/09/glossary.html" rel="alternate" type="text/html" title="Glossary" /><published>2024-10-09T00:00:00-04:00</published><updated>2024-10-09T00:00:00-04:00</updated><id>http://hriscaledatabase.psychology.gmu.edu/2024/10/09/glossary</id><content type="html" xml:base="http://hriscaledatabase.psychology.gmu.edu/2024/10/09/glossary.html"><![CDATA[<h2 id="classical-test-theory-ctt">Classical Test Theory (CTT)</h2>
+<p>A scale development method where the assumption is that the participants’ responses or overall score on a measure are a linear combination of their true ability plus random error. The goal in CTT is to get as close to the true score as possible by minimizing noise.</p>
 
-<p><strong>Competence</strong>
-<br />capable
-<br />responsible
-<br />interactive
-<br />reliable
-<br />competent
-<br />knowledgable</p>
+<h2 id="construct">Construct</h2>
+<p>A construct refers to the unobserved (i.e., latent) attitude, cognition, or attribute that is the target of the study. Unobserved (or latent) in this context simply refers to a type of construct that exists in the mind of the participant and cannot easily be directly observed. The term construct can be used interchangeably with other terms such as domain and latent variable.</p>
 
-<p><strong>Warmth</strong>
-<br />happy
-<br />feeling
-<br />social
-<br />organic
-<br />compassionate
-<br />emotional</p>
+<h2 id="concurrent-validity">Concurrent Validity</h2>
+<p>Measures the degree to which the performance on the current scale predicts performance on a criterion (gold standard) measurement. Typically, the two measures are administered at the same time or consecutively (hence “concurrent”). It is common, however, that no gold standard measure exists making evaluation of concurrent validity impossible; this is especially true in human robot interaction.</p>
 
-<p><strong>Discomfort</strong>
-<br />scary
-<br />strange
-<br />awkward
-<br />dangerous
-<br />awful
-<br />aggressive</p>]]></content><author><name></name></author><category term="social attributes" /><summary type="html"><![CDATA[This is the most up-to-date version of this scale.]]></summary></entry><entry><title type="html">Perceived Embodiment</title><link href="http://hriscaledatabase.psychology.gmu.edu/perceived%20embodiment/2024/06/12/embodimentgonzalez.html" rel="alternate" type="text/html" title="Perceived Embodiment" /><published>2024-06-12T00:00:00-04:00</published><updated>2024-06-12T00:00:00-04:00</updated><id>http://hriscaledatabase.psychology.gmu.edu/perceived%20embodiment/2024/06/12/embodimentgonzalez</id><content type="html" xml:base="http://hriscaledatabase.psychology.gmu.edu/perceived%20embodiment/2024/06/12/embodimentgonzalez.html"><![CDATA[<p><strong>NOTE: THIS IS NOT THE LATEST VERSION OF THIS SCALE. <br /> We recommend using the latest version of this scale which you can find <a href="/perceived%20embodiment%20validated/2024/06/13/validateembodimentgonzalez.html">here</a></strong></p>
+<h2 id="construct-validity">Construct Validity</h2>
+<p>Construct validity refers to the extent to which the scale measures what it was developed to measure and how much it is associated with other factors within the domain.</p>
 
-<h1 id="construct-summary">Construct Summary</h1>
+<h2 id="convergent-validity">Convergent Validity</h2>
+<p>Convergent validity refers to how well the new scale correlates with other variables that are designed to measure similar constructs.</p>
 
-<p>The authors identify the construct of avatar embodiment as consisting of 6 main factors:</p>
+<h2 id="criterion-validity">Criterion Validity</h2>
+<p>Criterion validity refers to the degree to which there is a relationship between the construct on the current scale and construct on another similar measure or in another context that is of interest to the researcher.</p>
 
-<blockquote>
-  <ol>
-    <li>Body ownership. Present whenever there is a substitute body or body part. It is possible to have body ownership over a body that participants feel is not in the same location as their own body.</li>
-    <li>Agency and motor control of the body. Present whenever there is motion tracking and the participant can move parts or all of the virtual body.</li>
-    <li>Tactile sensations. Present whenever there is tactile or haptic stimulation to enhance the embodiment illusion.</li>
-    <li>Location of the body. Present whenever there is a substitute body or body part that is either collocated or not collocated with the participant. Participants must feel that their body is in the same location as the virtual body in order to experience an embodiment illusion. Participants may sense an out-of-body effect, or that the location of their body has drifted toward the location of the avatar. These questions are often only asked when the avatar is not collocated with the participant.</li>
-    <li>External appearance. Present when the self-avatar is a lookalike avatar or as control questions when there are shape, gender, race, clothing, or other visual modifications to the avatar different from the self.</li>
-    <li>Response to external stimuli. In many occasions during the experiment there is an event that modifies or threatens the body or body parts of the self-avatar. If the participant is embodied in the self-avatar then the participant will react as if their own body is threatened. This is often measured through both questionnaire and quantitative response.” (p. 3-4)</li>
-  </ol>
-</blockquote>
+<h2 id="custom-scale">Custom Scale</h2>
+<p>Any scale that has not been validated.</p>
 
-<h1 id="rating--54">Rating = 54%</h1>
+<h2 id="dimension">Dimension</h2>
+<p>A psychological variable that represents a component of the construct that is captured by the items within a scale. This term is also used interchangeably with factor.</p>
 
-<table>
-  <thead>
-    <tr>
-      <th>Check?</th>
-      <th>Guideline Item</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>&#10003;</td>
-      <td>Is the construct defined?</td>
-    </tr>
-    <tr>
-      <td>&#10003;</td>
-      <td>Does the final version of the items capture the construct as it has been defined by the authors?</td>
-    </tr>
-    <tr>
-      <td>&#10003;</td>
-      <td>Is the item generation process discussed (e.g., literature review, Delphi method, crowd-sourcing)?</td>
-    </tr>
-    <tr>
-      <td style="color: red;">&#10006;</td>
-      <td>Person to items 10:1 for the initial set of items?</td>
-    </tr>
-    <tr>
-      <td style="color: red;">&#10006;</td>
-      <td>Did they perform an EFA, PCA, Rasch, or similar test to determine the item to factor relationship?</td>
-    </tr>
-    <tr>
-      <td>&#10003;</td>
-      <td>Did they describe how they determined number of factors?</td>
-    </tr>
-    <tr>
-      <td>&#10003;</td>
-      <td>Did they report the full initial set of items?</td>
-    </tr>
-    <tr>
-      <td style="color: red;">&#10006;</td>
-      <td>Did they provide loadings (EFA) or item fits (Rasch) of all items?</td>
-    </tr>
-    <tr>
-      <td>&#10003;</td>
-      <td>Is there a description of the item removal process (e.g., using infit/outfit, factor loading minimum value, or cross-loading values)?</td>
-    </tr>
-    <tr>
-      <td>&#10003;</td>
-      <td>Did they list the final number of items included in the scale?</td>
-    </tr>
-    <tr>
-      <td style="color: red;">&#10006;</td>
-      <td>Did they include a factor structure test (e.g., second EFA, CFA, DIF, test for unidimensionality when using Rasch, or similar)?</td>
-    </tr>
-    <tr>
-      <td style="color: red;">&#10006;</td>
-      <td>Was a measure of reliability (e.g., Cronbach’s alpha, McDonalds Omega_h or Omega_t, Tarkkonen’s Rho) reported?</td>
-    </tr>
-    <tr>
-      <td style="color: red;">&#10006;</td>
-      <td>Was a test of validity (e.g., predictive, concurrent, convergent, discriminant) reported?</td>
-    </tr>
-  </tbody>
-</table>
+<h2 id="discriminant-validity">Discriminant Validity</h2>
+<p>Discriminant validity refers to the extent to which the scale differs from other unrelated constructs. Discriminant validity is measured by analyzing correlations between the measure of interest and other measures that do not measure the same domain or concept [6] where weaker correlations are expected.</p>
 
-<p><strong>Comments</strong>
-<br />A validation <a href="https://www.frontiersin.org/articles/10.3389/frvir.2020.575943/full" target="_blank">study</a> was later conducted (Peck &amp; Gonzalez-Franco, 2021) and suggested 4 factors and 16 items</p>
+<h2 id="domain">Domain</h2>
+<p>A domain refers to the unobserved (i.e., latent) attitude, cognition, or attribute that is the target of the study. It is often used interchangeably with “construct”.</p>
 
-<h1 id="reviewed-by-experts-">Reviewed by Experts ✓</h1>
+<h2 id="factor">Factor</h2>
+<p>A psychological variable that represents a component of the construct that is captured by the items within a scale. This term is also used interchangeably with dimension.</p>
 
-<h1 id="downloads">Downloads</h1>
-<p><a href="https://www.frontiersin.org/articles/10.3389/frobt.2018.00074/full" target="_blank">PAPER</a>
-<br />Gonzalez-Franco, M., &amp; Peck, T. C. (2018). Avatar embodiment. towards a standardized questionnaire. Frontiers in Robotics and AI, 5, 74.</p>
+<h2 id="item">Item</h2>
+<p>An item refers to the direct questions, directives, or statements that make up a scale. Each item within a scale is intended to capture the construct (i.e., attitude or behavior) either in part or in full.</p>
 
-<p><br />PDF of scale as well as instructions for administration and scoring are not readily available. Check the paper for more details or click <a href="/2024/06/20/submitScale.html">here</a> to submit this information if you are the author of this scale.</p>
+<h2 id="item-response-theory-irt">Item Response Theory (IRT)</h2>
+<p>Item response theory uses an item-level approach to determining item and person fit within the scale.</p>
 
-<h1 id="final-scale-items-25-total">Final Scale Items (25 total):</h1>
+<h2 id="latent-variable">Latent variable</h2>
+<p>The unobservable behavior, attitude, or attribute that is being measured. This term is often used interchangeably with construct and domain.</p>
 
-<p><strong>Body ownership</strong>
-<br />Q1. “I felt as if the virtual <strong>__was my __</strong>” If there is more than one avatar, e.g. in a VR social interaction, use a longer version: “I felt as if the virtual <strong>__I saw when I looked down was my __</strong>” 
-<br />Q2. “It felt as if the virtual <strong>__I saw was someone else” 
-<br />Q3. “It seemed as if I might have more than one __</strong>” - If there is a mirror: 
-<br />Q4. “I felt as if the virtual <strong>__I saw when looking in the mirror was my own __</strong>” 
-<br />Q5. “I felt as if the virtual ____I saw when looking at myself in the mirror was another person”</p>
+<h2 id="predictive-validity">Predictive Validity</h2>
+<p>Predictive validity is a type of validation method. It measures the degree to which performance on the current scale predicts performance on another scale taken at a later time.</p>
 
-<p><strong>Agency and motor control</strong>
-<br />Q6. “It felt like I could control the virtual <strong>__as if it was my own __</strong>” 
-<br />Q7. “The movements of the virtual ____were caused by my movements”
-<br />Q8. “I felt as if the movements of the virtual ____were influencing my own movements”
-<br />Q9. “I felt as if the virtual ____was moving by itself ”</p>
+<h2 id="psychometrics-or-psychometric-theory">Psychometrics or Psychometric theory</h2>
+<p>The scientific study of testing, measurement, and assessment int he social and behavioral sciences.</p>
 
-<p><strong>Tactile sensations</strong> 
-<br />Q10. “It seemed as if I felt the touch of the <strong>__ in the location where I saw the virtual ____touched” 
-<br />Q11. “It seemed as if the touch I felt was located somewhere between my physical ____and the virtual __</strong>” 
-<br />Q12. “It seemed as if the touch I felt was caused by the <strong>__ touching the virtual __</strong>” 
-<br />Q13. “It seemed as if my <strong>__ was touching the __</strong>”</p>
+<h2 id="rasch">Rasch</h2>
+<p>One of the more common IRT models is the Rasch model. The Rasch model prioritizes invariance in measurement and can be thought of as a theory for how the data should be structured which can then be used to identify deviations in observed data. In other words, the Rasch model is a process for fitting data to a model.</p>
 
-<p><strong>Location of the body</strong> 
-<br />Q14. “I felt as if my <strong>__was located where I saw the virtual __</strong>” 
-<br />Q15. “I felt out of my body” - If the virtual body is not collocated with the participants’ body: 
-<br />Q16. “I felt as if my (real) <strong>__were drifting toward the virtual ____or as if the virtual ____were drifting toward my (real) __</strong>” 5. External appearance. 
-<br />Q17. “It felt as if my (real) <strong>__were turning into an ‘avatar’ __</strong>” 
-<br />Q18. “At some point it felt as if my real <strong>__was starting to take on the posture or shape of the virtual ____that I saw” 
-<br />Q19. “At some point it felt that the virtual ____resembled my own (real) __</strong>, in terms of shape, skin tone or other visual features.” 
-<br />Q20. “I felt like I was wearing different clothes from when I came to the laboratory”</p>
+<h2 id="reliability">Reliability</h2>
+<p>Reliability refers to the principle that a measurement produces similar results under similar conditions.</p>
 
-<p><strong>Response to external stimuli</strong>
-<br />Q21. “I felt that my own <strong>__could be affected by __</strong>” 
-<br />Q22. “I felt a <strong>__sensation in my body when I saw __</strong>” 
-<br />Q23. “When <strong>__ happened, I felt the instinct to __</strong>” 
-<br />Q24. “I felt as if my <strong>__had __</strong>” - If there is a threat to the body: 
-<br />Q25. “I had the feeling that I might be harmed by the <em>__</em>”</p>]]></content><author><name></name></author><category term="perceived embodiment" /><summary type="html"><![CDATA[NOTE: THIS IS NOT THE LATEST VERSION OF THIS SCALE. We recommend using the latest version of this scale which you can find here]]></summary></entry></feed>
+<h2 id="scale">Scale</h2>
+<p>The term “scale” refers to any instrument that measures a behavior, attitude, or other latent construct that isn’t directly observable.</p>
+
+<h2 id="subscale">Subscale</h2>
+<p>Subscales refer to complete sets of items that load onto one factor in an existing validated scale. For example, the competence subscale in the RoSAS consists of six items that are related to the intelligence or ability of the robot.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[Classical Test Theory (CTT) A scale development method where the assumption is that the participants’ responses or overall score on a measure are a linear combination of their true ability plus random error. The goal in CTT is to get as close to the true score as possible by minimizing noise.]]></summary></entry></feed>
