@@ -100,7 +100,7 @@ search by construct, author, scale name, year of publication-->
 * Don’t just rely on the rating value that has been reported on the page - read the papers!
 
 ## Scales by Category
-The values to the left of the scale title indicate the total score (out of 100 max) that the scale received using our guideline. 
+The values to the left of the scale title indicate the total score (out of 100 max) that the scale received using our guideline. test
 
 # Anthropomorphism
 85&emsp;[Anthropomorphsim Rasch]({% post_url 2024-10-31-AP_HL %})
