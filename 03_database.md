@@ -104,8 +104,9 @@ The values to the left of the scale title indicate the total score (out of 100 m
 100&emsp;[General Attitudes Towards Robots Scale (GAToRS)]({% post_url 2024-06-03-gators %})
 <br>85&emsp;&ensp;[Robotic Social Attributes Scale (RoSAS)]({% post_url 2024-06-12-RoSAS %})
 <br>69&emsp;&ensp;[Robot Anxiety Scale (RAS)]({% post_url 2024-06-12-RAS %})
+<br>69&emsp;&ensp;[Negative Attitudes Towards Robots Scale (NARS)]({% post_url 2024-07-02-NARS %})
 <br>38&emsp;&ensp;[Perceived Empathy (RoPE)]({% post_url 2024-06-12-ROPE %})
-<br>23&emsp;&ensp;[Negative Attitudes Towards Robots Scale (NARS)]({% post_url 2024-07-02-NARS %})
+
 
 # Collaborative Fluency
 46&emsp;&ensp;[Collaborative Fluency]({% post_url 2024-06-11-hoffmanfluency %})
