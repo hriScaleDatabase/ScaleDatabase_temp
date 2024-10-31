@@ -9,6 +9,7 @@ permalink: /Database/
   <option value="#anthropomorphism">Anthropomorphism</option>
   <option value="#attitudesattributes">Attitudes/Attributes</option>
   <option value="#collaborative-fluency">Collaborative Fluency</option>
+  <option value="#morality">Morality</option>
   <option value="#perceived-embodiment">Perceived Embodiment</option>
   <option value="#social-acceptance">Social Acceptance</option>
   <option value="#trust">Trust</option>
@@ -116,6 +117,9 @@ The values to the left of the scale title indicate the total score (out of 100 m
 
 # Collaborative Fluency
 46&emsp;&ensp;[Collaborative Fluency]({% post_url 2024-06-11-hoffmanfluency %})
+
+# Morality
+38&emsp;&ensp;[Moral Concern for Robots Scale (MCRS)]({% post_url 2024-10-31-MCRS %})
 
 # Perceived Embodiment
 <br>92&emsp;&ensp;[EmCorp Scale]({% post_url 2024-06-13-emcorphoffmann %})
