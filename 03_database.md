@@ -119,6 +119,7 @@ The values to the left of the scale title indicate the total score (out of 100 m
 46&emsp;&ensp;[Collaborative Fluency]({% post_url 2024-06-11-hoffmanfluency %})
 
 # Morality
+85&emsp;&ensp;[Perceived Moral Agency Scale (PMA)]({% post_url 2024-10-31-PMA %})
 38&emsp;&ensp;[Moral Concern for Robots Scale (MCRS)]({% post_url 2024-10-31-MCRS %})
 
 # Perceived Embodiment
