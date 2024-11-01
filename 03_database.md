@@ -107,7 +107,7 @@ The values to the left of the scale title indicate the total score (out of 100 m
 
 # Attitudes/Attributes
 100&emsp;[General Attitudes Towards Robots Scale (GAToRS)]({% post_url 2024-06-03-gators %})
-100&emsp;[Perception of Agency (PA) scale)]({% post_url 2024-10-31-PA %})
+<br>100&emsp;[Perception of Agency (PA) scale)]({% post_url 2024-10-31-PA %})
 <br>85&emsp;&ensp;[Robotic Social Attributes Scale (RoSAS)]({% post_url 2024-06-12-RoSAS %})
 <br>69&emsp;&ensp;[Robot Anxiety Scale (RAS)]({% post_url 2024-06-12-RAS %})
 <br>69&emsp;&ensp;[Negative Attitudes Towards Robots Scale (NARS)]({% post_url 2024-07-02-NARS %})
@@ -122,8 +122,8 @@ The values to the left of the scale title indicate the total score (out of 100 m
 
 # Morality
 92&emsp;&ensp;[Perceived Moral Patiency Scale (PMP)]({% post_url 2024-10-31-PMP %})
-85&emsp;&ensp;[Perceived Moral Agency Scale (PMA)]({% post_url 2024-10-31-PMA %})
-38&emsp;&ensp;[Moral Concern for Robots Scale (MCRS)]({% post_url 2024-10-31-MCRS %})
+<br>85&emsp;&ensp;[Perceived Moral Agency Scale (PMA)]({% post_url 2024-10-31-PMA %})
+<br>38&emsp;&ensp;[Moral Concern for Robots Scale (MCRS)]({% post_url 2024-10-31-MCRS %})
 
 # Perceived Embodiment
 <br>92&emsp;&ensp;[EmCorp Scale]({% post_url 2024-06-13-emcorphoffmann %})
