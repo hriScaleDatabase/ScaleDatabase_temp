@@ -139,7 +139,7 @@ The values to the left of the scale title indicate the total score (out of 100 m
 <br>46&emsp;&ensp;[Psychological Safety]({% post_url 2024-06-12-safetykamide %})
 
 # Social
-10092&emsp;&ensp;[Connection-Coordination Rapport Scale (CCR)]({% post_url 2025-01-06-CCR %})
+100&emsp;&ensp;[Connection-Coordination Rapport Scale (CCR)]({% post_url 2025-01-06-CCR %})
 <br>92&emsp;&ensp;[Human-Robot Interaction Evaluation Scale (HRIES)]({% post_url 2025-01-06-HRIES %})
 <br>77&emsp;&ensp;[Frankenstein Syndrome Questionnaire (FSQ)]({% post_url 2024-06-11-frankenstein %})
 <br>69&emsp;&ensp;[Uncanny Valley Effect]({% post_url 2025-01-06-HoandMac %})
@@ -148,6 +148,7 @@ The values to the left of the scale title indicate the total score (out of 100 m
 85&emsp;&ensp;[Trust in Industrial Human-Robot Collaboration]({% post_url 2024-06-11-charaltrust %})
 <br>77&emsp;&ensp;[HRI Trust Scale]({% post_url 2024-06-11-yagodatrust %})
 <br>62&emsp;&ensp;[Multidimensional Measure of Trust (MDMT)]({% post_url 2024-06-04-MDMT %})
+<br>62&emsp;&ensp;[Trust in Automation (TiA)]({% post_url 2025-01-06-TiA %})
 <br>31&emsp;&ensp;[Trust Perception Scale-HRI]({% post_url 2024-10-31-trustschaefer %})
 <br>23&emsp;&ensp;[Multidimensional Measure of Trust (MDMT) version 2]({% post_url 2024-06-12-MDMTv2 %})
 
