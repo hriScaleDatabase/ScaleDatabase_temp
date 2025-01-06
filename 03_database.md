@@ -134,8 +134,9 @@ The values to the left of the scale title indicate the total score (out of 100 m
 <br>85&emsp;&ensp;[Avatar Embodiment]({% post_url 2024-06-12-embodimentgonzalez %})
 <br>54&emsp;&ensp;[Avatar Embodiment - Validated]({% post_url 2024-06-13-validateembodimentgonzalez %})
 
-# Safety
-46&emsp;&ensp;[Psychological Safety]({% post_url 2024-06-12-safetykamide %})
+# Safety/Danger
+100&emsp;&ensp;[Perceived Danger (PD)]({% post_url 2025-01-06-PD %})
+<br>46&emsp;&ensp;[Psychological Safety]({% post_url 2024-06-12-safetykamide %})
 
 # Social
 92&emsp;&ensp;[Human-Robot Interaction Evaluation Scale (HRIES)]({% post_url 2025-01-06-HRIES %})
