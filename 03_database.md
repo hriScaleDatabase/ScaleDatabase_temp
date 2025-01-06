@@ -116,6 +116,7 @@ The values to the left of the scale title indicate the total score (out of 100 m
 <br>38&emsp;&ensp;[Perceived Empathy (RoPE)]({% post_url 2024-06-12-ROPE %})
 <br>23&emsp;&ensp;[Godspeed Scale]({% post_url 2024-10-31-Godspeed %})
 <br>69&emsp;&ensp;[Dimensions of Mind Perception (Gray, Gray, Wegner)]({% post_url 2025-01-06-GGW %})
+<br>85&emsp;&ensp;[Dimensions of Mind Perception (MMP35)]({% post_url 2025-01-06-Malle %})
 
 
 # Collaborative Fluency
