@@ -97,7 +97,7 @@ search by construct, author, scale name, year of publication-->
 * If a scale has been updated, we will include a link at the top of the page to the most recent version of the scale. 
 * Scale pages include: a construct definition (as reported in the paper - quoted where possible), a rating percentage out of 100%, details about which items it received points for (a check indicates a point), a comments section with extra information by the expert reviewers where applicable, a link to the paper and citation in APA format, where possible a PDF of the scale and administration and scoring instructions, and a list of the final scale items as reported in the paper.
 * Use the comment section on each page to figure out the specific details including about whether this was a validation study.
-* Don’t just rely on the rating value that has been reported on the page - read the papers!
+* Don’t just rely on the rating value that has been reported on the page - read the papers!vT
 
 ## Scales by Category
 The values to the left of the scale title indicate the total score (out of 100 max) that the scale received using our guideline.
