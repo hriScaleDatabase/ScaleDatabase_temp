@@ -138,7 +138,8 @@ The values to the left of the scale title indicate the total score (out of 100 m
 46&emsp;&ensp;[Psychological Safety]({% post_url 2024-06-12-safetykamide %})
 
 # Social
-77&emsp;&ensp;[Frankenstein Syndrome Questionnaire (FSQ)]({% post_url 2024-06-11-frankenstein %})
+92&emsp;&ensp;[Human-Robot Interaction Evaluation Scale (HRIES)]({% post_url 2025-01-06-HRIES %})
+<br>77&emsp;&ensp;[Frankenstein Syndrome Questionnaire (FSQ)]({% post_url 2024-06-11-frankenstein %})
 <br>69&emsp;&ensp;[Uncanny Valley Effect]({% post_url 2025-01-06-HoandMac %})
 
 # Trust
