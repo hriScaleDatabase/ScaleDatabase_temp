@@ -14,7 +14,7 @@ Finding the "perfect" scale for your research is not always a simple or straight
 <br>So, if you're looking for that "perfect" scale, look no further! All the information you need to find it is right here.
 
 <br>Jump to the [guideline](/guideline) to learn more about the guideline items and our recommendations for how to best use this database. 
-<br>Jump to the [database](/database) to find your "perfect" scale!
+<br>Jump to the [database](/Database) to find your "perfect" scale!
 
 
 <br> Saad, L., Roesler, E., Phillips, B. K., & Trafton, J. G. (under review) Choosing the "perfect" scale: a primer to evaluate existing scales in HRI. 

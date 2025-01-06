@@ -6,7 +6,7 @@ permalink: /guideline/
 
 ## How the guideline works
 
-The guideline aims to help you pick the appropriate scale, evaluate whether it was developed adequately, and determine its validity as a measure. It includes 13 high-level questions that can help you determine whether a candidate scale will be adequate for your research. These guideline questions should be applied to the scale development or validation paper. If the scale does not meet the acceptable criteria (as outlined below or in the paper), then it does not get the point for that guideline question. The maximum number of points a scale can achieve is 13/13 or 100%. Below, we will provide a very high-level review of the information that is contained in the guideline. 
+The guideline aims to help you pick the appropriate scale, evaluate whether it was developed adequately, and determine its validity as a measure. It includes 13 high-level questions that can help you determine whether a candidate scale will be adequate for your research. These guideline questions should be applied to the scale development or validation paper. If the scale does not meet the acceptable criteria (as outlined below or in the paper), then it does not get the point for that guideline question. The maximum number of points a scale can achieve is 13/13 or 100%. Below, we will provide a very high-level review of the information that is contained in the guideline. This is a test.
 
 Click here for a [Glossary]({% post_url 2024-10-09-glossary %})
 
