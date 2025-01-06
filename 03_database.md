@@ -117,35 +117,35 @@ The values to the left of the scale title indicate the total score (out of 100 m
 <br>23&emsp;&ensp;[Godspeed Scale]({% post_url 2024-10-31-Godspeed %})
 
 # Collaborative Fluency
-46&emsp;&ensp;[Collaborative Fluency]({% post_url 2024-06-11-hoffmanfluency %})
+46&emsp;[Collaborative Fluency]({% post_url 2024-06-11-hoffmanfluency %})
 
 # Mind/Agency Perception
-<br>100&emsp;[Perception of Agency (PA) scale]({% post_url 2024-10-31-PA %})
+100&emsp;[Perception of Agency (PA) scale]({% post_url 2024-10-31-PA %})
 <br>85&emsp;&ensp;[Dimensions of Mind Perception (MMP35)]({% post_url 2025-01-06-Malle %})
 <br>69&emsp;&ensp;[Dimensions of Mind Perception (Gray, Gray, Wegner)]({% post_url 2025-01-06-GGW %})
 
 # Morality
-92&emsp;&ensp;[Perceived Moral Patiency Scale (PMP)]({% post_url 2024-10-31-PMP %})
+92&emsp;[Perceived Moral Patiency Scale (PMP)]({% post_url 2024-10-31-PMP %})
 <br>85&emsp;&ensp;[Perceived Moral Agency Scale (PMA)]({% post_url 2024-10-31-PMA %})
 <br>38&emsp;&ensp;[Moral Concern for Robots Scale (MCRS)]({% post_url 2024-10-31-MCRS %})
 
 # Perceived Embodiment
-<br>92&emsp;&ensp;[EmCorp Scale]({% post_url 2024-06-13-emcorphoffmann %})
+92&emsp;[EmCorp Scale]({% post_url 2024-06-13-emcorphoffmann %})
 <br>85&emsp;&ensp;[Avatar Embodiment]({% post_url 2024-06-12-embodimentgonzalez %})
 <br>54&emsp;&ensp;[Avatar Embodiment - Validated]({% post_url 2024-06-13-validateembodimentgonzalez %})
 
 # Safety/Danger
-100&emsp;&ensp;[Perceived Danger (PD)]({% post_url 2025-01-06-PD %})
+100&emsp;[Perceived Danger (PD)]({% post_url 2025-01-06-PD %})
 <br>46&emsp;&ensp;[Psychological Safety]({% post_url 2024-06-12-safetykamide %})
 
 # Social
-100&emsp;&ensp;[Connection-Coordination Rapport Scale (CCR)]({% post_url 2025-01-06-CCR %})
+100&emsp;[Connection-Coordination Rapport Scale (CCR)]({% post_url 2025-01-06-CCR %})
 <br>92&emsp;&ensp;[Human-Robot Interaction Evaluation Scale (HRIES)]({% post_url 2025-01-06-HRIES %})
 <br>77&emsp;&ensp;[Frankenstein Syndrome Questionnaire (FSQ)]({% post_url 2024-06-11-frankenstein %})
 <br>69&emsp;&ensp;[Uncanny Valley Effect]({% post_url 2025-01-06-HoandMac %})
 
 # Trust
-85&emsp;&ensp;[Trust in Industrial Human-Robot Collaboration]({% post_url 2024-06-11-charaltrust %})
+85&emsp;[Trust in Industrial Human-Robot Collaboration]({% post_url 2024-06-11-charaltrust %})
 <br>77&emsp;&ensp;[HRI Trust Scale]({% post_url 2024-06-11-yagodatrust %})
 <br>62&emsp;&ensp;[Multidimensional Measure of Trust (MDMT)]({% post_url 2024-06-04-MDMT %})
 <br>62&emsp;&ensp;[Trust in Automation (TiA)]({% post_url 2025-01-06-TiA %})
