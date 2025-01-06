@@ -115,7 +115,7 @@ The values to the left of the scale title indicate the total score (out of 100 m
 <br>46&emsp;&ensp;[Multidimensional Robot Attitude Scale (MRAS)]({% post_url 2024-10-31-MDRAS %})
 <br>38&emsp;&ensp;[Perceived Empathy (RoPE)]({% post_url 2024-06-12-ROPE %})
 <br>23&emsp;&ensp;[Godspeed Scale]({% post_url 2024-10-31-Godspeed %})
-<br>23&emsp;&ensp;[Dimensions of Mind Perception]({% post_url 2025-01-06-GGW %})
+<br>69&emsp;&ensp;[Dimensions of Mind Perception (Gray, Gray, Wegner)]({% post_url 2025-01-06-GGW %})
 
 
 # Collaborative Fluency
@@ -134,8 +134,9 @@ The values to the left of the scale title indicate the total score (out of 100 m
 # Safety
 46&emsp;&ensp;[Psychological Safety]({% post_url 2024-06-12-safetykamide %})
 
-# Social Acceptance
+# Social
 77&emsp;&ensp;[Frankenstein Syndrome Questionnaire (FSQ)]({% post_url 2024-06-11-frankenstein %})
+<br>69&emsp;&ensp;[Uncanny Valley Effect]({% post_url 2025-01-06-HoandMac %})
 
 # Trust
 85&emsp;&ensp;[Trust in Industrial Human-Robot Collaboration]({% post_url 2024-06-11-charaltrust %})
