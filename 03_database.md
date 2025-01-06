@@ -114,7 +114,7 @@ The values to the left of the scale title indicate the total score (out of 100 m
 <br>62&emsp;&ensp;[Human Robot Interaction Stress Scale]({% post_url 2025-01-06-HRISS %})
 <br>46&emsp;&ensp;[Multidimensional Robot Attitude Scale (MRAS)]({% post_url 2024-10-31-MDRAS %})
 <br>38&emsp;&ensp;[Perceived Empathy (RoPE)]({% post_url 2024-06-12-ROPE %})
-<br>38&emsp;&ensp;[Anthropomorphic Tendencies Scale (ATS)]({% post_url 2025-01-06-ATS %})
+<br>38&emsp;&ensp;[Anthropomorphic Tendencies Scale (ATS)]({% post_url 2025-01-06-AnthroQ %})
 <br>23&emsp;&ensp;[Godspeed Scale]({% post_url 2024-10-31-Godspeed %})
 
 # Collaborative Fluency
