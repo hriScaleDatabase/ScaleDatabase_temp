@@ -107,6 +107,7 @@ The values to the left of the scale title indicate the total score (out of 100 m
 
 # Attitudes/Attributes
 100&emsp;[General Attitudes Towards Robots Scale (GAToRS)]({% post_url 2024-06-03-gators %})
+<br>100&emsp;[Individual Differences in Anthropomorphism Questionnaire - Child Form (IDAQ-CF)]({% post_url 2025-01-08-IDAQCF %})
 <br>85&emsp;&ensp;[Robotic Social Attributes Scale (RoSAS)]({% post_url 2024-06-12-RoSAS %})
 <br>69&emsp;&ensp;[Robot Anxiety Scale (RAS)]({% post_url 2024-06-12-RAS %})
 <br>69&emsp;&ensp;[Negative Attitudes Towards Robots Scale (NARS)]({% post_url 2024-07-02-NARS %})
