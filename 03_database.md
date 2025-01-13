@@ -103,7 +103,8 @@ search by construct, author, scale name, year of publication-->
 The values to the left of the scale title indicate the total score (out of 100 max) that the scale received using our guideline.
 
 # Anthropomorphism
-92&emsp;[Scale of Social Robot Anthropomorphism (SSRA)]({% post_url 2025-01-13-SSRA %})
+92&emsp;[Individual Differences in Anthropomorphism Scale (IDAQ)]({% post_url 2025-01-13-IDAQ %})
+<br>92&emsp;[Scale of Social Robot Anthropomorphism (SSRA)]({% post_url 2025-01-13-SSRA %})
 <br>85&emsp;[Anthropomorphsim Rasch]({% post_url 2024-10-31-AP_HL %})
 
 # Attitudes/Attributes
