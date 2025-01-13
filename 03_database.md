@@ -159,6 +159,9 @@ The values to the left of the scale title indicate the total score (out of 100 m
 <br>31&emsp;&ensp;[Trust Perception Scale-HRI]({% post_url 2024-10-31-trustschaefer %})
 <br>23&emsp;&ensp;[Multidimensional Measure of Trust (MDMT) version 2]({% post_url 2024-06-12-MDMTv2 %})
 
+# Usability
+23&emsp;[System Usability Scale (SUS)]({% post_url 2025-01-13-SUS %})
+
 # User Experience
 85&emsp;[User Experience Questionnaire (UEQ)]({% post_url 2025-01-13-UEQ %})
 
