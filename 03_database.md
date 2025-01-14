@@ -120,6 +120,7 @@ The values to the left of the scale title indicate the total score (out of 100 m
 <br>38&emsp;&ensp;[Perceived Empathy (RoPE)]({% post_url 2024-06-12-ROPE %})
 <br>31&emsp;&ensp;[Anthropomorphic Tendencies Scale (ATS)]({% post_url 2025-01-06-AnthroQ %})
 <br>23&emsp;&ensp;[Godspeed Scale]({% post_url 2024-10-31-Godspeed %})
+<br>15&emsp;&ensp;[Mental Models of Robots]({% post_url 2025-01-14-MM %})
 
 # Collaborative Fluency
 46&emsp;[Collaborative Fluency]({% post_url 2024-06-11-hoffmanfluency %})
