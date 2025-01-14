@@ -162,6 +162,7 @@ The values to the left of the scale title indicate the total score (out of 100 m
 
 # Usability
 23&emsp;[System Usability Scale (SUS)]({% post_url 2025-01-13-SUS %})
+23&emsp;[Usefulness, Satisfaction, and Ease of Use Scale (USE)]({% post_url 2025-01-14-USE %})
 
 # User Experience
 85&emsp;[User Experience Questionnaire (UEQ)]({% post_url 2025-01-13-UEQ %})

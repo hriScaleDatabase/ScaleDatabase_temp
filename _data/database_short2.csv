@@ -6,9 +6,9 @@ Rating,ScaleName,Construct label,DimLabels,NumItems,Title,Authors,Year
 100,Perception of Agency (PA),perceived agency,unidimensional,14,The Perception of Agency,Trafton et al.,2024
 92,EmCorp Scale,perceived embodiment,,20,The Peculiarities of Robot Embodiment (EmCorp Scale),Hoffmann et al.,2018
 92,Human robot interaction evaluation scale (HRIES),anthropomorphism,"sociability, disturbance, agency, animacy",16,Perception and evaluation in humanrobot interaction: The HumanRobot Interaction Evaluation Scale (HRIES)A multicomponent approach of anthropomorphism,Spatola et al.,2021
+92,Individual Differences in Anthropomorphizing Questionnaire (IDAQ),individual differences in tendency to anthropomorphize,anthropomorphism in animals and anthropomorphism in non-animals,15,Who sees human The stability and importance of individual differences in anthropomorphism,Waytz et al.,2010
 92,Perceived Moral Patiency Scale (PMP),perceived moral patiency in robots,"care, fairness, authority, loyalty, purity, and liberty",18,Perceived moral patiency of social robots: Explication and scale development,Banks et al.,2023
 92,Scale of Social Robot Anthropomorphism (SSRA),anthropomorphism,"humanlike appearance, self understanding, social intelligence, emotion capability",20,Seeing Personhood in Machines: Conceptualizing Anthropomorphism of Social Robots,Chi et al.,2024
-92,Individual Differences in Anthropomorphizing Questionnaire (IDAQ),individual differences in tendency to anthropomorphize,anthropomorphism in animals and anthropomorphism in non-animals,15,Who sees human The stability and importance of individual differences in anthropomorphism,Waytz et al.,2010
 85,Dimensions of Mind Perception (MMP35),dimensions of mind,Positive affect; negative affect; moral cognition; social cognition; reality interaction,20,How many dimensions of mind perception really are there?,"Malle, B.",2019
 85,NA,anthropomorphism,unclear,unclear,Perceived HumanLikeness of Social Robots: Testing the Rasch Model as a Method for Measuring Anthropomorphism,Ruijten et al.,2019
 85,Perceived Moral Agency Scale (PMA),perceived moral agency in robots,Dependency and morality,10,A perceived moral agency scale: Development and validation of a metric for humans and social machines,Banks,2019
@@ -41,4 +41,5 @@ response, ownership, multisensory",16,Avatar Embodiment. A Standardized Question
 23,Godspeed,perception of robots,"anthropomorphism, animacy, likeabiliy, perceived intelligence, perceived safety",24,"Measurement instruments for the anthropomorphism, animacy, likeability, perceived intelligence, and perceived safety of robots",Bartneck et al.,2009
 23,MDMTv2,trust,"transparent, reliable, ethical, competent, benelovent",20,Measuring HumanRobot Trust with the MDMT (MultiDimensional Measure of Trust),"Malle, B. and Ullman D.",2022
 23,System Usability Scale (SUS),usability,unidimensional,10,SUS A quick and dirty usability scale,Brooke,1996
+23,"Usefulness, Satisfaction, and Ease of Use Scale (USE)",usability,"usefulness, ease of use, satisfaction",30,Measuring usability with the USE questionnaire,Lund,2001
 15,Mental Models of Robots,mental models,anthropomorphism and mental model richness,unclear,Mental Models of Robotic Assistants,Kiesler and Goetz,2002
