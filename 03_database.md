@@ -103,13 +103,15 @@ search by construct, author, scale name, year of publication-->
 The values to the left of the scale title indicate the total score (out of 100 max) that the scale received using our guideline.
 
 # Anthropomorphism
-92&emsp;[Individual Differences in Anthropomorphism Scale (IDAQ)]({% post_url 2025-01-13-IDAQ %})
+100&emsp;[Individual Differences in Anthropomorphism Questionnaire - Child Form (IDAQ-CF)]({% post_url 2025-01-08-IDAQCF %})
+<br>92&emsp;[Individual Differences in Anthropomorphism Scale (IDAQ)]({% post_url 2025-01-13-IDAQ %})
 <br>92&emsp;[Scale of Social Robot Anthropomorphism (SSRA)]({% post_url 2025-01-13-SSRA %})
 <br>85&emsp;[Anthropomorphsim Rasch]({% post_url 2024-10-31-AP_HL %})
+<br>38&emsp;&ensp;[Perceived Empathy (RoPE)]({% post_url 2024-06-12-ROPE %})
+<br>31&emsp;&ensp;[Anthropomorphic Tendencies Scale (ATS)]({% post_url 2025-01-06-AnthroQ %})
 
 # Attitudes/Attributes
 100&emsp;[General Attitudes Towards Robots Scale (GAToRS)]({% post_url 2024-06-03-gators %})
-<br>100&emsp;[Individual Differences in Anthropomorphism Questionnaire - Child Form (IDAQ-CF)]({% post_url 2025-01-08-IDAQCF %})
 <br>85&emsp;&ensp;[Robotic Social Attributes Scale (RoSAS)]({% post_url 2024-06-12-RoSAS %})
 <br>77&emsp;&ensp;[Attitudes Towards Robots Measure (ARM)]({% post_url 2025-01-13-ARM %})
 <br>69&emsp;&ensp;[Robot Anxiety Scale (RAS)]({% post_url 2024-06-12-RAS %})
@@ -117,13 +119,8 @@ The values to the left of the scale title indicate the total score (out of 100 m
 <br>62&emsp;&ensp;[Educational Robot Attitude Scale (ERAS)]({% post_url 2024-10-31-ERAS %})
 <br>62&emsp;&ensp;[Human Robot Interaction Stress Scale (HRISS)]({% post_url 2025-01-06-HRISS %})
 <br>46&emsp;&ensp;[Multidimensional Robot Attitude Scale (MRAS)]({% post_url 2024-10-31-MDRAS %})
-<br>38&emsp;&ensp;[Perceived Empathy (RoPE)]({% post_url 2024-06-12-ROPE %})
-<br>31&emsp;&ensp;[Anthropomorphic Tendencies Scale (ATS)]({% post_url 2025-01-06-AnthroQ %})
 <br>23&emsp;&ensp;[Godspeed Scale]({% post_url 2024-10-31-Godspeed %})
 <br>15&emsp;&ensp;[Mental Models of Robots]({% post_url 2025-01-13-MM %})
-
-# Collaborative Fluency
-46&emsp;[Collaborative Fluency]({% post_url 2024-06-11-hoffmanfluency %})
 
 # Mind/Agency Perception
 100&emsp;[Perception of Agency (PA) scale]({% post_url 2024-10-31-PA %})
@@ -151,6 +148,7 @@ The values to the left of the scale title indicate the total score (out of 100 m
 <br>69&emsp;&ensp;[Partner Modeling Questionnaire (PMQ)]({% post_url 2025-01-13-PMQ %})
 <br>69&emsp;&ensp;[Uncanny Valley Effect]({% post_url 2025-01-06-HoandMac %})
 <br>46&emsp;&ensp;[Almere Social Presence]({% post_url 2025-01-13-Almere %})
+<br>46&emsp;&ensp;[Collaborative Fluency]({% post_url 2024-06-11-hoffmanfluency %})
 
 # Trust
 85&emsp;[Trust in Industrial Human-Robot Collaboration]({% post_url 2024-06-11-charaltrust %})
