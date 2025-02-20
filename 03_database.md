@@ -157,7 +157,8 @@ The values to the left of the scale title indicate the total score (out of 100 m
 85&emsp;[Trust in Industrial Human-Robot Collaboration]({% post_url 2024-06-11-charaltrust %})
 <br>77&emsp;&ensp;[HRI Trust Scale]({% post_url 2024-06-11-yagodatrust %})
 <br>62&emsp;&ensp;[Multidimensional Measure of Trust (MDMT)]({% post_url 2024-06-04-MDMT %})
-<br>62&emsp;&ensp;[Trust in Automation (TiA)]({% post_url 2025-01-06-TiA %})
+<br>62&emsp;&ensp;[Trust in Automation - Korber (TiA)]({% post_url 2025-01-06-TiA %})
+<br>46&emsp;&ensp;[Trust in Automation - Jian (TIA)]({% post_url 2025-02-20-TIA %})
 <br>31&emsp;&ensp;[Trust Perception Scale-HRI]({% post_url 2024-10-31-trustschaefer %})
 <br>23&emsp;&ensp;[Multidimensional Measure of Trust (MDMT) version 2]({% post_url 2024-06-12-MDMTv2 %})
 
