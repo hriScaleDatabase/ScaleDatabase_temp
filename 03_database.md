@@ -150,7 +150,6 @@ The values to the left of the scale title indicate the total score (out of 100 m
 <br>69&emsp;&ensp;[Partner Modeling Questionnaire (PMQ)]({% post_url 2025-01-13-PMQ %})
 <br>69&emsp;&ensp;[Uncanny Valley Effect]({% post_url 2025-01-06-HoandMac %})
 <br>62&emsp;&ensp;[Partner Modeling in Speech Interfaces]({% post_url 2025-01-14-PMS %})
-<br>46&emsp;&ensp;[Almere Social Presence]({% post_url 2025-01-13-Almere %})
 <br>46&emsp;&ensp;[Collaborative Fluency]({% post_url 2024-06-11-hoffmanfluency %})
 
 # Trust
