@@ -126,6 +126,7 @@ The values to the left of the scale title indicate the total score (out of 100 m
 # Mind/Agency Perception
 100&emsp;[Perception of Agency (PA) scale]({% post_url 2024-10-31-PA %})
 <br>85&emsp;&ensp;[Dimensions of Mind Perception (MMP35)]({% post_url 2025-01-06-Malle %})
+<br>85&emsp;&ensp;[Weisman Mind Perception]({% post_url 2025-02-20-Wmind %})
 <br>69&emsp;&ensp;[Dimensions of Mind Perception (Gray, Gray, Wegner)]({% post_url 2025-01-06-GGW %})
 <br>62&emsp;&ensp;[Unidimensional Mind Perception]({% post_url 2025-02-20-Tmind %})
 
