@@ -8,11 +8,15 @@ permalink: /Database/
   <option value="#scales-by-category">Top</option>
   <option value="#anthropomorphism">Anthropomorphism</option>
   <option value="#attitudesattributes">Attitudes/Attributes</option>
-  <option value="#collaborative-fluency">Collaborative Fluency</option>
+  <option value="#mindagencyperception">Mind/Agency Perception</option>
   <option value="#morality">Morality</option>
   <option value="#perceived-embodiment">Perceived Embodiment</option>
-  <option value="#social-acceptance">Social Acceptance</option>
+  <option value="#safetydanger">Safety/Danger</option>
+  <option value="#social">Social</option>
   <option value="#trust">Trust</option>
+  <option value="#usability">Usability</option>
+  <option value="#userexperience">User Experience</option>
+  <option value="#workload">Workload</option>
   <option value="#scales">Table of all scales</option>
 </select>
 
