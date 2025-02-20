@@ -131,6 +131,7 @@ The values to the left of the scale title indicate the total score (out of 100 m
 # Morality
 92&emsp;[Perceived Moral Patiency Scale (PMP)]({% post_url 2024-10-31-PMP %})
 <br>85&emsp;&ensp;[Perceived Moral Agency Scale (PMA)]({% post_url 2024-10-31-PMA %})
+<br>85&emsp;&ensp;[Robot's Rights and Responsibilities Scale (RRR)]({% post_url 2025-02-20-RRR %})
 <br>38&emsp;&ensp;[Moral Concern for Robots Scale (MCRS)]({% post_url 2024-10-31-MCRS %})
 
 # Perceived Embodiment
