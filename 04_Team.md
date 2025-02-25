@@ -5,7 +5,7 @@ permalink: /team/
 ---
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-  <img src="{{site.image-path}}/laura.jpg" width="250" height="200" alt="laura" style="margin-right: 15px;">
+  <img src="{{site.image-path}}/LSaad_Photo.jpg" width="250" height="200" alt="laura" style="margin-right: 15px;">
   <div>
     <strong>Laura Saad</strong> is a <a href="https://www.nationalacademies.org/our-work/rap/nrc-research-associateship-programs" target="_blank">National Research Council</a> postdoctoral research associate in the <a href="https://www.nrl.navy.mil/itd/aic/" target="_blank">Navy Center for Applied Research in Artificial Intelligence</a> at the Naval Research Laboratory in Washington, DC. She received her PhD in Cognitive Psychology in 2023 from Rutgers University. Her research focuses on developing more refined measures of the sense of agency—the experience of control over one’s actions and outcomes—with the broader goal of applying these measures in HRI contexts.
   </div>
