@@ -56,7 +56,7 @@ The authors aim to measure trust specifically in the context of industrial human
       <td>Did they provide loadings (EFA) or item fits (Rasch) of all items?</td>
     </tr>
     <tr>
-      <<td>&#10003;</td>
+      <td>&#10003;</td>
       <td>Is there a description of the item removal process (e.g., using infit/outfit, factor loading minimum value, or cross-loading values)?</td>
     </tr>
     <tr>

@@ -98,7 +98,6 @@ The operator is dependable.
 <br>The human team member is dependable.
 <br>The supervisor is dependable.
 <br>The subject matter expert provides expertise.
-
 <br>Team communication is reliable.
 <br>Team coordination is dependable.
 <br>Team dynamics are reliable.
@@ -108,7 +107,6 @@ The operator is dependable.
 <br>Team replanning is dependable.
 <br>Team backup is reliable.
 <br>Team leadership is accessible.
-
 <br>The operation is reliable.
 <br>The task is reliable.
 <br>The physical environment is reliable.
@@ -117,7 +115,6 @@ The operator is dependable.
 <br>My previous human team member experience is dependable.
 <br>My previous physical environment experience is reliable.
 <br>My previous system knowledge is reliable.
-
 <br>My skills require for the task are dependable.
 <br>My task allocation is reliable.
 <br>The task objectives are reliable.
@@ -126,7 +123,6 @@ The operator is dependable.
 <br>Task feedback from my human team members is timely.
 <br>Task feedback from the physical environment is timely.
 <br>Task feedback from the overall system is reliable.
-
 <br>The user interface is reliable.
 <br>The sensor data is dependable.
 <br>The navigation capabilies are consistent.
