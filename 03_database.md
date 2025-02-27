@@ -96,15 +96,15 @@ search by construct, author, scale name, year of publication-->
 
 # Tips for using the database
 
-* Each page (clickable link) below contains information about a specific scale. Scales are grouped by category and the guideline was applied to each scale. Click on the links to get more information about a scale.
-* In some cases, the scale development and validation process was conducted in separate papers (e.g., Avatar Embodiment) and therefore the guideline was applied to each paper individually. 
+* Each page below contains information, including guideline ratings, about each specific scale. Click on the links to get more information about a scale.
+* In some cases, scale development and validation was conducted in separate papers (e.g., MDMT) and therefore the guideline was applied to each paper individually. 
 * If a scale has been updated, we will include a link at the top of the page to the most recent version of the scale. 
-* Scale pages include: a construct definition (as reported in the paper - quoted where possible), a rating percentage out of 100%, details about which items it received points for (a check indicates a point), a comments section with extra information by the expert reviewers where applicable, a link to the paper and citation in APA format, where possible a PDF of the scale and administration and scoring instructions, and a list of the final scale items as reported in the paper.
-* Use the comment section on each page to figure out the specific details including about whether this was a validation study.
-* Don’t just rely on the rating value that has been reported on the page - read the papers!
+* Scale pages include: a construct definition (as reported in the paper - quoted where possible), a guideline rating out of 100%, details about guideline items met (a check indicates a point), a comment section with extra information by the expert reviewers (where applicable), a link to the paper and citation in APA format, where possible a PDF of the scale and administration and scoring instructions, and a list of the final scale items as reported in the paper.
+* The comment section can be used to figure out specific details about the scale.
+* Don’t just rely on the guideline rating -- read the papers!
 
 ## Scales by Category
-The values to the left of the scale title indicate the total score (out of 100 max) that the scale received using our guideline.
+The values to the left of the scale title indicate the guideline rating (out of 100 max) that the scale received.
 
 # Anthropomorphism
 100&emsp;[Individual Differences in Anthropomorphism Questionnaire - Child Form (IDAQ-CF)]({% post_url 2025-01-08-IDAQCF %})
