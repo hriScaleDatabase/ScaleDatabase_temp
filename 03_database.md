@@ -141,8 +141,8 @@ The values to the left of the scale title indicate the total score (out of 100 m
 <br>38&emsp;&ensp;[Moral Concern for Robots Scale (MCRS)]({% post_url 2024-10-31-MCRS %})
 
 # Perceived Embodiment
-92&emsp;[EmCorp Scale]({% post_url 2024-06-13-emcorphoffmann %})
-<br>85&emsp;&ensp;[Avatar Embodiment]({% post_url 2024-06-12-embodimentgonzalez %})
+<85&emsp[Avatar Embodiment]({% post_url 2024-06-12-embodimentgonzalez %})
+<br>77&emsp;&ensp;[EmCorp Scale]({% post_url 2024-06-13-emcorphoffmann %})
 <br>54&emsp;&ensp;[Avatar Embodiment - Validated]({% post_url 2024-06-13-validateembodimentgonzalez %})
 
 # Safety/Danger
