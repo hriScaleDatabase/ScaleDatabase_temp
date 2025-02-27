@@ -11,9 +11,14 @@ scalename: EmCorp Scale
 
 # Construct Summary
 
-TBD
+A measure to assess users’ subjective perceptions of artificial entities’ capabilities related to embodiment and corporeality. The authors detail four capabilities that can explain effects of varying embodiments. They state those capabilities are (Nonverbal) Expressiveness, (Shared) Perception and Interpretation, Tactile Interaction and Mobility, and Corporeality. They initially define these sub-constructs as follows:
 
-# Rating = 92% 
+>Nonverbal Expressiveness relates to the entity’s ability to express itself with gestures, facial expressions etc. 
+>(Shared) Perception refers to perceptual capabilities such as vision and hearing that can (but must not be) shared with the human interaction partner. 
+>By Mobility we mean the capability to navigate in space, whereas Tactile Interaction refers to physical contact with humans and objects. 
+>The core feature that is directly related to the physical embodiment of robots is Corporeality, i.e., the realism and material existence of the entity in the real world. (p. 372)
+
+# Rating = 77% 
 
 <table>
   <thead>
@@ -48,11 +53,11 @@ TBD
       <td>Did they describe how they determined number of factors?</td>
     </tr>
     <tr>
-      <td>&#10003;</td>
+      <td style="color: red;">&#10006;</td>
       <td>Did they report the full initial set of items?</td>
     </tr>
     <tr>
-      <td>&#10003;</td>
+      <td style="color: red;">&#10006;</td>
       <td>Did they provide loadings (EFA) or item fits (Rasch) of all items?</td>
     </tr>
     <tr>
@@ -79,7 +84,7 @@ TBD
 </table>
 
 **Comments**
-<br>full set of items listed in the appendix
+<br>Full set of items are reportedly listed in the appendix but no link to appendix was provided in the paper. Administered English and German versions simultaneously and data were analyzed on the combined dataset.
 
 # Reviewed by Experts &#10003;
 
@@ -89,21 +94,30 @@ TBD
 
 <br>PDF of scale as well as instructions for administration and scoring are not readily available. Check the paper for more details or email hriscaledatabase@gmail.com to submit this information if you are the author of this scale.
 
-# Final Scale Items (20 items)):
+# Final Scale Items (20 items):
 
-is physically embodied
+Items are rated on a 6-point Likert scale from 1 (strongly disagree) to 6 (strongly agree)
+
+**Corporeality**
+<br>is physically embodied
 <br>is existent in the real world
 <br>is real
+
+**(Nonverbal) Expressiveness**
 <br>is unrestricted in its actions
 <br>is unrestricted in its movements
 <br>is unrestricted in its facial expressions
 <br>is unrestricted in its gestures
+
+**Tactline Interaction and Mobility**
 <br>is able to autonomously navigate in space
 <br>is able to move towards me
 <br>is able to touch objects
 <br>is able to carry objects
 <br>is able to perform designated actions like brewing coffee or vacuuming
 <br>is able to move in space
+
+**(Shared) Perception and Interpretation**
 <br>is able to react to the same environmental stimuli as I do
 <br>is able to immediately react to my actions
 <br>is able to recognize emotions
