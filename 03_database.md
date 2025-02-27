@@ -108,9 +108,9 @@ The values to the left of the scale title indicate the total score (out of 100 m
 
 # Anthropomorphism
 100&emsp;[Individual Differences in Anthropomorphism Questionnaire - Child Form (IDAQ-CF)]({% post_url 2025-01-08-IDAQCF %})
-<br>92&emsp;[Individual Differences in Anthropomorphism Scale (IDAQ)]({% post_url 2025-01-13-IDAQ %})
 <br>92&emsp;[Scale of Social Robot Anthropomorphism (SSRA)]({% post_url 2025-01-13-SSRA %})
 <br>85&emsp;[Anthropomorphsim Rasch]({% post_url 2024-10-31-AP_HL %})
+<br>69&emsp;[Individual Differences in Anthropomorphism Scale (IDAQ)]({% post_url 2025-01-13-IDAQ %})
 <br>38&emsp;&ensp;[Perceived Empathy (RoPE)]({% post_url 2024-06-12-ROPE %})
 <br>31&emsp;&ensp;[Anthropomorphic Tendencies Scale (ATS)]({% post_url 2025-01-06-AnthroQ %})
 
