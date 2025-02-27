@@ -5,15 +5,16 @@ title: Home
 
 # Need a scale for your research but aren't sure how to find the best one?
 
-Finding the "perfect" scale for your research is not always a simple or straightforward task. The goal of this project is to make the process as simple as possible. 
+Finding the "perfect" scale for your research is not always easy. The goal of this project is to develop a tool that makes finding and implementing high-quality HRI scales quick and easy.
+. 
 
-<br>We (a team of HRI researchers and cognitive scientists) have developed a guideline that encompasses the minimal criteria needed for a scale to be considered "good" (according to basic psychometric scale development and validation standards). Each guideline item indicates a piece in the scale development process with 13 items in total. In order for a scale to receive a point on our guideline, their development or validation paper must have included some information that was relevant to that part of the process. 
+<br>We (a team of HRI researchers and cognitive scientists) have developed a guideline that encompasses the minimal criteria needed for a scale to be considered "good" (according to basic psychometric scale development and validation standards). Each guideline item indicates a piece in the scale development process with 13 questions (or items) in total. In order for a scale to receive a point on our guideline, their development or validation paper must have included some information that was relevant to that part of the process. 
 
-<br>We have compiled many of the most highly-cited and frequently used scales in HRI. A panel of experts has individually reviewed and discussed each paper and provided ratings according to our guideline. Higher values are better, with a maximum rating of 100%, indicating that the paper has met all of the guideline items. These scales and ratings have been categorized according to the construct of interest and ranked within each construct category. Each scale has its own page which contains the most importation information about the scale (e.g., what the scale aims to measure, what items are included, where it lost points on our guideline, direct links to the paper, and much more). 
+<br>We have compiled many of the most highly-cited and frequently used scales in human-robot interaction (HRI) research. A panel of [experts(/Team)] has individually reviewed and discussed each paper and provided ratings according to this guideline. Higher values are better, with a maximum rating of 100%, indicating that the paper has met all of the guideline items. These scales and ratings have been categorized according to the construct they are proposed to measure (e.g., trust or safety) and ranked within each category. Each scale has its own page which contains the most important information about the scale (e.g., what the scale aims to measure, what items are included, where it lost points on our guideline, direct links to the paper, and much more). 
 
 <br>So, if you're looking for that "perfect" scale, look no further! All the information you need to find it is right here.
 
-<br>Jump to the [guideline](/guideline) to learn more about the guideline items and our recommendations for how to best use this database. 
+<br>Jump to the [guideline](/guideline) to learn more about the guideline items. 
 <br>Jump to the [database](/Database) to find your "perfect" scale!
 
 
