@@ -5,7 +5,7 @@ title: Home
 
 # Need a scale for your research but aren't sure how to find the best one?
 
-Finding the "perfect" scale for your research is not always easy. The goal of this project is to develop a tool that makes finding and implementing high-quality HRI scales quick and easy.
+Finding the "perfect" scale for your research is not always easy. Our aim is to provide you with a tool that makes finding and implementing high-quality HRI scales quick and easy.
 . 
 
 <br>We (a team of HRI researchers and cognitive scientists) have developed a guideline that encompasses the minimal criteria needed for a scale to be considered "good" (according to basic psychometric scale development and validation standards). Each guideline item indicates a piece in the scale development process with 13 questions (or items) in total. In order for a scale to receive a point on our guideline, their development or validation paper must have included some information that was relevant to that part of the process. 
