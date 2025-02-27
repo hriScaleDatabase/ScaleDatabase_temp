@@ -38,6 +38,6 @@ permalink: /team/
 
 Email: hriscaledatabase@gmail.com
 
-<br><img src = "{{site.image-path}}/nrl.jpg" width="150" height="100" alt="Image 1"> <img src = "{{site.image-path}}/GMUlogo2.jpg" width="150" height="100" alt="Image 1">
+<br><img src = "{{site.image-path}}/nrl.jpg" width="150" height="100" alt="Image 1"> <img src = "{{site.image-path}}/GMUlogo2_usethis.jpg" width="200" height="100" alt="Image 1">
 
 
