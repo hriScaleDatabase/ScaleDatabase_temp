@@ -92,6 +92,7 @@ The scale is validated using existing data from previous experiments that used t
 <br>PDF of scale as well as instructions for administration and scoring are not readily available. Check the paper for more details or email hriscaledatabase@gmail.com to submit this information if you are the author of this scale.
 
 # Final Scale Items (16 total):
+>"References in the questionnaire to body would need to be updated if only a body part is being explored. Blank spaces [x] depend on the experiment, and the ones referring to touch (marked with *) can be filled with floor, if there are no further tactile stimuli."
 
 <br>I felt out of my body. 
 <br>I felt as if my (real) body were drifting toward the virtual body or as if the virtual body were drifting toward my (real) body. 
@@ -100,12 +101,12 @@ The scale is validated using existing data from previous experiments that used t
 <br>At some point it felt as if my real body was starting to take on the posture or shape of the virtual body that I saw. 
 <br>I felt like I was wearing different clothes from when I came to the laboratory. 
 <br>I felt as if my body had changed. 
-<br>I felt a ____ sensation in my body when I saw ____. 
-<br>I felt that my own body could be affected by ____. 
+<br>I felt a [x] sensation in my body when I saw [x]. 
+<br>I felt that my own body could be affected by [x]. 
 <br>I felt as if the virtual body was my body. 
 <br>At some point it felt that the virtual body resembled my own (real) body, in terms of shape, skin tone or other visual features. 
 <br>I felt as if my body was located where I saw the virtual body. 
 <br>I felt like I could control the virtual body as if it was my own body. 
-<br>It seemed as if I felt the touch of the ____ in the location where I saw the virtual body touched. 
-<br>It seemed as if the touch I felt was caused by the ____ touching the virtual body. 
-<br>It seemed as if my body was touching the ____.
+<br>It seemed as if I felt the touch of the [x] in the location where I saw the virtual body touched. 
+<br>It seemed as if the touch I felt was caused by the body touching the virtual [x]*. 
+<br>It seemed as if my body was touching the [x]*.
