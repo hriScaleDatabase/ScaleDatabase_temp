@@ -44,6 +44,7 @@ response, ownership, multisensory",16,Avatar Embodiment. A Standardized Question
 38,NASA Task Load Index (NASA TLX),workload,"mental demand, physical demand, temporal demand, effort, performance, and frustration",6,The NASA Task Load Index (TLX),Hart and Staveland,1986
 38,Perceived Empathy (RoPE),perceived empathy,empathic understanding and empathic response,16,The RoPE Scale: a Measure of How Empathic a Robot is Perceived,Charrier et al.,2020
 31,Anthropomorphic Tendencies Scale (ATS),,,36,Measuring individual differences in anthropomorphism toward machines and animals.,Chin et al.,2004
+31,HRIWM,workload,"task, system, team process, team configuration, context",5,Development of the Human Robot Interaction Workload Measurment Tool (HRI WM),Yagoda,2010
 31,Trust Perception ScaleHRI,trust,unclear,40 or 14,Measuring Trust in Human Robot Interactions: Development of theTrust Perception ScaleHRI,Schaefer,2016
 23,Godspeed,perception of robots,"anthropomorphism, animacy, likeabiliy, perceived intelligence, perceived safety",24,"Measurement instruments for the anthropomorphism, animacy, likeability, perceived intelligence, and perceived safety of robots",Bartneck et al.,2009
 23,MDMTv2,trust,"transparent, reliable, ethical, competent, benelovent",20,Measuring HumanRobot Trust with the MDMT (MultiDimensional Measure of Trust),"Malle, B. and Ullman D.",2022

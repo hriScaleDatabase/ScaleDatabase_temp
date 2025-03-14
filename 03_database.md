@@ -177,6 +177,7 @@ The values to the left of the scale title indicate the guideline rating (out of 
 
 # Workload
 38&emsp;[NASA Task Load Index (NASA-TLX)]({% post_url 2025-01-14-NASATLX %})
+<br>31&emsp;&ensp;[Human Robot Interaction Workload Measure (HRI-WM)]({% post_url 2025-03-14-HRIWM %})
 
 <br>
 <hr>
