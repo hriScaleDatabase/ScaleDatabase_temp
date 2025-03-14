@@ -108,9 +108,9 @@ The values to the left of the scale title indicate the guideline rating (out of 
 
 # Anthropomorphism
 100&emsp;[Individual Differences in Anthropomorphism Questionnaire - Child Form (IDAQ-CF)]({% post_url 2025-01-08-IDAQCF %})
-<br>92&emsp;[Scale of Social Robot Anthropomorphism (SSRA)]({% post_url 2025-01-13-SSRA %})
-<br>85&emsp;[Anthropomorphsim Rasch]({% post_url 2024-10-31-AP_HL %})
-<br>69&emsp;[Individual Differences in Anthropomorphism Scale (IDAQ)]({% post_url 2025-01-13-IDAQ %})
+<br>92&emsp;&ensp;[Scale of Social Robot Anthropomorphism (SSRA)]({% post_url 2025-01-13-SSRA %})
+<br>85&emsp;&ensp;[Anthropomorphsim Rasch]({% post_url 2024-10-31-AP_HL %})
+<br>69&emsp;&ensp;[Individual Differences in Anthropomorphism Scale (IDAQ)]({% post_url 2025-01-13-IDAQ %})
 <br>38&emsp;&ensp;[Perceived Empathy (RoPE)]({% post_url 2024-06-12-ROPE %})
 <br>31&emsp;&ensp;[Anthropomorphic Tendencies Scale (ATS)]({% post_url 2025-01-06-AnthroQ %})
 
@@ -135,13 +135,13 @@ The values to the left of the scale title indicate the guideline rating (out of 
 <br>62&emsp;&ensp;[Unidimensional Mind Perception]({% post_url 2025-02-20-Tmind %})
 
 # Morality
-92&emsp;[Perceived Moral Patiency Scale (PMP)]({% post_url 2024-10-31-PMP %})
+92&emsp;&ensp;[Perceived Moral Patiency Scale (PMP)]({% post_url 2024-10-31-PMP %})
 <br>85&emsp;&ensp;[Perceived Moral Agency Scale (PMA)]({% post_url 2024-10-31-PMA %})
 <br>85&emsp;&ensp;[Robot's Rights and Responsibilities Scale (RRR)]({% post_url 2025-02-20-RRR %})
 <br>38&emsp;&ensp;[Moral Concern for Robots Scale (MCRS)]({% post_url 2024-10-31-MCRS %})
 
 # Perceived Embodiment
-85&emsp;[Avatar Embodiment]({% post_url 2024-06-12-embodimentgonzalez %})
+85&emsp;&ensp;[Avatar Embodiment]({% post_url 2024-06-12-embodimentgonzalez %})
 <br>77&emsp;&ensp;[EmCorp Scale]({% post_url 2024-06-13-emcorphoffmann %})
 <br>54&emsp;&ensp;[Avatar Embodiment - Validated]({% post_url 2024-06-13-validateembodimentgonzalez %})
 
@@ -160,7 +160,7 @@ The values to the left of the scale title indicate the guideline rating (out of 
 <br>46&emsp;&ensp;[Collaborative Fluency]({% post_url 2024-06-11-hoffmanfluency %})
 
 # Trust
-85&emsp;[Trust in Industrial Human-Robot Collaboration]({% post_url 2024-06-11-charaltrust %})
+85&emsp;&ensp;[Trust in Industrial Human-Robot Collaboration]({% post_url 2024-06-11-charaltrust %})
 <br>77&emsp;&ensp;[HRI Trust Scale]({% post_url 2024-06-11-yagodatrust %})
 <br>62&emsp;&ensp;[Multidimensional Measure of Trust (MDMT)]({% post_url 2024-06-04-MDMT %})
 <br>62&emsp;&ensp;[Trust in Automation - Korber (TiA)]({% post_url 2025-01-06-TiA %})
@@ -169,14 +169,14 @@ The values to the left of the scale title indicate the guideline rating (out of 
 <br>23&emsp;&ensp;[Multidimensional Measure of Trust (MDMT) version 2]({% post_url 2024-06-12-MDMTv2 %})
 
 # Usability
-23&emsp;[System Usability Scale (SUS)]({% post_url 2025-01-13-SUS %})
-<br>23&emsp;[Usefulness, Satisfaction, and Ease of Use Scale (USE)]({% post_url 2025-01-14-USE %})
+23&emsp;&ensp;[System Usability Scale (SUS)]({% post_url 2025-01-13-SUS %})
+<br>23&emsp;&ensp;[Usefulness, Satisfaction, and Ease of Use Scale (USE)]({% post_url 2025-01-14-USE %})
 
 # User Experience
-85&emsp;[User Experience Questionnaire (UEQ)]({% post_url 2025-01-13-UEQ %})
+85&emsp;&ensp;[User Experience Questionnaire (UEQ)]({% post_url 2025-01-13-UEQ %})
 
 # Workload
-38&emsp;[NASA Task Load Index (NASA-TLX)]({% post_url 2025-01-14-NASATLX %})
+38&emsp;&ensp;[NASA Task Load Index (NASA-TLX)]({% post_url 2025-01-14-NASATLX %})
 <br>31&emsp;&ensp;[Human Robot Interaction Workload Measure (HRI-WM)]({% post_url 2025-03-14-HRIWM %})
 
 <br>
