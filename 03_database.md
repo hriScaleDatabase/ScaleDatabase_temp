@@ -8,6 +8,7 @@ permalink: /Database/
   <option value="#scales-by-category">Top</option>
   <option value="#anthropomorphism">Anthropomorphism</option>
   <option value="#attitudesattributes">Attitudes/Attributes</option>
+  <option value="#mentalmodels">Mental Models</option>
   <option value="#mindagencyperception">Mind/Agency Perception</option>
   <option value="#morality">Morality</option>
   <option value="#perceived-embodiment">Perceived Embodiment</option>
@@ -126,6 +127,9 @@ The values to the left of the scale title indicate the guideline rating (out of 
 <br>46&emsp;&ensp;[Multidimensional Robot Attitude Scale (MRAS)]({% post_url 2024-10-31-MDRAS %})
 <br>23&emsp;&ensp;[Godspeed Scale]({% post_url 2024-10-31-Godspeed %})
 <br>15&emsp;&ensp;[Mental Models of Robots]({% post_url 2025-01-13-MM %})
+
+# Mental Models
+38 &emsp;&ensp;[Robot Threat Assessment (RoTA)]({% post_url 2025-03-28-RoTA %})
 
 # Mind/Agency Perception
 100&emsp;[Perception of Agency (PA) scale]({% post_url 2024-10-31-PA %})
