@@ -176,7 +176,8 @@ The values to the left of the scale title indicate the guideline rating (out of 
 85&emsp;&ensp;[User Experience Questionnaire (UEQ)]({% post_url 2025-01-13-UEQ %})
 
 # Workload
-38&emsp;&ensp;[NASA Task Load Index (NASA-TLX)]({% post_url 2025-01-14-NASATLX %})
+46&emsp;&ensp;[Subjective Workload Assessment Technique (SWAT)]({% post_url 2025-03-28-SWAT %})
+<br>38&emsp;&ensp;[NASA Task Load Index (NASA-TLX)]({% post_url 2025-01-14-NASATLX %})
 <br>31&emsp;&ensp;[Human Robot Interaction Workload Measure (HRI-WM)]({% post_url 2025-03-14-HRIWM %})
 
 <br>
