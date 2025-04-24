@@ -8,7 +8,7 @@ permalink: /guideline/
 
 The guideline was developed to help you, the reader, pick the appropriate scale, evaluate whether it was developed adequately, and determine its validity. The guideline includes 13 high-level questions to assist you in this process. These guideline questions should be applied to the scale development or validation paper. If the scale does not meet the acceptable guideline criteria (as outlined below or in the paper), then it does not get the point for that guideline question. The maximum number of points a scale can achieve is 13/13 or 100%. Below, we will provide a very high-level review of the information that is contained in the guideline. 
 
-Click here for a [Glossary]({% post_url 2024-10-09-glossary %})
+Click here for a [glossary](/glossary) 
 
 <br>
 <hr>

@@ -46,6 +46,8 @@ navigation:
     url: "/team/"
   - title: "FAQ"
     url: "/faq/"
+  - title: "Glossary"
+    url: "/glossary/"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
