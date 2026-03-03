@@ -5,7 +5,7 @@ permalink: /glossary/
 ---
 
 ## Classical Test Theory (CTT)
-A scale development method where the assumption is that the participants' responses or overall score on a measure are a linear combination of their true ability plus random error. The goal in CTT is to get as close to the true score as possible by minimizing noise.
+A scale development method where the assumption is that the participants' responses or overall score on a measure are a linear combination of their true ability plus random error. The goal in CTT is to get as close to the true score as possible by minimizing noise. (test citation)
 
 ## Construct
 A construct refers to the unobserved (i.e., latent) attitude, cognition, or attribute that is the target of the study. Unobserved (or latent) in this context simply refers to a type of construct that exists in the mind of the participant and cannot easily be directly observed. The term construct can be used interchangeably with other terms such as domain and latent variable. 
