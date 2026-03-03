@@ -103,6 +103,7 @@ search by construct, author, scale name, year of publication-->
 * Scale pages include: a construct definition (as reported in the paper - quoted where possible), a guideline rating out of 100%, details about guideline items met (a check indicates a point), a comment section with extra information by the expert reviewers (where applicable), a link to the paper and citation in APA format, where possible a PDF of the scale and administration and scoring instructions, and a list of the final scale items as reported in the paper.
 * The comment section can be used to figure out specific details about the scale.
 * Don’t just rely on the guideline rating -- read the papers!
+* Please note that we are not the authors/owners of the scales below. If you have specific questions regarding details of the scales, please contact the first author of the paper directly!
 
 ## Scales by Category
 The values to the left of the scale title indicate the guideline rating (out of 100 max) that the scale received.
