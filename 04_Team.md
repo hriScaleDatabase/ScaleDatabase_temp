@@ -27,7 +27,7 @@ permalink: /team/
 </div>
 
 <div style="display: flex; align-items: flex-start; flex-direction: row-reverse; margin-bottom: 20px;">
-  <img src="{{site.image-path}}/trafton.mug.png" width="150" height="150" alt="greg" style="margin-right: 15px;">
+  <img src="{{site.image-path}}/trafton.mug.png" width="125" height="150" alt="greg" style="margin-right: 15px;">
   <div>
     <strong>Greg Trafton</strong> is the section head for the Intelligent Systems Section in the Artificial Intelligence Center at the Naval Research Laboratory in Washington, DC.
   </div>
@@ -35,13 +35,18 @@ permalink: /team/
 
 <br>
 ## Thank you to our student volunteers for helping with scale coding!
-Malcolm McCurry, Jaclyn Dolan, Pawinee ("Toey") Pithayarungsarit, Annika Esau, Joseph ("JP") Tiger, Sebastian Pütz, Lydia Melles
-
+Malcolm McCurry
+<br>Jaclyn Dolan
+<br>Pawinee ("Toey") Pithayarungsarit
+<br>Annika Esau
+<br>Joseph ("JP") Tiger
+<br>Sebastian Pütz
+<br>Lydia Melles
 
 <br>
-# Contact Info
+# Email us!
 
-Email: hriscaledatabase@gmail.com
+hriscaledatabase@gmail.com
 
 <br><img src = "{{site.image-path}}/nrl.jpg" width="150" height="100" alt="Image 1"> <img src = "{{site.image-path}}/GMUlogo2_usethis.jpg" width="250" height="100" alt="Image 1">
 
