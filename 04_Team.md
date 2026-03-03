@@ -34,6 +34,11 @@ permalink: /team/
 </div>
 
 <br>
+## Thank you to our student volunteers for helping with scale coding!
+Malcolm McCurry, Jaclyn Dolan, Pawinee ("Toey") Pithayarungsarit, Annika Esau, Joseph ("JP") Tiger, Sebastian Pütz, Lydia Melles
+
+
+<br>
 # Contact Info
 
 Email: hriscaledatabase@gmail.com

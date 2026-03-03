@@ -17,9 +17,10 @@ Finding the "perfect" scale for your research is not always easy. Our aim is to 
 <br>Jump to the [database](/Database) to find your "perfect" scale!
 
 
-<br> Saad, L., Roesler, E., Phillips, B. K., & Trafton, J. G. (under review) Choosing the "perfect" scale: a primer to evaluate existing scales in HRI. 
+<br> Saad, L., Roesler, E., Phillips, E., & Trafton, J. G. (2026). Choosing the “perfect” scale: a primer to evaluate existing scales in HRI. ACM Transactions on Human-Robot Interaction, 15(2), 1-29. [Download the PDF](https://dl.acm.org/doi/pdf/10.1145/3772066)
 
 
 <img src = "{{site.image-path}}/psychometrics-and-scale-dev.jpg" width="250" height="200" alt="Image 1"> <img src = "{{site.image-path}}/HRI.jpg" width="300" height="200" alt="Image 1"> 
 
 [<a href="/assets/pdf/THRI_ScaleGuidelines_2024_10.4.24.pdf" target="_blank">Download the perfect scales paper</a>]: #
+
