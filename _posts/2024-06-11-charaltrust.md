@@ -9,9 +9,26 @@ scalename: NA
 
 **This is the most up-to-date version of this scale.**
 
+# Downloads
+[PAPER](https://link.springer.com/article/10.1007/s12369-015-0333-8){:target="_blank"}
+<br>Charalambous, G., Fletcher, S., & Webb, P. (2016). The development of a scale to evaluate trust in industrial human-robot collaboration. International Journal of Social Robotics, 8, 193-209.
+
 # Construct Summary
 
 The authors aim to measure trust specifically in the context of industrial human-robot collaboration (HRC). They identify two main factors - robot performance and robot's physical attributes - that play a role in trust in industrial HRC contexts.
+
+# Final Scale Items (10 total):
+
+The way the robot moved made me uncomfortable 
+<br>The speed at which the gripper picked up and released the components made me uneasy
+<br>I trusted that the robot was safe to cooperate with 
+<br>I was comfortable the robot would not hurt me 
+<br>The size of the robot did not intimidate me 
+<br>I felt safe interacting with the robot 
+<br>I knew the gripper would not drop the components 
+<br>The robot gripper did not look reliable 
+<br>The gripper seemed like it could be trusted 
+<br>I felt I could rely on the robot to do what it was supposed to do
 
 # Rating = 85% 
 
@@ -81,23 +98,8 @@ The authors aim to measure trust specifically in the context of industrial human
 **Comments**
 None
 
-# Reviewed by Experts &#10003;
-
-# Downloads
-[PAPER](https://link.springer.com/article/10.1007/s12369-015-0333-8){:target="_blank"}
-<br>Charalambous, G., Fletcher, S., & Webb, P. (2016). The development of a scale to evaluate trust in industrial human-robot collaboration. International Journal of Social Robotics, 8, 193-209.
-
 <br>PDF of instructions for use, scoring, and blank scale is not readily available. Check the paper for more details or email hriscaledatabase@gmail.com to submit this information if you are the author of this scale.
 
-# Final Scale Items (10 total):
+# Reviewed by Experts &#10003;
 
-The way the robot moved made me uncomfortable 
-<br>The speed at which the gripper picked up and released the components made me uneasy
-<br>I trusted that the robot was safe to cooperate with 
-<br>I was comfortable the robot would not hurt me 
-<br>The size of the robot did not intimidate me 
-<br>I felt safe interacting with the robot 
-<br>I knew the gripper would not drop the components 
-<br>The robot gripper did not look reliable 
-<br>The gripper seemed like it could be trusted 
-<br>I felt I could rely on the robot to do what it was supposed to do
+

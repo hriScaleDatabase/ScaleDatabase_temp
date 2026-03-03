@@ -9,11 +9,19 @@ scalename: FSQ
 
 **This is the most up-to-date version of this scale.**
 
+# Downloads
+[PAPER](https://link.springer.com/chapter/10.1007/978-3-319-02675-6_27){:target="_blank"}
+<br>Syrdal, D. S., Nomura, T., & Dautenhahn, K. (2013, October). The Frankenstein Syndrome Questionnaire–Results from a quantitative cross-cultural survey. In International conference on social robotics (pp. 270-279). Cham: Springer International Publishing.
+
 # Construct Summary
 
 The authors define the construct of "Frankenstein Syndrome" as follows:
 
 >"the act of creation, particularly innovative creation is seen as a taboo in Western cultures. In these cultures, the use of novel technologies is often seen as potentially problematic in itself, while other cultures, such as that of Japan, may have a more pragmatic view, judging innovations on their own merits. This phenomenon could manifest as an underlying factor in attitudes towards humanoid robots in a much greater extent in Western cultures than one would see in a Japanese population" (p. 3)
+
+# Final Scale Items (final # not reported):
+
+not reported in paper
 
 # Rating = 77% 
 
@@ -83,15 +91,6 @@ The authors define the construct of "Frankenstein Syndrome" as follows:
 **Comments**
 <br>A validation [study](https://researchprofiles.herts.ac.uk/en/publications/differences-on-social-acceptance-of-humanoid-robots-between-japan){:target="_blank"} was later conducted (Nomura et al., 2015), and suggested a different factor structure and number of items
 
-
-# Reviewed by Experts &#10003;
-
-# Downloads
-[PAPER](https://link.springer.com/chapter/10.1007/978-3-319-02675-6_27){:target="_blank"}
-<br>Syrdal, D. S., Nomura, T., & Dautenhahn, K. (2013, October). The Frankenstein Syndrome Questionnaire–Results from a quantitative cross-cultural survey. In International conference on social robotics (pp. 270-279). Cham: Springer International Publishing.
-
 <br>PDF of scale as well as instructions for administration and scoring are not readily available. Check the paper for more details or email hriscaledatabase@gmail.com to submit this information if you are the author of this scale.
 
-# Final Scale Items (final # not reported):
-
-not reported in paper
+# Reviewed by Experts &#10003;

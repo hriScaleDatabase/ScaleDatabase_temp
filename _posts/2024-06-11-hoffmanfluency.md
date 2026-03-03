@@ -9,11 +9,26 @@ scalename: NA
 
 **This is the most up-to-date version of this scale.**
 
+# Downloads
+[PAPER](https://ieeexplore.ieee.org/abstract/document/8678448?casa_token=wDu8TKkvAEAAAAAA:OSe-vqBxJQbKJQILtVcRXEmtl41JGwN5iHvC7d1nFSjWN0WpDqT2elhqrnvs5x_5QGcP7OCm8w){:target="_blank"}
+<br>Hoffman, G. (2019). Evaluating fluency in human–robot collaboration. IEEE Transactions on Human-Machine Systems, 49(3), 209-218.
+
 # Construct Summary
 
 The authors define the construct of fluency as follows (adding to test commit on VS codes):
 
 >"When humans collaborate on a shared activity, and especially when they are accustomed to the task and to each other, they can reach a high level of coordination, resulting in a well-synchronized meshing of their actions. Their timing is precise and efficient, they alter their plans and actions appropriately and dynamically, and this behavior emerges often without exchanging much verbal information. We denote this quality of interaction the fluency of the shared activity." (p. 209)
+
+# Final Scale Items (8 total):
+
+the human-robot team worked fluently together
+<br>the human was the most important member of the team
+<br>the robot was unintelligent
+<br>the robot was untrustworthy
+<br>the robot was uncooperative
+<br>the robot contributed to the fluency of the collaboration
+<br>the robot was committed to the success of the team
+<br>the robot had an important contribution to the success of the team
 
 # Rating = 46% 
 
@@ -83,21 +98,7 @@ The authors define the construct of fluency as follows (adding to test commit on
 **Comments**
 None
 
-# Reviewed by Experts &#10003;
-
-# Downloads
-[PAPER](https://ieeexplore.ieee.org/abstract/document/8678448?casa_token=wDu8TKkvAEAAAAAA:OSe-vqBxJQbKJQILtVcRXEmtl41JGwN5iHvC7d1nFSjWN0WpDqT2elhqrnvs5x_5QGcP7OCm8w){:target="_blank"}
-<br>Hoffman, G. (2019). Evaluating fluency in human–robot collaboration. IEEE Transactions on Human-Machine Systems, 49(3), 209-218.
-
 <br>PDF of scale as well as instructions for administration and scoring are not readily available. Check the paper for more details or email hriscaledatabase@gmail.com to submit this information if you are the author of this scale.
 
-# Final Scale Items (8 total):
+# Reviewed by Experts &#10003;
 
-the human-robot team worked fluently together
-<br>the human was the most important member of the team
-<br>the robot was unintelligent
-<br>the robot was untrustworthy
-<br>the robot was uncooperative
-<br>the robot contributed to the fluency of the collaboration
-<br>the robot was committed to the success of the team
-<br>the robot had an important contribution to the success of the team

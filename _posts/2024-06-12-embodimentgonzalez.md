@@ -9,6 +9,10 @@ scalename: Embodiment Questionnaire
 
 **NOTE: THIS IS NOT THE LATEST VERSION OF THIS SCALE. <br> We recommend using the latest version of this scale which you can find [here]({% post_url 2024-06-13-validateembodimentgonzalez %})**
 
+# Downloads
+[PAPER](https://www.frontiersin.org/articles/10.3389/frobt.2018.00074/full){:target="_blank"}
+<br>Gonzalez-Franco, M., & Peck, T. C. (2018). Avatar embodiment. towards a standardized questionnaire. Frontiers in Robotics and AI, 5, 74.
+
 # Construct Summary
 
 The authors identify the construct of avatar embodiment as consisting of 6 main factors:
@@ -19,6 +23,45 @@ The authors identify the construct of avatar embodiment as consisting of 6 main 
 >4. Location of the body. Present whenever there is a substitute body or body part that is either collocated or not collocated with the participant. Participants must feel that their body is in the same location as the virtual body in order to experience an embodiment illusion. Participants may sense an out-of-body effect, or that the location of their body has drifted toward the location of the avatar. These questions are often only asked when the avatar is not collocated with the participant. 
 >5. External appearance. Present when the self-avatar is a lookalike avatar or as control questions when there are shape, gender, race, clothing, or other visual modifications to the avatar different from the self. 
 >6. Response to external stimuli. In many occasions during the experiment there is an event that modifies or threatens the body or body parts of the self-avatar. If the participant is embodied in the self-avatar then the participant will react as if their own body is threatened. This is often measured through both questionnaire and quantitative response." (p. 3-4)
+
+# Final Scale Items (25 total):
+>∗When using the questionnaire replace [X] with “body,” “arm” or an appropriate body representation. 
+**Body ownership**
+<br>Q1. “I felt as if the virtual [x] was my [x]” (If there is more than one avatar, e.g. in a VR social interaction, use a longer version: “I felt as if the virtual [x] I saw when I looked down was my [x]” )
+<br>Q2. “It felt as if the virtual [x] I saw was someone else” 
+<br>Q3. “It seemed as if I might have more than one [x]” (If there is a mirror use Q4 instead) 
+<br>Q4. “I felt as if the virtual [x] I saw when looking in the mirror was my own [x]” 
+<br>Q5. “I felt as if the virtual [x] I saw when looking at myself in the mirror was another person” 
+
+**Agency and motor control**
+<br>Q6. “It felt like I could control the virtual [x] as if it was my own [x]” 
+<br>Q7. “The movements of the virtual [x] were caused by my movements”
+<br>Q8. “I felt as if the movements of the virtual [x] were influencing my own movements”
+<br>Q9. “I felt as if the virtual [x] was moving by itself ”
+
+**Tactile sensations** 
+<br>Q10. “It seemed as if I felt the touch of the [x] in the location where I saw the virtual [x] touched” 
+<br>Q11. “It seemed as if the touch I felt was located somewhere between my physical [x] and the virtual [x]” 
+<br>Q12. “It seemed as if the touch I felt was caused by the [x] touching the virtual [x]” 
+<br>Q13. “It seemed as if my [x] was touching the [x]” 
+
+**Location of the body** 
+<br>Q14. “I felt as if my [x] was located where I saw the virtual [x]” 
+<br>Q15. “I felt out of my body” (If the virtual body is not collocated with the participants’ body use Q16)
+<br>Q16. “I felt as if my (real) [x] were drifting toward the virtual [x] or as if the virtual [x] were drifting toward my (real) [x]” 
+
+**External appearance**
+<br>Q17. “It felt as if my (real) [x] were turning into an ‘avatar’ [x]” 
+<br>Q18. “At some point it felt as if my real [x] was starting to take on the posture or shape of the virtual [x] that I saw” 
+<br>Q19. “At some point it felt that the virtual [x] resembled my own (real) [x], in terms of shape, skin tone or other visual features.” 
+<br>Q20. “I felt like I was wearing different clothes from when I came to the laboratory” 
+
+**Response to external stimuli**
+<br>Q21. “I felt that my own [x] could be affected by [x]” 
+<br>Q22. “I felt a [x] sensation in my body when I saw [x]” 
+<br>Q23. “When [x] happened, I felt the instinct to [x]” 
+<br>Q24. “I felt as if my [x] had [x]” (If there is a threat to the body use Q25)
+<br>Q25. “I had the feeling that I might be harmed by the [x]”
 
 # Rating = 54% 
 
@@ -88,49 +131,6 @@ The authors identify the construct of avatar embodiment as consisting of 6 main 
 **Comments**
 <br>A validation [study](https://www.frontiersin.org/articles/10.3389/frvir.2020.575943/full){:target="_blank"} was later conducted (Peck & Gonzalez-Franco, 2021) and suggested 4 factors and 16 items
 
-# Reviewed by Experts &#10003;
-
-# Downloads
-[PAPER](https://www.frontiersin.org/articles/10.3389/frobt.2018.00074/full){:target="_blank"}
-<br>Gonzalez-Franco, M., & Peck, T. C. (2018). Avatar embodiment. towards a standardized questionnaire. Frontiers in Robotics and AI, 5, 74.
-
 <br>PDF of scale as well as instructions for administration and scoring are not readily available. Check the paper for more details or email hriscaledatabase@gmail.com to submit this information if you are the author of this scale.
 
-# Final Scale Items (25 total):
->∗When using the questionnaire replace [X] with “body,” “arm” or an appropriate body representation. 
-**Body ownership**
-<br>Q1. “I felt as if the virtual [x] was my [x]” (If there is more than one avatar, e.g. in a VR social interaction, use a longer version: “I felt as if the virtual [x] I saw when I looked down was my [x]” )
-<br>Q2. “It felt as if the virtual [x] I saw was someone else” 
-<br>Q3. “It seemed as if I might have more than one [x]” (If there is a mirror use Q4 instead) 
-<br>Q4. “I felt as if the virtual [x] I saw when looking in the mirror was my own [x]” 
-<br>Q5. “I felt as if the virtual [x] I saw when looking at myself in the mirror was another person” 
-
-**Agency and motor control**
-<br>Q6. “It felt like I could control the virtual [x] as if it was my own [x]” 
-<br>Q7. “The movements of the virtual [x] were caused by my movements”
-<br>Q8. “I felt as if the movements of the virtual [x] were influencing my own movements”
-<br>Q9. “I felt as if the virtual [x] was moving by itself ”
-
-**Tactile sensations** 
-<br>Q10. “It seemed as if I felt the touch of the [x] in the location where I saw the virtual [x] touched” 
-<br>Q11. “It seemed as if the touch I felt was located somewhere between my physical [x] and the virtual [x]” 
-<br>Q12. “It seemed as if the touch I felt was caused by the [x] touching the virtual [x]” 
-<br>Q13. “It seemed as if my [x] was touching the [x]” 
-
-**Location of the body** 
-<br>Q14. “I felt as if my [x] was located where I saw the virtual [x]” 
-<br>Q15. “I felt out of my body” (If the virtual body is not collocated with the participants’ body use Q16)
-<br>Q16. “I felt as if my (real) [x] were drifting toward the virtual [x] or as if the virtual [x] were drifting toward my (real) [x]” 
-
-**External appearance**
-<br>Q17. “It felt as if my (real) [x] were turning into an ‘avatar’ [x]” 
-<br>Q18. “At some point it felt as if my real [x] was starting to take on the posture or shape of the virtual [x] that I saw” 
-<br>Q19. “At some point it felt that the virtual [x] resembled my own (real) [x], in terms of shape, skin tone or other visual features.” 
-<br>Q20. “I felt like I was wearing different clothes from when I came to the laboratory” 
-
-**Response to external stimuli**
-<br>Q21. “I felt that my own [x] could be affected by [x]” 
-<br>Q22. “I felt a [x] sensation in my body when I saw [x]” 
-<br>Q23. “When [x] happened, I felt the instinct to [x]” 
-<br>Q24. “I felt as if my [x] had [x]” (If there is a threat to the body use Q25)
-<br>Q25. “I had the feeling that I might be harmed by the [x]”
+# Reviewed by Experts &#10003;

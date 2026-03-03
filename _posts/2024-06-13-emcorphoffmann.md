@@ -8,6 +8,9 @@ scalename: EmCorp Scale
 ---
 
 **This is the most up-to-date version of this scale.**
+# Downloads
+[PAPER](https://dl.acm.org/doi/abs/10.1145/3171221.3171242){:target="_blank"}
+<br>Hoffmann, L., Bock, N., & Rosenthal vd Pütten, A. M. (2018, February). The peculiarities of robot embodiment (emcorp-scale) development, validation and initial test of the embodiment and corporeality of artificial agents scale. In Proceedings of the 2018 ACM/IEEE international conference on human-robot interaction (pp. 370-378).
 
 # Construct Summary
 
@@ -17,6 +20,38 @@ A measure to assess users’ subjective perceptions of artificial entities’ ca
 >(Shared) Perception refers to perceptual capabilities such as vision and hearing that can (but must not be) shared with the human interaction partner. 
 >By Mobility we mean the capability to navigate in space, whereas Tactile Interaction refers to physical contact with humans and objects. 
 >The core feature that is directly related to the physical embodiment of robots is Corporeality, i.e., the realism and material existence of the entity in the real world. (p. 372)
+
+# Final Scale Items (20 items):
+
+Items are rated on a 6-point Likert scale from 1 (strongly disagree) to 6 (strongly agree)
+
+**Corporeality**
+<br>is physically embodied
+<br>is existent in the real world
+<br>is real
+
+**(Nonverbal) Expressiveness**
+<br>is unrestricted in its actions
+<br>is unrestricted in its movements
+<br>is unrestricted in its facial expressions
+<br>is unrestricted in its gestures
+
+**Tactline Interaction and Mobility**
+<br>is able to autonomously navigate in space
+<br>is able to move towards me
+<br>is able to touch objects
+<br>is able to carry objects
+<br>is able to perform designated actions like brewing coffee or vacuuming
+<br>is able to move in space
+
+**(Shared) Perception and Interpretation**
+<br>is able to react to the same environmental stimuli as I do
+<br>is able to immediately react to my actions
+<br>is able to recognize emotions
+<br>is able to interpret (my) behaviors
+<br>is able to perceive what I perceive
+<br>is able to understand my behavior
+<br>is able to to perceive my behavior
 
 # Rating = 77% 
 
@@ -86,42 +121,7 @@ A measure to assess users’ subjective perceptions of artificial entities’ ca
 **Comments**
 <br>Full set of items are reportedly listed in the appendix but no link to appendix was provided in the paper. Administered English and German versions simultaneously and data were analyzed on the combined dataset.
 
-# Reviewed by Experts &#10003;
-
-# Downloads
-[PAPER](https://dl.acm.org/doi/abs/10.1145/3171221.3171242){:target="_blank"}
-<br>Hoffmann, L., Bock, N., & Rosenthal vd Pütten, A. M. (2018, February). The peculiarities of robot embodiment (emcorp-scale) development, validation and initial test of the embodiment and corporeality of artificial agents scale. In Proceedings of the 2018 ACM/IEEE international conference on human-robot interaction (pp. 370-378).
-
 <br>PDF of scale as well as instructions for administration and scoring are not readily available. Check the paper for more details or email hriscaledatabase@gmail.com to submit this information if you are the author of this scale.
 
-# Final Scale Items (20 items):
+# Reviewed by Experts &#10003;
 
-Items are rated on a 6-point Likert scale from 1 (strongly disagree) to 6 (strongly agree)
-
-**Corporeality**
-<br>is physically embodied
-<br>is existent in the real world
-<br>is real
-
-**(Nonverbal) Expressiveness**
-<br>is unrestricted in its actions
-<br>is unrestricted in its movements
-<br>is unrestricted in its facial expressions
-<br>is unrestricted in its gestures
-
-**Tactline Interaction and Mobility**
-<br>is able to autonomously navigate in space
-<br>is able to move towards me
-<br>is able to touch objects
-<br>is able to carry objects
-<br>is able to perform designated actions like brewing coffee or vacuuming
-<br>is able to move in space
-
-**(Shared) Perception and Interpretation**
-<br>is able to react to the same environmental stimuli as I do
-<br>is able to immediately react to my actions
-<br>is able to recognize emotions
-<br>is able to interpret (my) behaviors
-<br>is able to perceive what I perceive
-<br>is able to understand my behavior
-<br>is able to to perceive my behavior

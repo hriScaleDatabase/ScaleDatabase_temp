@@ -9,11 +9,19 @@ scalename: NA
 
 **This is the most up-to-date version of this scale.**
 
+# Downloads
+[PAPER](https://dl.acm.org/doi/abs/10.1145/2157689.2157698){:target="_blank"}
+<br>Kamide, H., Mae, Y., Kawabe, K., Shigemi, S., Hirose, M., & Arai, T. (2012, March). New measurement of psychological safety for humanoid. In Proceedings of the seventh annual ACM/IEEE international conference on Human-Robot Interaction (pp. 49-56).
+
 # Construct Summary
 
 The authors report there are six fators of psychological safety:
 
 >"performance, humanness, acceptance, harmlesness, toughness, and agency" (p. 49)
+
+# Final Scale Items (33 items):
+
+Full final items not listed verbatim
 
 # Rating = 54% 
 
@@ -83,14 +91,7 @@ The authors report there are six fators of psychological safety:
 **Comments**
 <br>limitation: only for humanoid robots
 
-# Reviewed by Experts &#10003;
-
-# Downloads
-[PAPER](https://dl.acm.org/doi/abs/10.1145/2157689.2157698){:target="_blank"}
-<br>Kamide, H., Mae, Y., Kawabe, K., Shigemi, S., Hirose, M., & Arai, T. (2012, March). New measurement of psychological safety for humanoid. In Proceedings of the seventh annual ACM/IEEE international conference on Human-Robot Interaction (pp. 49-56).
-
 <br>PDF of scale as well as instructions for administration and scoring are not readily available. Check the paper for more details or email hriscaledatabase@gmail.com to submit this information if you are the author of this scale.
 
-# Final Scale Items (33 items):
+# Reviewed by Experts &#10003;
 
-Full final items not listed verbatim

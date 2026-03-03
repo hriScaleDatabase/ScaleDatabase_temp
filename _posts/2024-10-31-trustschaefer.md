@@ -7,10 +7,64 @@ pubauthor: schaefer
 scalename: Trust Perception Scale-HRI
 ---
 
+# Downloads
+[PAPER](https://link.springer.com/chapter/10.1007/978-1-4899-7668-0_10){:target="_blank"}
+<br>Schaefer, K. E. (2016). Measuring trust in human robot interactions: Development of the “trust perception scale-HRI”. In Robust intelligence and trust in autonomous systems (pp. 191-218). Boston, MA: Springer US.
+
+<br>PDF of scale as well as instructions for administration and scoring are included in the main text of the paper (see link above). Check the paper for more details.
 
 # Construct Summary
 
 The author did not provide a definition of trust in this paper.
+
+# Final Scale Items (40 or 14*):
+
+Items with a * represent short version of the scale (author reports 14 total but only 11 identified in paper)
+
+<br>*What % of the time will this robot be...* 
+<br>Considered part of the team
+<br>Responsible
+<br>Supportive
+<br>Incompetent
+<br>Dependable*
+<br>Friendly
+<br>Reliable*
+<br>Pleasant
+<br>Unresponsive*
+<br>Autonomous
+<br>Predictable*
+<br>Conscious
+<br>Lifelike
+<br>A good teammate
+<br>Led astray by unexpected changes in the environment
+
+<br>*What % of the time will this robot...*
+<br>Act consistently*
+<br>Protect people
+<br>Act as part of the team
+<br>Function successfully
+<br>Malfunction
+<br>Clearly communicate
+<br>Require frequent maintenance
+<br>Openly communicate
+<br>Have errors
+<br>Perform a task better than a novice human user
+<br>Know the difference between friend and foe
+<br>Provide feedback*
+<br>Possess adequate decision-making capability
+<br>Warn people of potential risks in the environment
+<br>Meet the needs of the mission/task*
+<br>Provide appropriate information*
+<br>Communicate with people*
+<br>Work best with a team
+<br>Keep classified information secure
+<br>Perform exactly as instructed*
+<br>Make sensible decisions
+<br>Work in close proximity with people
+<br>Tell the truth
+<br>Perform many functions at one time
+<br>Follow directions*
+
 
 # Rating = 31%
 
@@ -83,56 +137,3 @@ Short version of the scale is reported to by 14 items but only 11 are identified
 # Reviewed by Experts &#10003;
 
 
-# Downloads
-[PAPER](https://link.springer.com/chapter/10.1007/978-1-4899-7668-0_10){:target="_blank"}
-<br>Schaefer, K. E. (2016). Measuring trust in human robot interactions: Development of the “trust perception scale-HRI”. In Robust intelligence and trust in autonomous systems (pp. 191-218). Boston, MA: Springer US.
-
-<br>PDF of scale as well as instructions for administration and scoring are included in the main text of the paper (see link above). Check the paper for more details.
-
-# Final Scale Items (40 or 14*):
-
-Items with a * represent short version of the scale (author reports 14 total but only 11 identified in paper)
-
-<br>*What % of the time will this robot be...* 
-<br>Considered part of the team
-<br>Responsible
-<br>Supportive
-<br>Incompetent
-<br>Dependable*
-<br>Friendly
-<br>Reliable*
-<br>Pleasant
-<br>Unresponsive*
-<br>Autonomous
-<br>Predictable*
-<br>Conscious
-<br>Lifelike
-<br>A good teammate
-<br>Led astray by unexpected changes in the environment
-
-<br>*What % of the time will this robot...*
-<br>Act consistently*
-<br>Protect people
-<br>Act as part of the team
-<br>Function successfully
-<br>Malfunction
-<br>Clearly communicate
-<br>Require frequent maintenance
-<br>Openly communicate
-<br>Have errors
-<br>Perform a task better than a novice human user
-<br>Know the difference between friend and foe
-<br>Provide feedback*
-<br>Possess adequate decision-making capability
-<br>Warn people of potential risks in the environment
-<br>Meet the needs of the mission/task*
-<br>Provide appropriate information*
-<br>Communicate with people*
-<br>Work best with a team
-<br>Keep classified information secure
-<br>Perform exactly as instructed*
-<br>Make sensible decisions
-<br>Work in close proximity with people
-<br>Tell the truth
-<br>Perform many functions at one time
-<br>Follow directions*
