@@ -22,8 +22,8 @@ Stage summary: Item development refers to the process by which the items of the 
 1. *Is the construct that the scale attempting to measure defined clearly somewhere in the paper?*
 The reader should look for a clear and precise definition of the construct. Scale developers can develop construct definitions by using a theory or data-driven approach depending on whether an agreed-upon theoretical framework of the construct exists or does not, respectively.
 
-2. *Is the item generation process discussed (e.g., via a literature review, the Delphi method, or crowd-sourcing)?*
-The reader should look for any information at all (e.g., description of a procedure, pilot study reports, preliminary analyses) about how the items were generated (e.g., via literature review, Delphi method, or crowd-sourcing)
+2. *Is the item generation process discussed (e.g., via a literature review, the Delphi method, or crowdsourcing)?*
+The reader should look for any information at all (e.g., description of a procedure, pilot study reports, preliminary analyses) about how the items were generated (e.g., via literature review, Delphi method, or crowdsourcing)
 
 3. *Does the final version of the items capture the construct as it has been defined by the authors?*
 The reader should ensure that the items are related to the reported definition of the construct and also that they are clear and unambiguous.
@@ -37,14 +37,14 @@ The reader should ensure that the developers of the scale made the full initial 
 5. *Does the test sample size meet the 10:1 minimum criteria?*
 The reader should ensure that sample sizes for scale development studies follow the 10:1 (people to initial number of items) rule, though more participants is considered a positive feature. This rule pertains to the initial set of items, not the final version of the scale.
 
-6. *Did the scale developers perform an ECA, PCA, Rasch analysis, or similar test to determine the item to factor relationship?*
+6. *Did the scale developers perform an Exploratory Factor Analysis (EFA), Principal Components Analysis (PCA), Rasch analysis, or similar test to determine the item to factor relationship?*
 The reader should determine whether the scale developers reported using at least one scale development method (such as EFA, PCA, or Rasch) in their paper.
 
-7. *Did the scale developers describe how their determined the number of factors?*
+7. *Did the scale developers describe how they determined the number of factors?*
 The reader should verify that the scale developers reported how they determined or verified the number of factors that exist within the construct.
 
-8. *Did the scale developers provide factor loadings (EFA/CFA) or item fits (Rasch) of all items?*
-The reader should look for quantitative values that indicate how the items in the scale relate to the construct of interest. These values can be in the form of factor loadings (if the scale development process used an EFA or CFA), communalities, or in the form of infit/outfit values (if used Rasch analysis).
+8. *Did the scale developers provide factor loadings (EFA or PCA) or item fits (Rasch) of all items?*
+The reader should look for quantitative values that indicate how the items in the scale relate to the construct of interest. These values can be in the form of factor loadings (if the scale development process used an EFA or PCA), communalities, or in the form of infit/outfit values (if used Rasch analysis).
 
 9. *Is there a description of the item removal process (e.g., using infit/outfit, factor loading minimum values, or cross-loading values)?*
 The reader should determine whether items were removed from the final version of the scale. If items were removed, the reason (e.g., lack of fit or redundancy) should be explicitly mentioned; quantitative criteria should also be reported when possible.
@@ -55,8 +55,8 @@ The reader should look for the final version of the scale in the main text of th
 # Stage 3: Scale evaluation
 Stage summary: Scale evaluation occurs after the original scale is created and attempts to answer the following **three** questions.
 
-11. *Did the scale developers include a factor structure test (e.g., second EFA, CFA, DIF, test of unidimensionality if using Rasch, or similar)?*
-The reader should check to see if there is a test for factor structure. A confirmatory factor analysis on a new sample or a Differential Item Function (Rasch) are common approaches.
+11. *Did the scale developers include a factor structure test (e.g., additional EFA, Confirmatory Factor Analysis (CFA), Differential Item Functioning (DIF), test of unidimensionality if using Rasch, or similar)?*
+The reader should check to see if there is a test for factor structure. A CFA on a new sample or a DIF (Rasch) are common approaches.
 
 12. *Was a measure of reliability (e.g., Cronbach's &alpha; or McDonald's ω<sub>t</sub> or ω<sub>h</sub>, Tarkkhonen's Rho) reported?*
 The reader should look for some test of the scale's reliability in the paper. This can be completed using metrics such as McDonald's ω<sub>t</sub> or ω<sub>h</sub> in addition to Cronbach's coefficient &alpha;. A reasonable minimum threshold for reliability is &ge; 0.80.
