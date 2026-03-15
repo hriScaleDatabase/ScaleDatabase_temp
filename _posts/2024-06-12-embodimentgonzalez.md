@@ -25,7 +25,8 @@ The authors identify the construct of avatar embodiment as consisting of 6 main 
 >6. Response to external stimuli. In many occasions during the experiment there is an event that modifies or threatens the body or body parts of the self-avatar. If the participant is embodied in the self-avatar then the participant will react as if their own body is threatened. This is often measured through both questionnaire and quantitative response." (p. 3-4)
 
 # Final Scale Items (25 total):
->∗When using the questionnaire replace [X] with “body,” “arm” or an appropriate body representation. 
+When using the questionnaire replace [X] with “body,” “arm” or an appropriate body representation. 
+
 **Body ownership**
 <br>Q1. “I felt as if the virtual [x] was my [x]” (If there is more than one avatar, e.g. in a VR social interaction, use a longer version: “I felt as if the virtual [x] I saw when I looked down was my [x]” )
 <br>Q2. “It felt as if the virtual [x] I saw was someone else” 

@@ -53,9 +53,10 @@ The operator is dependable.
 <br>Task feedback from the overall system is reliable.
 <br>The user interface is reliable.
 <br>The sensor data is dependable.
-<br>The navigation capabilies are consistent.
-<br>The signal/bandiwdth is dependable.
-<br>The end effectors are reliable. The remote information processing is timely.
+<br>The navigation capabilities are consistent.
+<br>The signal/bandwidth is dependable.
+<br>The end effectors are reliable.
+<br>The remote information processing is timely.
 <br>The level of automation is reliable.
 <br>The type of control is reliable.
 

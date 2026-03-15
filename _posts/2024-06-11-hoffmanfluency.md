@@ -24,7 +24,7 @@ The authors define the construct of fluency as follows (adding to test commit on
 the human-robot team worked fluently together
 <br>the human was the most important member of the team
 <br>the robot was unintelligent
-<br>the robot was untrustworthy
+<br>the robot was trustworthy
 <br>the robot was uncooperative
 <br>the robot contributed to the fluency of the collaboration
 <br>the robot was committed to the success of the team

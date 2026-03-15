@@ -9,8 +9,8 @@ scalename: Embodiment Questionnaire - Validated
 
 **This is the most up-to-date version of this scale.**
 # Downloads
-[PAPER](https://www.frontiersin.org/articles/10.3389/frobt.2018.00074/full){:target="_blank"}
-<br>Gonzalez-Franco, M., & Peck, T. C. (2018). Avatar embodiment. towards a standardized questionnaire. Frontiers in Robotics and AI, 5, 74.
+[PAPER](https://www.frontiersin.org/journals/virtual-reality/articles/10.3389/frvir.2020.575943/full){:target="_blank"}
+<br>Peck, T. C., & Gonzalez-Franco, M. (2021). Avatar embodiment. a standardized questionnaire. Frontiers in Virtual Reality, 1, 575943.
 
 # Construct Summary
 
