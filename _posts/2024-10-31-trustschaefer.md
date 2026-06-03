@@ -19,6 +19,10 @@ The author did not provide a definition of trust in this paper.
 
 # Final Scale Items (40 or 14*):
 
+Scale items are not publicly available at this time. We are reaching out to the authors to obtain appropriate permissions to share scale items. If you are the author of this scale and would like to provide such permission, please email us at <hriscaledatabase@gmail.com>
+
+<!--
+
 Items with a * represent short version of the scale (author reports 14 total but only 11 identified in paper)
 
 <br>*What % of the time will this robot be...* 
@@ -64,7 +68,7 @@ Items with a * represent short version of the scale (author reports 14 total but
 <br>Tell the truth
 <br>Perform many functions at one time
 <br>Follow directions*
-
+-->
 
 # Rating = 31%
 

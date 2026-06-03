@@ -22,6 +22,9 @@ The authors define the construct of trust as follows:
 
 # Final Scale Items (36 total):
 
+Scale items are not publicly available at this time. We are reaching out to the authors to obtain appropriate permissions to share scale items. If you are the author of this scale and would like to provide such permission, please email us at <hriscaledatabase@gmail.com>
+
+<!--
 The operator is dependable.
 <br>The human team member is dependable.
 <br>The supervisor is dependable.
@@ -59,7 +62,7 @@ The operator is dependable.
 <br>The remote information processing is timely.
 <br>The level of automation is reliable.
 <br>The type of control is reliable.
-
+-->
 # Rating = 77% 
 
 <table>

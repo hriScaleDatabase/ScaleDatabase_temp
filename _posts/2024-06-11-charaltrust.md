@@ -19,6 +19,10 @@ The authors aim to measure trust specifically in the context of industrial human
 
 # Final Scale Items (10 total):
 
+Scale items are not publicly available at this time. We are reaching out to the authors to obtain appropriate permissions to share scale items. If you are the author of this scale and would like to provide such permission, please email us at <hriscaledatabase@gmail.com>
+
+<!--
+
 The way the robot moved made me uncomfortable 
 <br>The speed at which the gripper picked up and released the components made me uneasy
 <br>I trusted that the robot was safe to cooperate with 
@@ -29,7 +33,7 @@ The way the robot moved made me uncomfortable
 <br>The robot gripper did not look reliable 
 <br>The gripper seemed like it could be trusted 
 <br>I felt I could rely on the robot to do what it was supposed to do
-
+-->
 # Rating = 85% 
 
 <table>

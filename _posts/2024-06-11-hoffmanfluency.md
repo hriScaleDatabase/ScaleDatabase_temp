@@ -21,6 +21,10 @@ The authors define the construct of fluency as follows (adding to test commit on
 
 # Final Scale Items (8 total):
 
+Scale items are not publicly available at this time. We are reaching out to the authors to obtain appropriate permissions to share scale items. If you are the author of this scale and would like to provide such permission, please email us at <hriscaledatabase@gmail.com>
+
+<!--
+
 the human-robot team worked fluently together
 <br>the human was the most important member of the team
 <br>the robot was unintelligent
@@ -29,7 +33,7 @@ the human-robot team worked fluently together
 <br>the robot contributed to the fluency of the collaboration
 <br>the robot was committed to the success of the team
 <br>the robot had an important contribution to the success of the team
-
+-->
 # Rating = 46% 
 
 <table>

@@ -23,6 +23,10 @@ A measure to assess users’ subjective perceptions of artificial entities’ ca
 
 # Final Scale Items (20 items):
 
+Scale items are not publicly available at this time. We are reaching out to the authors to obtain appropriate permissions to share scale items. If you are the author of this scale and would like to provide such permission, please email us at <hriscaledatabase@gmail.com>
+
+<!--
+
 Items are rated on a 6-point Likert scale from 1 (strongly disagree) to 6 (strongly agree)
 
 **Corporeality**
@@ -52,7 +56,7 @@ Items are rated on a 6-point Likert scale from 1 (strongly disagree) to 6 (stron
 <br>is able to perceive what I perceive
 <br>is able to understand my behavior
 <br>is able to to perceive my behavior
-
+-->
 # Rating = 77% 
 
 <table>
