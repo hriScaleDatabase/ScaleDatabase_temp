@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Database test
+title: Database
 permalink: /Database/
 ---
 <select id="jumpToDropdown">
