@@ -104,6 +104,7 @@ search by construct, author, scale name, year of publication-->
 * The comment section can be used to figure out specific details about the scale.
 * Don’t just rely on the guideline rating -- read the papers!
 * Please note that we are not the authors/owners of the scales below. If you have specific questions regarding details of the scales, please contact the first author of the paper directly!
+* Cite the database in your research! Saad, L., Roesler, E., Phillips, E., & Trafton, J. G. (2026). The human-robot interaction scale database. Frontiers in Robotics and AI, 13, 1846413. 
 
 ## Scales by Category
 The values to the left of the scale title indicate the guideline rating (out of 100 max) that the scale received.

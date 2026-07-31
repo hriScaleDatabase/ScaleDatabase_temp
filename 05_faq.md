@@ -29,4 +29,9 @@ permalink: /faq/
   <p>That means we have not reviewed and rated it yet. Please submit it for review by emailing us at <a href="mailto:HRIscaleDatabase@gmail.com">HRIscaleDatabase@gmail.com</a> with "Scale Submission for Review" as the title.</p>
 </details>
 
+<details>
+  <summary style="font-size: 30px;">How do I cite the database or the guideline or read the original papers?</summary>
+  <p>Cite the database in your research: Saad, L., Roesler, E., Phillips, E., & Trafton, J. G. (2026). The human-robot interaction scale database. Frontiers in Robotics and AI, 13, 1846413. [Read the paper](https://www.frontiersin.org/journals/robotics-and-ai/articles/10.3389/frobt.2026.1846413/full). Cite the guideline: Saad, L., Roesler, E., Phillips, E., & Trafton, J. G. (2026). Choosing the “perfect” scale: a primer to evaluate existing scales in HRI. ACM Transactions on Human-Robot Interaction, 15(2), 1-29. [Download the PDF](https://dl.acm.org/doi/pdf/10.1145/3772066)</p>
+</details>
+
 
